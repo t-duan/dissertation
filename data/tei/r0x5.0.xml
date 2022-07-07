@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0x5.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Uralte Reichstagsfeierlichkeit, oder Kampf der Blinden mit dem</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>352-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg391.r0x6.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Uralte Reichstagsfeierlichkeit, oder Kampf der Blinden mit dem">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Uralte Reichstagsfeierlichkeit, oder Kampf der Blinden mit dem</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B217-8</idno><idno type="TextGridUri">textgrid:r0x6.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>352-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg391.3.r0x6.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg391.3.1.r0x6.0">Uralte Reichstagsfeierlichkeit, oder Kampf der Blinden mit dem Schweine</head>
+
+                              <p xml:id="tg391.3.2.r0x6.0">Als <hi rend="italic" xml:id="tg391.3.2.1.r0x6.0">Kaiser Maximilian der Erste</hi> zu Augsburg, um die Stände zu einem Türkenkriege zu bewegen, einen Reichstag hielt, ergötzten sich Fürsten und Adel mit mancherlei ritterlichen Spielen. Aber eine eigene Belustigung für den Kaiser hatte sich <hi rend="italic" xml:id="tg391.3.2.2.r0x6.0">Kunz von der Rosen</hi>, Maximilians Hofnarr sowohl als Obrist, ausgedacht. Auf dem Weinmarkt nämlich, in der Mitte eines von starken Schranken eingeschlossenen Platzes, ward ein Pfahl befestigt; an dem Pfahl aber, vermittelst eines langen Stricks, ein fettes Schwein gebunden. Zwölf Blinde, arme Leute, mit einem Prügel bewaffnet, eine Pickelhaube auf, und von Kopf zu Fuß in altes rostiges Eisen gesteckt, traten nun in die Schranken, um gegen das Schwein zu kämpfen; denn Kunz von der Rosen hatte versprochen, daß demjenigen das Schwein gehören solle, der es erlegen würde. Drauf, nachdem die Blinden sich in einen Kreis gestellt, geht, auf einen Trompetenstoß, der Angriff an. Die Blinden tappten auf den Punkt zu, wo die Sau auf etwas Stroh lag und grunzte. Jetzt empfing diese einen Streich und fing an zu schreien und fuhr dabei einem oder zwei Blinden zwischen die Füße und warf die Blinden um. Die übrigen, auf der Seite stehenden, welche die Sau grunzen und schreien hörten, eilten auch hinzu, schlugen tapfer darauf los, und trafen ebenso oft einen Mitkämpfer, als die Sau. Der Mitkämpfer schlug auf den Angreifer, dem er nichts getan hatte, ärgerlich zurück; und endlich schlug gar ein<pb n="352" xml:id="tg391.3.2.3.r0x6.0"/>
+ dritter, der von ihrem Hader nichts wußte, indem er meinte, sie schlügen auf das Schwein, auf beide los. Zuweilen waren die Blinden alle mit ihren Prügeln aneinander und arbeiteten so grimmig auf die Pickelhauben der Mitkämpfer los, daß es klang, als wären Kesselschmiede und Pfannenflicker in Eisenhütten und Werkstätten geschäftig. Die Sau, welche den Vorteil hatte, gut zu sehen und den Streichen ausweichen zu können, fing indessen an, zu gröllen. Auf dies Gegröll spitzen die Blinden die Ohren; sie verlassen einander und gehen, mit ihren Prügeln, auf das Schwein zu. Aber dies hat sich indessen schon wieder einen andern Platz gesucht; und die Blinden stoßen aneinander, sie fallen über das Seil, woran das Schwein festgebunden ist, sie berühren die Schranke, und führen, weil sie glauben, das Schwein getroffen zu haben, einen ungeheuren Schlag darauf. Endlich, nach vielen Stunden vergeblichen Suchens, gelingt es einem; er trifft das Schwein mit dem Prügel auf die Schnauze; es fällt – und ein unendliches Jubelgeschrei erhebt sich. Er wird zum Sieger ausgerufen, das Schwein ihm, vom Kampfherold zuerkannt; und blutrünstig und unterlaufen, wie sie sein mögen, setzen sie sich, samt und sonders, an einem herrlichen Gastmahl nieder, das die Feierlichkeit beschließt. –</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

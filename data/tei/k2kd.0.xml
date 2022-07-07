@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:k2kd.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Märchen</title><title>Arnim, Bettina von</title><title>[Abdalas Leuchter]</title><author>Arnim, Bettina von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0002-0706-3</idno><idno type="textgrid">textgrid:k2kb.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden als Eintragung in das Stammbuch von Johann Nepomuk Ringseis. Erstdruck in: Emilie Ringseis, Erinnerung des Dr. Johann Nepomuk von Ringseis, 1. Band, Regensburg und Amberg (Habbel) 1886.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Märchen der Bettine, Armgart und Gisela von Arnim, herausgegeben von Gustav Konrad, Frechen: Bartmann, 1965.</title><author key="pnd:118504185">Arnim, Bettina von</author></titleStmt><extent>13-</extent><publicationStmt><date when-iso="1965"/><pubPlace>Frechen</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg20.k2kc.0" n="/Literatur/M/Arnim, Bettina von/Märchen/[Abdalas Leuchter]">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>[Abdalas Leuchter]</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-0707-1</idno><idno type="TextGridUri">textgrid:k2kc.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Entstanden als Eintragung in das Stammbuch von Johann Nepomuk Ringseis. Erstdruck in: Emilie Ringseis, Erinnerung des Dr. Johann Nepomuk von Ringseis, 1. Band, Regensburg und Amberg (Habbel) 1886.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Märchen der Bettine, Armgart und Gisela von Arnim, herausgegeben von Gustav Konrad, Frechen: Bartmann, 1965.</title>
+                  <author key="pnd:118504185">Arnim, Bettina von</author>
+               </titleStmt>
+               <extent>13-</extent>
+               <publicationStmt>
+                  <date when="1965"/>
+                  <pubPlace>Frechen</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1785" notAfter="1859"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+            <text>
+               <body>
+                     
+                        
+                     
+                     
+                     
+                     <div type="text" xml:id="tg20.3.k2kc.0">
+
+
+
+                        <div type="h3">
+                           <head type="h3" xml:id="tg20.3.1.k2kc.0">Bettina von Arnim</head>
+
+
+                           <head type="h2" xml:id="tg20.3.2.k2kc.0">[Abdalas Leuchter]</head>
+
+
+                           <p xml:id="tg20.3.3.k2kc.0">Abdala führte den schuldlosen Knaben zur Höhle. Fürchte dich nicht, bald wird dein dunkler Weg durch irdische Schätze erleuchtet. Haufen von Gold, Juwelen, Perlen, Karfunkel, alles sei dein, nur den prunklosen Leuchter, rings Eisen, in der Mitte die Kerze, bring mir zum Dank. Das Kind eilt gehorsam hinab, die Schätze wollen es blenden, doch erst greift es dankbarlich nach dem unscheinbaren Leuchter, den es vom Rost zu reinigen mit dem Zipfel des Rockes polieret; und sieh: Der geriebene Magnet zieht herbei die Geister, die hinfort ihm dienen, und in dem Schutze dieser geht es den Pfad des Lebens bergan, allen Heil bringend, die ihm vertrauen; aber Abdala, dem Heiden, ward durch Gottes Verhängnis und durch die Frommheit des Kindes die Kraft, die er listig wollt stehlen und zu bösem Zauber gebrauchen, entwendet und in unschuldigen Händen ein Segen der Menschheit.</p>
+                           <pb n="13" xml:id="tg20.3.4.k2kc.0"/>
+                           <pb type="start" n="15" xml:id="tg20.3.5.k2kc.0"/>
+                        </div>
+                     </div>
+                  </body>
+            </text>
+         </TEI></teiCorpus>

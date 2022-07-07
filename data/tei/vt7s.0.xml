@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vt7s.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Erzählungen</title><title>Storm, Theodor</title><title>Marthe und ihre Uhr</title><author>Storm, Theodor</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-1C03-A</idno><idno type="textgrid">textgrid:vt1j.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstdruck im »Volksbuch für das Jahr 1848 für Schleswig, Holstein und Lauenburg.« Hrsg. Von Karl Leonhard Biernatzki, Altona (Verlag der Expedition des Altonaer Mercur's) [1848], S. 54–59.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title><author key="pnd:118618725">Storm, Theodor</author></titleStmt><extent>477-</extent><publicationStmt><date when-iso="1967"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg198.vt7r.0" n="/Literatur/M/Storm, Theodor/Erzählungen/Marthe und ihre Uhr">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Marthe und ihre Uhr</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-1CB7-3</idno><idno type="TextGridUri">textgrid:vt7r.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                              Erstdruck im »Volksbuch für das Jahr 1848 für Schleswig, Holstein und Lauenburg.« Hrsg. Von Karl Leonhard Biernatzki, Altona (Verlag der Expedition des Altonaer Mercur's) [1848], S. 54–59.
+                           </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title>
+                  <author key="pnd:118618725">Storm, Theodor</author>
+               </titleStmt>
+               <extent>477-</extent>
+               <publicationStmt>
+                  <date when="1967"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1817" notAfter="1888"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+            <text>
+               <body>
+                     
+                        
+                     
+                     
+                     
+                     <div type="text" xml:id="tg198.3.vt7r.0">
+                        <milestone unit="sigel" n="Storm-SW1 Bd. 1" xml:id="tg198.3.1.vt7r.0"/>
+                        
+
+
+
+                        <div type="h3">
+                           <head type="h3" xml:id="tg198.3.3.vt7r.0">Theodor Storm</head>
+
+
+                           <head type="h2" xml:id="tg198.3.4.vt7r.0">Marthe und ihre Uhr</head>
+
+                           
+
+                           <p xml:id="tg198.3.6.vt7r.0">
+                              <pb type="start" n="477" xml:id="tg198.3.6.1.vt7r.0"/>
+Während der letzten Jahre meines Schulbesuchs wohnte ich in einem kleinen Bürgerhause der Stadt, worin aber von Vater, Mutter und vielen Geschwistern nur eine alternde unverheiratete Tochter zurückgeblieben war. Die Eltern und zwei Brüder waren gestorben, die Schwestern bis auf die jüngste, welche einen Arzt am selbigen Ort geheiratet hatte, ihren Männern in entfernte Gegenden gefolgt. So blieb denn Marthe allein in ihrem elterlichen Hause, worin sie sich durch das Vermieten des früheren Familienzimmers und mit Hülfe einer kleinen Rente spärlich durchs Leben brachte. Doch kümmerte es sie wenig, daß sie nur sonntags ihren Mittagstisch decken konnte; denn ihre Ansprüche an das äußere Leben waren fast keine; eine Folge der strengen und sparsamen Erziehung, welche der Vater sowohl aus Grundsatz als auch in Rücksicht seiner beschränkten bürgerlichen Verhältnisse allen seinen Kindern gegeben hatte. Wenn aber Marthen in ihrer Jugend nur die gewöhnliche Schulbildung zuteil geworden war, so hatte das Nachdenken ihrer späteren einsamen Stunden, vereinigt mit einem behenden Verstande und dem sittlichen Ernst ihres Charakters, sie doch zu der Zeit, in welcher ich sie kennenlernte, auf eine für Frauen, namentlich des Bürgerstandes, ungewöhnlich hohe Bildungsstufe gehoben. Freilich sprach sie nicht immer grammatisch richtig, obgleich sie viel und mit Aufmerksamkeit las, am liebsten geschichtlichen oder poetischen Inhalts; aber sie wußte sich dafür meistens über das Gelesene ein richtiges Urteil zu bilden und, was so wenigen gelingt, selbständig das Gute vom Schlechten <pb n="477" xml:id="tg198.3.6.2.vt7r.0"/>
+zu unterscheiden. Mörikes »Maler Nolten«, welcher damals erschien, machte großen Eindruck auf sie, so daß sie ihn immer wieder las; erst das Ganze, dann diese oder jene Partie, wie sie ihr eben zusagte. Die Gestalten des Dichters wurden für sie selbstbestimmende lebende Wesen, deren Handlungen nicht mehr an die Notwendigkeit des dichterischen Organismus gebunden waren; und sie konnte stundenlang darüber nachsinnen, auf welche Weise das hereinbrechende Verhängnis von so vielen geliebten Menschen dennoch hätte abgewandt werden können.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.7.vt7r.0">Die Langeweile drückte Marthen in ihrer Einsamkeit nicht, wohl aber zuweilen ein Gefühl der Zwecklosigkeit ihres Lebens nach außen hin; sie bedurfte jemandes, für den sie hätte arbeiten und sorgen können. Bei dem Mangel näher Befreundeter kam dieser löbliche Trieb ihren jeweiligen Mietern zugute, und auch ich habe manche Freundlichkeit und Aufmerksamkeit von ihrer Hand erfahren. – An Blumen hatte sie eine große Freude, und es schien mir ein Zeichen ihres anspruchslosen und resignierten Sinnes, daß sie unter ihnen die weißen und von diesen wieder die einfachen am liebsten hatte. Es war immer ihr erster Festtag im Jahre, wenn ihr die Kinder der Schwester aus deren Garten die ersten Schneeglöckchen und Märzblumen brachten; dann wurde ein kleines Porzellankörbchen aus dem Schrank herabgenommen, und die Blumen zierten unter ihrer sorgsamen Pflege wochenlang die kleine Kammer.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.8.vt7r.0">Da Marthe seit dem Tode ihrer Eltern wenig Menschen um sich sah und namentlich die langen Winterabende fast immer allein zubrachte, so lieh die regsame und gestaltende Phantasie, welche ihr ganz besonders eigen war, den Dingen um sie her eine Art von Leben und Bewußtsein. Sie borgte Teilchen ihrer Seele aus an die alten Möbeln ihrer Kammer, und die alten Möbeln erhielten so die Fähigkeit, sich mit ihr zu unterhalten; meistens freilich war diese Unterhaltung eine stumme, aber sie war dafür desto inniger und ohne Mißverständnis. Ihr Spinnrad, ihr braungeschnitzter Lehnstuhl <pb n="478" xml:id="tg198.3.8.1.vt7r.0"/>
+waren gar sonderbare Dinge, die oft die eigentümlichsten Grillen hatten, vorzüglich war dies aber der Fall mit einer altmodischen Stutzuhr, welche ihr verstorbener Vater vor über funfzig Jahren, auch damals schon als ein uraltes Stück, auf dem Trödelmarkt zu Amsterdam gekauft hatte. Das Ding sah freilich seltsam genug aus: zwei Meerweiber, aus Blech geschnitten und dann übermalt, lehnten zu jeder Seite ihr langhaariges Antlitz an das vergilbte Zifferblatt; die schuppigen Fischleiber, welche von einstiger Vergoldung zeugten, umschlossen dasselbe nach unten zu; die Weiser schienen dem Schwanze eines Skorpions nachgebildet zu sein. Vermutlich war das Räderwerk durch langen Gebrauch verschlissen; denn der Perpendikelschlag war hart und ungleich, und die Gewichte schossen zuweilen mehrere Zoll mit einem Mal hinunter. –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.9.vt7r.0">Diese Uhr war die beredteste Gesellschaft ihrer Besitzerin; sie mischte sich aber auch in alle ihre Gedanken. Wenn Marthe in ein Hinbrüten über ihre Einsamkeit verfallen wollte, dann ging der Perpendikel tick, tack! tick, tack! immer härter, immer eindringlicher; er ließ ihr keine Ruh, er schlug immer mitten in ihre Gedanken hinein. Endlich mußte sie aufsehen; – da schien die Sonne so warm in die Fensterscheiben, die Nelken auf dem Fensterbrett dufteten so süß; draußen schossen die Schwalben singend durch den Himmel. Sie mußte wieder fröhlich sein, die Welt um sie her war gar zu freundlich.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.10.vt7r.0">Die Uhr hatte aber auch wirklich ihren eigenen Kopf; sie war alt geworden und kehrte sich nicht mehr so gar viel an die neue Zeit; daher schlug sie oft sechs, wenn sie zwölf schlagen sollte, und ein andermal, um es wieder gutzumachen, wollte sie nicht aufhören zu schlagen, bis Marthe das Schlaglot von der Kette nahm. Das wunderlichste war, daß sie zuweilen gar nicht dazu kommen konnte; dann schnurrte und schnurrte es zwischen den Rädern, aber der Hammer wollte nicht ausholen; und das geschah meistens mitten in der Nacht. Marthe wurde jedesmal wach; und mochte es im klingendsten <pb n="479" xml:id="tg198.3.10.1.vt7r.0"/>
+Winter und in der dunkelsten Nacht sein, sie stand auf und ruhte nicht, bis sie die alte Uhr aus ihren Nöten erlöst hatte. Dann ging sie wieder zu Bette und dachte sich allerlei, warum die Uhr sie wohl geweckt habe, und fragte sich, ob sie in ihrem Tagewerk auch etwas vergessen, ob sie es auch mit guten Gedanken beschlossen habe.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.11.vt7r.0">Nun war es Weihnachten. Den Christabend, da ein übermäßiger Schneefall mir den Weg zur Heimat versperrte, hatte ich in einer befreundeten, kinderreichen Familie zugebracht; der Tannenbaum hatte gebrannt, die Kinder waren jubelnd in die lang verschlossene Weihnachtsstube gestürzt; nachher hatten wir die unerläßlichen Karpfen gegessen und Bischof dazu getrunken; nichts von der herkömmlichen Feierlichkeit war versäumt worden. – Am andern Morgen trat ich zu Marthe in die Kammer, um ihr den gebräuchlichen Glückwunsch zum Feste abzustatten. Sie saß mit untergestütztem Arm am Tische; ihre Arbeit schien längst geruht zu haben.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.12.vt7r.0">»Und wie haben Sie denn gestern Ihren Weihnachtabend zugebracht?« fragte ich.</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.13.vt7r.0">Sie sah zu Boden und antwortete: »Zu Hause.«</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.14.vt7r.0">»Zu Hause? Und nicht bei Ihren Schwesterkindern?«</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.15.vt7r.0">»Ach«, sagte sie, »seit meine Mutter gestern vor zehn Jahren hier in diesem Bette starb, bin ich am Weihnachtabend nicht ausgegangen. Meine Schwester schickte gestern wohl zu mir, und als es dunkel wurde, dachte ich wohl daran, einmal hinzugehen; aber – die alte Uhr war auch wieder so drollig; es war akkurat, als wenn sie immer sagte: Tu es nicht, tu es nicht! Was willst du da? Deine Weihnachtsfeier gehört ja nicht dahin!«</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.16.vt7r.0">Und so blieb sie denn zu Haus in dem kleinen Zimmer, wo sie als Kind gespielt, wo sie später ihren Eltern die Augen zugedrückt hatte, und wo die alte Uhr pickte ganz wie dazumalen. Aber jetzt, nachdem sie ihren Willen bekommen und Marthe das schon hervorgezogene Festkleid wieder in den Schrank verschlossen hatte, pickte sie so leise, ganz leise und immer leiser, zuletzt unhörbar. – Marthe durfte sich ungestört <pb n="480" xml:id="tg198.3.16.1.vt7r.0"/>
+der Erinnerung aller Weihnachtabende ihres Lebens überlassen: Ihr Vater saß wieder in dem braungeschnitzten Lehnstuhl; er trug das feine Sammetkäppchen und den schwarzen Sonntagsrock; auch blickten seine ernsten Augen heute so freundlich; denn es war Weihnachtabend, Weihnachtabend vor – ach, vor sehr, sehr vielen Jahren! Ein Weihnachtsbaum zwar brannte nicht auf dem Tisch – das war ja nur für reiche Leute; – aber statt dessen zwei hohe dicke Lichter; und davon wurde das kleine Zimmer so hell, daß die Kinder ordentlich die Hand vor die Augen halten mußten, als sie aus der dunklen Vordiele hineintreten durften. Dann gingen sie an den Tisch, aber nach der Weise des Hauses ohne Hast und laute Freudenäußerung, und betrachteten was ihnen das Christkind einbeschert hatte. Das waren nun freilich keine teuern Spielsachen, auch nicht einmal wohlfeile; sondern lauter nützliche und notwendige Dinge, ein Kleid, ein Paar Schuhe, eine Rechentafel, ein Gesangbuch und dergleichen mehr; aber die Kinder waren gleichwohl glücklich mit ihrer Rechentafel und ihrem neuen Gesangbuch, und sie gingen eins ums andere dem Vater die Hand zu küssen, der währenddessen zufrieden lächelnd in seinem Lehnstuhl geblieben war. Die Mutter mit ihrem milden freundlichen Gesicht unter dem enganliegenden Scheiteltuch band ihnen die neue Schürze vor und malte ihnen Zahlen und Buchstaben zum Nachschreiben auf die neue Tafel. Doch sie hatte nicht gar lange Zeit, sie mußte in die Küche und Apfelkuchen backen; denn das war für die Kinder eine Hauptbescherung am Weihnachtabend; die mußten notwendig gebacken werden. Da schlug der Vater das neue Gesangbuch auf und stimmte mit seiner klaren Stimme an: »Frohlockt, lobsinget Gott«; die Kinder aber, die alle Melodien kannten, stimmten ein: »Der Heiland ist gekommen«; und so sangen sie den Gesang zu Ende, indem sie alle um des Vaters Lehnstuhl herumstanden. Nur in den Pausen hörte man in der Küche das Hantieren der Mutter und das Prasseln der Apfelkuchen. – –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.17.vt7r.0">Tick, tack! ging es wieder; tick, tack! immer härter und <pb n="481" xml:id="tg198.3.17.1.vt7r.0"/>
+eindringlicher. Marthe fuhr empor; da war es fast dunkel um sie her, draußen auf dem Schnee nur lag trüber Mondschein. Außer dem Pendelschlag der Uhr war es totenstill im Hause. Keine Kinder sangen in der kleinen Stube, kein Feuer prasselte in der Küche. Sie war ja ganz allein zurückgeblieben; die andern waren alle, alle fort. – Aber was wollte die alte Uhr denn wieder? – Ja, da warnte es auf elf – und ein anderer Weihnachtabend tauchte in Marthens Erinnerung auf, ach! ein ganz anderer; viele, viele Jahre später! Der Vater und die Brüder waren tot, die Schwestern verheiratet; die Mutter, welche nun mit Marthen allein geblieben war, hatte schon längst des Vaters Platz im braunen Lehnstuhl eingenommen und ihrer Tochter die kleinen Wirtschaftssorgen übertragen; denn sie kränkelte seit des Vaters Tode, ihr mildes Antlitz wurde immer blässer, und ihre freundlichen Augen blickten immer matter; endlich mußte sie auch den Tag über im Bette bleiben. Das war schon über drei Wochen, und nun war es Weihnachtabend. Marthe saß an ihrem Bett und horchte auf den Atem der Schlummernden; es war totenstill in der Kammer, nur die Uhr pickte. Da warnte es auf elf, die Mutter schlug die Augen auf und verlangte zu trinken. »Marthe«, sagte sie, »wenn es erst Frühling wird und ich wieder zu Kräften gekommen bin, dann wollen wir deine Schwester Hanne besuchen; ich habe ihre Kinder eben im Traume gesehen – du hast hier gar zu wenig Vergnügen.« – Die Mutter hatte ganz vergessen, daß Schwester Hannes Kinder im Spätherbst gestorben waren; Marthe erinnerte sie auch nicht daran, sie nickte schweigend mit dem Kopf und faßte ihre abgefallenen Hände. Die Uhr schlug elf. –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.18.vt7r.0">Auch jetzt schlug sie elf – aber leise, wie aus weiter, weiter Ferne. –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.19.vt7r.0">Da hörte Marthe einen tiefen Atemzug; sie dachte, die Mutter wolle wieder schlafen. So blieb sie sitzen, lautlos, regungslos, die Hand der Mutter noch immer in der ihren; am Ende verfiel sie in einen schlummerähnlichen Zustand. Es mochte so eine Stunde vergangen sein; da schlug die Uhr <pb n="482" xml:id="tg198.3.19.1.vt7r.0"/>
+zwölf! – Das Licht war ausgebrannt, der Mond schien hell ins Fenster; aus den Kissen sah das bleiche Gesicht der Mutter. Marthe hielt eine kalte Hand in der ihrigen. Sie ließ diese kalte Hand nicht los, sie saß die ganze Nacht bei der toten Mutter. –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.20.vt7r.0">So saß sie jetzt bei ihren Erinnerungen in derselben Kammer, und die alte Uhr pickte bald laut, bald leise; sie wußte von allem, sie hatte alles mit erlebt, sie erinnerte Marthe an alles, an ihre Leiden, an ihre kleinen Freuden. –</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.21.vt7r.0">Ob es noch so gesellig in Marthens einsamer Kammer ist? Ich weiß es nicht; es sind viele Jahre her, seit ich in ihrem Hause wohnte, und jene kleine Stadt liegt weit von meiner Heimat. – Was Menschen, die das Leben lieben, nicht auszusprechen wagen, pflegte sie laut und ohne Scheu zu äußern: »Ich bin niemals krank gewesen; ich werde gewiß sehr alt werden.«</p>
+                           <p rend="zenoPLm4n0" xml:id="tg198.3.22.vt7r.0">Ist ihr Glaube ein richtiger gewesen und sollten diese Blätter den Weg in ihre Kammer finden, so möge sie sich beim Lesen auch meiner erinnern. Die alte Uhr wird helfen; sie weiß ja von allem Bescheid.</p>
+                        </div>
+                     </div>
+                  </body>
+            </text>
+         </TEI></teiCorpus>

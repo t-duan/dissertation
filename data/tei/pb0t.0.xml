@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:pb0t.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Prosa aus dem Nachlaß</title><title>Prosa</title><title>Günderode, Karoline von</title><title>Träume</title><author>Günderode, Karoline von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-1FE9-4</idno><idno type="textgrid">textgrid:p9z1.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                                 Entstanden wohl 1804, Erstdruck 1899.
+                              </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title><author key="pnd:118543202">Günderode, Karoline von</author></titleStmt><extent>27-</extent><publicationStmt><date when-iso="1920"/><pubPlace>Berlin-Wilmersdorf</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg102.pb0w.0" n="/Literatur/M/Günderode, Karoline von/Prosa/Prosa aus dem Nachlaß/Träume">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Träume</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-201E-7</idno><idno type="TextGridUri">textgrid:pb0w.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                                 Entstanden wohl 1804, Erstdruck 1899.
+                              </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title>
+                  <author key="pnd:118543202">Günderode, Karoline von</author>
+               </titleStmt>
+               <extent>27-</extent>
+               <publicationStmt>
+                  <date when="1920"/>
+                  <pubPlace>Berlin-Wilmersdorf</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1804"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <milestone unit="sigel" n="Günderode-GW Bd. 3" xml:id="tg101.2.1.pb0w.0"/>
+                        
+
+
+
+                        <head type="h3" xml:id="tg101.2.3.pb0w.0">Karoline von Günderode</head>
+
+
+                        <head type="h2" xml:id="tg101.2.4.pb0w.0">Prosa aus dem Nachlaß</head>
+
+                        <milestone unit="sigel" n="Günderode-GW Bd. 3" xml:id="tg101.2.5.pb0w.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg102.3.pb0w.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg102.3.1.pb0w.0">
+                                 <pb type="start" n="27" xml:id="tg102.3.1.1.pb0w.0"/>
+Träume</head>
+
+                              <p xml:id="tg102.3.2.pb0w.0">Mein Freund war seit mehreren Tagen in einer benachbarten Stadt, da träumte mir, er habe Nachricht bekommen, die ihn nöthige, nach Afrika zu reißen; ich weinte heftig darüber. Den folgenden Tag kam er, um Abschied zu nehmen, weil er nach Italien reißen mußte. Ich hatte nie vorher daran gedacht, noch davon wißen können.</p>
+                              <lb xml:id="tg102.3.3.pb0w.0"/>
+                              <p xml:id="tg102.3.4.pb0w.0">Ich hatte zwei Schwestern, die älteste liebte ich vorzüglich, weil sie mit mir eine große Aehnlichkeit der Gesinnung hatte; ich war seit mehreren Wochen von ihr entfernt und dachte oft mit Sehnsucht und Liebe an sie, da träumte mir einst, diese beide Schwestern seyn gestorben. Ich war sehr traurig darüber. Da erschienen mir ihre Geister in dem Hofe eines alten Hauses, in dem wir einen großen Theil unserer Jugend verlebt hatten. Sie traten beide aus einer dunkeln Kammer, vor der ich immer einen gewissen Schauer gehabt hatte. Es war Nacht, eine feuchte Herbst-Luft wehte und reichlicher Regen <pb n="27" xml:id="tg102.3.4.1.pb0w.0"/>
+fiel herab. Meine ältere Schwester nahte mir, und sprach: Eine ewige kalte Nothwendigkeit regiert die Welt, kein freundlich liebend Wesen. Ich erwachte. Es träumte mir noch mehrmals, sie sei gestorben, obgleich sie sehr gesund war. Nach zwei Jahren erfüllte sich der Traum, beyde starben kurz nacheinander.</p>
+                              <lb xml:id="tg102.3.5.pb0w.0"/>
+                              <p xml:id="tg102.3.6.pb0w.0">Ich hielt mich auf dem Lande bey einer Freundin auf, diese machte Anstalten zu einer Reise nach Italien, mir war es ein beständiger Schmerz, daß ich nicht Theil an dieser Reise nehmen solte, da meine Freunde mir doch oft Hoffnung dazu gemacht hatten, welches schon mehrmals unangenehme Erörterungen veranlast hatte. Nun träumte mir, ich wolte meine Freunde verlaßen und sei deswegen beschäftigt, meinen Koffer zu packen; da trat mein Freund ins Zimmer und sprach sehr unfreundlich über meinen Anspruch an diese Reise, ja er begegnete mir so hart, daß ich in ein lautes Weinen ausbrach; Ich erwachte darüber und weinte wirklich so heftig, daß ich mir vergeblich vorstellte, es sei doch nur ein Traum gewesen; um mich zu beruhigen, stand ich auf, und trat ans Fenster. Der Tag war eben angebrochen, es regnete sehr gelind, die Luft war lau, die Apfelblüthen dufteten lieblich, und in dem nahen Wald schlug der Kuckuck mit einförmlichen melancholischen Tönen. Dies beruhigte mich ich ging wieder zu Bette und entschlief. Den folgenden <pb n="28" xml:id="tg102.3.6.1.pb0w.0"/>
+Morgen hatte ich eine sonderbare Empfindung, es war mir als habe der Traum etwas, das sonst hart in mir gewesen, in Wehmuth zerschmelzt. Wunderbar erfüllte sich der Traum; ich erlebte sehr bald eine äußerst unangenehme Szene mit meinen Freunden und gerade da ich meine Sachen packte um sie zu verlaßen, nur daß nicht die Italienische Reise, sondern eine nach Würtzburg der Grund davon war.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

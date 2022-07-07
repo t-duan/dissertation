@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:kqhb.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Italienische Märchen</title><title>Märchen-Sammlung</title><title>Brentano, Clemens</title><title>Das Märchen von Schnürlieschen</title><author>Brentano, Clemens</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0002-41F0-3</idno><idno type="textgrid">textgrid:kr9t.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1805 und 1811. Erstdruck: Die Märchen des Clemens Brentano. Zum Besten der Armen nach dem letzten Willen des Verfassers herausgegeben von Guido Görres. Zweiter Band, Stuttgart und Tübingen (Cotta) 1847. Das »Märchen von dem Myrtenfräulein« war zuvor bereits erschienen in: Iris. Unterhaltungsblatt für Freunde des Schönen und Nützlichen (Frankfurt), 1826.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title><author key="pnd:118515055">Brentano, Clemens</author></titleStmt><extent>297-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title><author key="pnd:118515055">Brentano, Clemens</author></titleStmt><extent>600-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg575.kqhc.0" n="/Literatur/M/Brentano, Clemens/Märchen-Sammlung/Italienische Märchen/Das Märchen von Schnürlieschen">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das Märchen von Schnürlieschen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-3F47-1</idno><idno type="TextGridUri">textgrid:kqhc.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title>
+                  <author key="pnd:118515055">Brentano, Clemens</author>
+               </titleStmt>
+               <extent>600-</extent>
+               <publicationStmt>
+                  <date when="1963"/>
+                  <pubPlace>München</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1778" notAfter="1842"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg575.3.kqhc.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg575.3.1.kqhc.0">Das Märchen von Schnürlieschen</head>
+
+                              <p xml:id="tg575.3.2.kqhc.0">Es war einmal ein König, der hieß Talisqualis, und er regierte das Land Soso und die Hauptstadt gleiches Namens Soso, und alles ging lustiger als überall.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.3.kqhc.0">Der gute Talisqualis war sehr vergnügt, sah gerne frohe Gesichter. Wer bei ihm zuerst lachte, lachte gut und erhielt gewiß, was er verlangte; wer aber zuletzt lachte, lachte am besten und erhielt einen Gnadengehalt. Es zogen sich daher alle lustigen Leute nach dem Lande Soso hin, und die Traurigen machten, daß sie herauskamen, denn sie mußten erstaunlich viel Geld bezahlen, wenn sie bleiben wollten, und der König hatte Leute, die überall auflauerten, und wenn ein Betrübter gefunden wurde, ward er sogleich vor den kurzweiligen Rat gebracht und mußte die Ursache seiner Betrübnis sagen. War ihm nun zu helfen, so wurde ihm geholfen, man gab ihm Geld und Gut und Ehre und Liebe, was er nur wollte. Reichte das alles nicht zu, den Betrübten zu trösten, so brachte man ihn zum Landtrost, welcher Herzwasverlangstdu hieß, konnte ihn der auch nicht muntern, so ward er von dem König zuerst und dann von dem ganzen Volke ausgelacht und aus dem Lande Soso hinausgekitzelt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.4.kqhc.0">In diesem lieben Lande wäre alles glücklich und fröhlich gewesen, wenn das Weinen nicht wäre verboten gewesen. Aber so geht es: die törichten Menschen meinen immer, das schmecke am besten, was sie nicht essen sollen, und gerade, weil der König Talisqualis alle Tränen der Witwen und Waisen getrocknet hatte, und weil der stille Kummer über die Grenze war gebracht worden, und weil die süße Schwermut unter der Strafe des Totkitzelns verboten war, und weil hier Lachen gar nicht teuer war, sehnten sich allerlei unruhige Leute nach Betrübnis.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.5.kqhc.0">Man lud sich heimlich auf eine stille Träne, auf einen tiefen Seufzer, auf ein leises Ach, auf einen sehnsüchtigen Blick, wie anderwärts auf einen Löffel Suppe, zu Gast und teilte sich die rührendsten Geschichten aus dem Auslande mit.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.6.kqhc.0">
+                                 <pb n="600" xml:id="tg575.3.6.1.kqhc.0"/>
+Alles dieses geschah aber ganz ingeheim, und wenn irgend ein Fremder in die Stube trat, fing man laut an zu lachen, um nicht verraten zu werden. Wonach sich aber der ganze Hofstaat und die Hauptstadt sehnte, das war, einmal ein Trauerspiel zu sehen, und alles wartete nur auf eine schickliche Gelegenheit, den König Talisqualis darum zu bitten. Die Gelegenheit blieb nicht lange aus. Wir wollen sehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.7.kqhc.0">Der lustige Talisqualis hatte eine einzige Tochter, das liebste Herzkind von der Welt. Sie sollte nach ihm das Land regieren, jeden liebte sie wie sich selbst, und da alle Kinder des ganzen Landes sie über die Taufe gehoben hatten, hatten sie ihr den Namen Liebseelchen gegeben.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.8.kqhc.0">Als Liebseelchen in die Kirche getragen wurde, stand ein betrübter Stern am Himmel; denn ihre Mutter, die Königin XYZ, wurde auch in die Kirch getragen, aber nicht zur Taufe, sondern ins Grab; sie war gestorben. Das war nun dem guten König Talisqualis gar unangenehm, teils weil er sie sehr lieb hatte, teils weil er die Taufe seines Liebseelchens nicht mit gehöriger Freude konnte halten lassen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.9.kqhc.0">Er ließ lange überlegen, wie man die Kirche austapezieren sollte, ob rot wegen der Freude über Liebseelchens Geburt, ob schwarz wegen dem Tod ihrer Mutter, und endlich entschied der kurzweilige Rat, es solle alles halb rot, halb schwarz bekleidet werden. Und das geschah an allem, von den Wänden der Kirche an bis auf die Strümpfe aller Anwesenden, deren einer schwarz, der andere rot war.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.10.kqhc.0">Der König hoffte, die Leute sollten dadurch an der Traurigkeit gehindert werden; aber weit gefehlt. Sie waren so froh, einmal eine Gelegenheit zur Betrübnis zu haben, wo sie sich recht ausweinen konnten, daß sie auch gar nicht zu trösten waren. Es war ein allgemeines Schluchzen, und Liebseelchens feines Stimmchen hörte man mitten durch.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.11.kqhc.0">Der gute lustige König Talisqualis ward über diese große Traurigkeit selbst nachdenklich und fürchtete, sein Töchterchen möge ganz aus der Art schlagen und kein lustiges Kind werden. Leider hatte er sich hierin nicht geirrt, denn Liebseelchen wuchs heran, und wer sie nur einmal hätte lachen sehen, der hätte können reich werden, denn Talisqualis hatte bekannt machen<pb n="601" xml:id="tg575.3.11.1.kqhc.0"/>
+ lassen, wer ihm zuerst die Nachricht bringe, daß Liebseelchen gelacht habe, der sollte von ihm das beste Trinkgeld erhalten, das es giebt. Aber Liebseelchen lachte nicht, war immer still und sanft und gern allein. O, wenn sie aber unter die Menschen kam, war sie gar sanft und freundlich, fragte immer nach den Armen und Kranken, mit denen sie alles teilte, was sie hatte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.12.kqhc.0">Aber dies Vergnügen, wohlzutun und zu trösten, ward ihr nicht oft, weil die Armen und Unglücklichen in der Stadt Soso eine so große Seltenheit waren, als hier zu Land ein grüner Schimmel. Ein einziges Vergnügen hatte sie öfters, nämlich die Sterbenden zu trösten; denn der König hatte entdeckt, daß die Kranken und Sterbenden ruhig und ergeben wurden, wenn Liebseelchen auf ihrem Bette saß und sie freundlich ansah, und da ihm die Freude der Menschen bis in den Tod gar lieb war, so erlaubte er, daß Liebseelchen sie besuchen durfte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.13.kqhc.0">Das gute, sanfte Mägdlein ward darum, so oft man darum bat, in einer Sänfte in solche Trauerhäuser getragen, und da setzte sie sich den Leidenden zu Füßen und sah ihnen so fromm und freundlich in die Augen, daß sie entweder bald wieder gesund wurden, oder mit lächelnder Ergebung ihre Seele dem lieben Gott zurückgaben, von dem sie dieselbe empfangen hatten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.14.kqhc.0">Anfangs war es in der Stadt Soso nur ein Werk der Barmherzigkeit, wenn der König es erlaubte, daß Liebseelchen einem Leidenden eine solche Wohltat erweisen durfte, und es geschah meistens bei ärmern frommen Leuten, wenn sie selbst darum bat. Bald aber ward es eine hohe Gnade, und alle vornehmen Leute ließen in Bittschriften darum ansuchen; ja es wurde zuletzt gar eine solche Mode daraus, daß manche Leute sich krank stellten, um nur von Liebseelchen besucht zu werden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.15.kqhc.0">Es lebte in der Stadt Soso eine sehr wunderliche alte Person. Sie hatte sich den Leib mit einer engen Jacke, in der eiserne Stangen waren, so eng zusammengepreßt, trug einen so breiten Reifrock, daß sie aussah, wie eine Schreibfeder im Tintenfaß. Schuhe hatte sie an mit so hohen Absätzen, daß sie wie auf Stelzen ging; auf dem Kopf hatte sie eine Perücke von Ziegenhaaren, hoch wie ein Spitzberg, und obendrauf eine Haube, welche ein großes Kriegsschiff mit vollen Segeln vorstellte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.16.kqhc.0">Sie hielt es für unschicklich, wenn man seine Muttersprache <pb n="602" xml:id="tg575.3.16.1.kqhc.0"/>
+sprach, und glaubte, nichts wäre trauriger, als daß die Menschen durch den Mund und nicht durch die Nase redeten, hatte es auch durch lange Übung soweit gebracht, daß sie, ohne den Mund zu bewegen, durch ihre lange spitze Nase sehr lange Komplimente und besonders deutlich dir das Wort Pfui doch! aussprechen konnte, welches aber immer lautete wie <hi rend="italic" xml:id="tg575.3.16.2.kqhc.0">fi donc.</hi>
+                              </p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.17.kqhc.0">Diese gute wunderliche Person nannte sich Mamsell <hi rend="italic" xml:id="tg575.3.17.1.kqhc.0">Cephise la Marquise de Pimpernelle</hi> und beschäftigte sich damit, junge Mädchen zu erziehen; auch hatte sie eine ganze Herde kleiner Mopshunde, welchen sie die Ohren und die Nase platt drückte, und sie nachher um teures Geld verkaufte, denn sie meinte, der Unterschied zwischen Menschen und Tieren bestehe darin, daß die Menschen durch die Nase sprechen sollten, die Tiere aber durch das Maul.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.18.kqhc.0">Als der lustige König Talisqualis sie einmal gesehen und gesprochen hatte, war sie ihm so lächerlich vorgekommen, daß er sie für die lustigste Person der ganzen Stadt erklärte und versicherte, man könnte seine Töchter nicht lustiger erziehen lassen als bei ihr; deswegen ward es allgemein Sitte von vornehmen Leuten, ihre Töchter zu Mamsell <hi rend="italic" xml:id="tg575.3.18.1.kqhc.0">Cephise la Marquise de Pimpernelle</hi> in die Schule zu schicken, und manche Kinder hatte sie ganz und gar im Hause.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.19.kqhc.0">Einmal war ihr eine von ihren Schülerinnen krank geworden, und sie begab sich mit zwei Mopshündchen auf dem Arm zum König Talisqualis, tat einen Fußfall vor seinem Thron, und die zwei Hündchen saßen ihr zur Seite auf den Hinterpfoten und machten mit den Vorderpfoten bitte bitte, wozu sie mit den Zähnen bläckten und alle Augenblicke niesten, da denn die knieende Pimpernelle ihre lange Rede an den König unterbrach und zu ihnen sprach: »Benies!« Der König kam gar nicht aus dem Lachen heraus und sagte zu seinem kurzweiligen Rat: »Das ist eine unschätzbare Person! Was will sie? Es soll ihr alles zugestanden sein.« Da antwortete der Rat: »Ihro Majestät, sie wünscht, daß Prinzessin Liebseelchen eine ihrer kranken Schülerinnen besuchen möge.« Sogleich erlaubte es der König, und es ward der Prinzessin angesagt, daß sie sich bereithalten möge, eine Kranke zu trösten, worauf die Mamsell Pimpernelle nach vielen närrischen Bücklingen abspazierte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.20.kqhc.0">
+                                 <pb n="603" xml:id="tg575.3.20.1.kqhc.0"/>
+Liebseelchen zog geschwind ihr zimtbraunes Röckchen an, wickelte sich in ihr schwarzes Mäntelchen und hüllte den Kopf in einen schwarzen Schleier und wurde so nach dem Hause der Pimpernelle in einer Sänfte getragen, und wo sie durch die Straßen vorüberkam, schlossen sich alle Mägdlein aus der Stadt Soso ihrem Gefolge an, um ihr Liebe und Ehre zu beweisen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.21.kqhc.0">An der Haustüre empfing sie die Pimpernelle, umgeben von all ihren Hündchen, an der Spitze ihrer Schülerinnen, welche eine französische Arie sangen und sich nach dem Takte verneigten, so oft die Pimpernelle mit dem Fächer winkte, wie ein Regiments-Trommelschläger mit seinem Kommandostab. Die kleinen Mädchen waren alle eingeschnürt wie ein Bund Schreibfedern und gerade wie Strickstöcke; sie machten spitze Mäulchen, waren hoch frisiert und schienen mit ihren blassen Gesichtern eben nicht sehr vergnügt zu sein.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.22.kqhc.0">Liebseelchen sah sie alle mit großer Liebe an, und da ihr der Gesang zu lange wurde, stieg sie aus der Sänfte und wollte die guten Kinder der Reihe nach umarmen; aber die Pimpernelle winkte ihnen immer mit dem Fächer zurück und sprach immer: »Respekt! Respekt!« so daß sie eine Treppenstufe nach der andern hinauf zurückwichen, und auf jeder wollte die Pimpernelle ihre französische Rede wieder anfangen; aber Liebseelchen unterbrach sie immer wieder, indem sie eine von den armen Puppen umarmen wollte, und endlich riß ihr die Geduld, und sie schritt durch alle hindurch die Treppe hinauf. Da geriet alles in die größte Unordnung. Die Pimpernelle hatte keinen Raum mit ihrem Reifrock, sie stieß die Kinder hin und her und schlug ihnen mit dem Fächer auf die Nase, dazu fingen alle die Hündchen zu bellen an, und das Gefolge der Prinzessin lachte vor der Türe. Es war eine gewaltige Verwirrung.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.23.kqhc.0">Liebseelchen drang endlich mit der Pimpernelle zugleich in die Krankenstube; hier wollte die Mamsell wieder eine Rede anfangen; Liebseelchen aber schritt gerade auf das Bett der Kranken zu und setzte sich wie gewöhnlich zu ihren Füßen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.24.kqhc.0">Welch ein Jammer überfiel Liebseelchen! Die Kranke, ein schönes, blasses Fräulein, lag kerzengerade, eingeschnürt und frisiert wie ein Haubenstock, die eine Hand rechts, die andere links auf der seidenen Bettdecke; sie bewegte sich nicht; sie <pb n="604" xml:id="tg575.3.24.1.kqhc.0"/>
+sprach kein Wort; Liebseelchen sah ihr mit ihren lieben, mitleidigen Augen bis ins innerste Herz.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.25.kqhc.0">Die Pimpernelle trat zu ihr und sagte: »<hi rend="italic" xml:id="tg575.3.25.1.kqhc.0">Enfin, eh bien, comment, quelle mine, parlez, eh bien, étourdie, imbécile!</hi>« und zerrte an ihr, welches auf deutsch heißt: Wohlan! wie! welche Miene! rede! nun! Ungeschickte! Einfältige! Mit diesen Worten wollte sie die arme Kranke zum Reden zwingen, und das gute Kind wollte auch gehorsamen, aber es konnte nicht und sah immer Liebseelchen an, welche auch gar nicht mehr auf die Pimpernelle hörte und die arme Kranke so innig ansah, daß ihr die Tränen aus den Augen stürzten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.26.kqhc.0">Als die Pimpernelle dies sah, ward sie sehr böse und wollte eben auf die Kranke zufahren und ihr ihr unschickliches Betragen verweisen; aber Liebseelchen stand auf und sagte zu ihr: »Mamsell Pimpernelle, setzen Sie meine Geduld nicht länger auf die Probe; ich bin die Tochter und Erbin Ihres Königs; mein Beruf ist, die Leidenden zu trösten; ich befehle Ihnen, nicht mich länger zu stören; lassen Sie uns allein.« Mamsell Pimpernelle machte ein sehr wunderliches Gesicht und wollte allerlei Entschuldigungen vorbringen, aber Liebseelchen, welche nie ihre Sanftmut verlor, drängte sie freundlich zur Türe hinaus, und da ihr ihre Hündchen nicht gleich folgen wollten, lockte sie diese mit Zuckerbrot zu sich und trug sie der Mamsell Pimpernelle nach, worauf sie die Türe verschloß und zu der armen Kranken zurückeilte, welche ihr den herzlichsten Dank mit einem zärtlichen Lächeln bezeugte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.27.kqhc.0">»O, du arme liebe Freundin,« sagte Liebseelchen zu der Kranken, »sage mir, wie heißest du und was leidest du?« Die Kranke aber konnte sich nicht rühren und flüsterte nur leise: »Ach, ich heiße Schnürlieschen und muß sterben!« Liebseelchen kam durch den Namen Schnürlieschen auf den Gedanken, das arme Mädchen möge wohl zu enge eingeschnürt sein, und eilte nun gleich, ihr zu helfen. O du mein Jammer! was war das arme Schnürlieschen eingepanzert; ja sie hatte sogar unter der Halskrause ein eisernes Halsband, daß sie sich nicht rühren und regen konnte. Liebseelchen schnitt ihr alle Nesteln durch, und als Schnürlieschen sich wieder frei fühlte, tat sie einen tiefen Atemzug und umarmte Liebseelchen unter einem Strom von Tränen.</p>
+                              <pb n="605" xml:id="tg575.3.28.kqhc.0"/>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.29.kqhc.0">»Ach,« sagte sie leise, »geliebte Prinzessin, was dank ich dir! Seit zehn Jahren habe ich keinen freien Atemzug getan und nicht durch den Mund gesprochen, immer sollte ich durch die Nase reden. Ach, seit zehn Jahren habe ich mich nicht bücken können, eine Blume zu brechen, wegen dem eisernen Käfig, in dem mein Leib gepanzert war. Ach, nun kann ich doch ruhig sterben und dabei dein liebes Angesicht ansehen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.30.kqhc.0">»Halte dich ruhig, liebes Schnürlieschen!« sagte Liebseelchen. »Ich will hier zu deinen Füßen sitzen, und wenn es dir wohltut, in mein Gesicht zu sehen, so tue es nur; ich will dich so freundlich anschauen, als ich nur immer kann. Du tust mir sehr leid, ich habe dich am liebsten von allen Jungfrauen, die ich jemals gesehen. Wenn es dir nicht beschwerlich fällt, so erzähle mir ganz leise, wer deine Eltern sind, und wie du hieher gekommen bist.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.31.kqhc.0">Nach diesen Worten setzte sich Liebseelchen zu Füßen des armen Schnürlieschen auf das Bett, faltete die Hände, als ob sie für sie bete, und Schnürlieschen schaute nach ihr hin, wie eine Blume, die einschlafen will, nach der untergehenden Sonne, und sagte mit leiser Stimme folgende Reime:</p>
+                              <lb xml:id="tg575.3.32.kqhc.0"/>
+                              <lg>
+                                 <l xml:id="tg575.3.33.kqhc.0">Es ist schon eine lange Zeit,</l>
+                                 <l xml:id="tg575.3.34.kqhc.0">Mein Röckchen war hübsch bunt und weit,</l>
+                                 <l xml:id="tg575.3.35.kqhc.0">Klein war ich, ohne Bücken</l>
+                                 <l xml:id="tg575.3.36.kqhc.0">Konnt ich die Blumen pflücken.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.37.kqhc.0"/>
+                                 <l xml:id="tg575.3.38.kqhc.0">Die Sonn stand tief am Himmelsrand,</l>
+                                 <l xml:id="tg575.3.39.kqhc.0">Ich ging an meines Bruders Hand</l>
+                                 <l xml:id="tg575.3.40.kqhc.0">Auf einer grünen Wiese,</l>
+                                 <l xml:id="tg575.3.41.kqhc.0">Als wie im Paradiese.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.42.kqhc.0"/>
+                                 <l xml:id="tg575.3.43.kqhc.0">Des Schlosses Fenster blitzten fern,</l>
+                                 <l xml:id="tg575.3.44.kqhc.0">Am Himmel kam der Abendstern,</l>
+                                 <l xml:id="tg575.3.45.kqhc.0">Wir trugen auf den Hüten</l>
+                                 <l xml:id="tg575.3.46.kqhc.0">Krönlein von Blum und Blüten.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.47.kqhc.0"/>
+                                 <l xml:id="tg575.3.48.kqhc.0">Mein Bruder sprach: »Wir gehn zu weit,</l>
+                                 <l xml:id="tg575.3.49.kqhc.0">Komm! komm nach Haus! das Käuzchen schrein,</l>
+                                 <l xml:id="tg575.3.50.kqhc.0">Die Hühner sind schon schlafen,</l>
+                                 <l xml:id="tg575.3.51.kqhc.0">Der Hirt kommt mit den Schafen.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.52.kqhc.0"/>
+                                 <pb n="606" xml:id="tg575.3.53.kqhc.0"/>
+                                 <l xml:id="tg575.3.54.kqhc.0">Ich sprach: »Erst muß ich an den Quell,</l>
+                                 <l xml:id="tg575.3.55.kqhc.0">Da steht das Kräutchen Pimpernell,</l>
+                                 <l xml:id="tg575.3.56.kqhc.0">Das muß ich erst ausreißen,</l>
+                                 <l xml:id="tg575.3.57.kqhc.0">Mir träumt', es wollt mich beißen.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.58.kqhc.0"/>
+                                 <l xml:id="tg575.3.59.kqhc.0">Der Bruder sprach: »Ach! laß das Kraut,</l>
+                                 <l xml:id="tg575.3.60.kqhc.0">Es wird schon dunkel, daß mirs graut;</l>
+                                 <l xml:id="tg575.3.61.kqhc.0">Das Kräutlein auf der Weide</l>
+                                 <l xml:id="tg575.3.62.kqhc.0">Tut dir ja nichts zu Leide.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.63.kqhc.0"/>
+                                 <l xml:id="tg575.3.64.kqhc.0">Ich aber war voll Grimm und Zorn</l>
+                                 <l xml:id="tg575.3.65.kqhc.0">Und lief durch Distel und durch Dorn,</l>
+                                 <l xml:id="tg575.3.66.kqhc.0">Vom Bruder hin zur Quelle</l>
+                                 <l xml:id="tg575.3.67.kqhc.0">Und rupft die Pimpernelle.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.68.kqhc.0"/>
+                                 <l xml:id="tg575.3.69.kqhc.0">Da rief das Kräutlein: »Ach! und weh!</l>
+                                 <l xml:id="tg575.3.70.kqhc.0">Gott half mir durch den kalten Schnee,</l>
+                                 <l xml:id="tg575.3.71.kqhc.0">Nur einmal schaut ich zur Sonnen</l>
+                                 <l xml:id="tg575.3.72.kqhc.0">Und muß nun sterben am Bronnen.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.73.kqhc.0"/>
+                                 <l xml:id="tg575.3.74.kqhc.0">Ich war voll Zorn, riß immerzu:</l>
+                                 <l xml:id="tg575.3.75.kqhc.0">»Du böse Pimpernelle du!«</l>
+                                 <l xml:id="tg575.3.76.kqhc.0">Rief ich, kratzt in der Erde</l>
+                                 <l xml:id="tg575.3.77.kqhc.0">Und wußt nicht, was draus werde.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.78.kqhc.0"/>
+                                 <l xml:id="tg575.3.79.kqhc.0">Mein Bruder rief, mein Bruder rief,</l>
+                                 <l xml:id="tg575.3.80.kqhc.0">Ich hört ihn nicht, mein Zorn war tief!</l>
+                                 <l xml:id="tg575.3.81.kqhc.0">Ich tobte an der Quelle</l>
+                                 <l xml:id="tg575.3.82.kqhc.0">Und schimpft die Pimpernelle.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.83.kqhc.0"/>
+                                 <l xml:id="tg575.3.84.kqhc.0">Da sagt das letzte Kräutlein noch:</l>
+                                 <l xml:id="tg575.3.85.kqhc.0">»Dich kriegt die Pimpernelle doch,</l>
+                                 <l xml:id="tg575.3.86.kqhc.0">Sie wird mein Sterben rächen,</l>
+                                 <l xml:id="tg575.3.87.kqhc.0">Den wilden Sinn dir brechen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.88.kqhc.0"/>
+                                 <l xml:id="tg575.3.89.kqhc.0">Ach! laß mich stehn, ich bitt dich drum.«</l>
+                                 <l xml:id="tg575.3.90.kqhc.0">Da dreht ich ihm das Hälslein um,</l>
+                                 <l xml:id="tg575.3.91.kqhc.0">Das Kräutlein tät ich morden,</l>
+                                 <l xml:id="tg575.3.92.kqhc.0">Sein Spruch ist wahr geworden.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.93.kqhc.0"/>
+                                 <l xml:id="tg575.3.94.kqhc.0">Da kam ein Schatten angerollt:</l>
+                                 <l xml:id="tg575.3.95.kqhc.0">Ich sah ihn vor dem Abendgold,</l>
+                                 <pb n="607" xml:id="tg575.3.96.kqhc.0"/>
+                                 <l xml:id="tg575.3.97.kqhc.0">War bucklicht wie ein Kater,</l>
+                                 <l xml:id="tg575.3.98.kqhc.0">Ich dacht, es sei der Vater.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.99.kqhc.0"/>
+                                 <l xml:id="tg575.3.100.kqhc.0">Ich dacht, er holet uns nach Haus,</l>
+                                 <l xml:id="tg575.3.101.kqhc.0">Er fuhr, uns aufzusuchen, aus</l>
+                                 <l xml:id="tg575.3.102.kqhc.0">In seiner Königskutsche,</l>
+                                 <l xml:id="tg575.3.103.kqhc.0">Ach, da kam die Barutsche.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.104.kqhc.0"/>
+                                 <l xml:id="tg575.3.105.kqhc.0">Vier Möpse auf dem Vordersitz</l>
+                                 <l xml:id="tg575.3.106.kqhc.0">Und zwischen Schachteln eine Nasenspitz</l>
+                                 <l xml:id="tg575.3.107.kqhc.0">Konnt ich schon ganz erkennen</l>
+                                 <l xml:id="tg575.3.108.kqhc.0">Und wollt zum Bruder rennen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.109.kqhc.0"/>
+                                 <l xml:id="tg575.3.110.kqhc.0">Und lief und sank da in den Sumpf,</l>
+                                 <l xml:id="tg575.3.111.kqhc.0">Hielt mich da fest am Weidenstumpf,</l>
+                                 <l xml:id="tg575.3.112.kqhc.0">Und rief da in dem Schilfe:</l>
+                                 <l xml:id="tg575.3.113.kqhc.0">»Ach, Hülfe, Hülfe, Hülfe!«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.114.kqhc.0"/>
+                                 <l xml:id="tg575.3.115.kqhc.0">Da bellten die Möpse, der Wagen stand,</l>
+                                 <l xml:id="tg575.3.116.kqhc.0">Der Kutscher naht', bot mir die Hand</l>
+                                 <l xml:id="tg575.3.117.kqhc.0">Und trug mich in die Kutsche,</l>
+                                 <l xml:id="tg575.3.118.kqhc.0">In die fatale Barutsche.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.119.kqhc.0"/>
+                                 <l xml:id="tg575.3.120.kqhc.0">Da sprachs heraus: »Ich heiß Mamsell</l>
+                                 <l xml:id="tg575.3.121.kqhc.0">
+                                    <hi rend="italic" xml:id="tg575.3.121.1.kqhc.0">Cephise Marquise de Pimpernell,</hi>
+                                 </l>
+                                 <l xml:id="tg575.3.122.kqhc.0">Sag an, meine Charmante!</l>
+                                 <l xml:id="tg575.3.123.kqhc.0">Bist du von gutem Stande?«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.124.kqhc.0"/>
+                                 <l xml:id="tg575.3.125.kqhc.0">Da fuhr es mir durch Mark und Bein:</l>
+                                 <l xml:id="tg575.3.126.kqhc.0">Das mag die Pimpernelle sein,</l>
+                                 <l xml:id="tg575.3.127.kqhc.0">Wovon das Kraut gesprochen,</l>
+                                 <l xml:id="tg575.3.128.kqhc.0">Das ich so bös gebrochen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.129.kqhc.0"/>
+                                 <l xml:id="tg575.3.130.kqhc.0">Ich schrie: »Ich bin des Königs Kind,</l>
+                                 <l xml:id="tg575.3.131.kqhc.0">Zum Vater bringt mich ganz geschwind!«</l>
+                                 <l xml:id="tg575.3.132.kqhc.0">Sie hob mich in die Kutsche,</l>
+                                 <l xml:id="tg575.3.133.kqhc.0">Ach, in die böse Barutsche!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.134.kqhc.0"/>
+                                 <l xml:id="tg575.3.135.kqhc.0">Die rumpelte über Stock und Stein</l>
+                                 <l xml:id="tg575.3.136.kqhc.0">Fort mit mir in die Welt hinein;</l>
+                                 <l xml:id="tg575.3.137.kqhc.0">Mein Weinen sie nicht rühret,</l>
+                                 <l xml:id="tg575.3.138.kqhc.0">Sie hat mich fortgeführet.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.139.kqhc.0"/>
+                                 <pb n="608" xml:id="tg575.3.140.kqhc.0"/>
+                                 <l xml:id="tg575.3.141.kqhc.0">Weil ich ein bißchen um mich schlug,</l>
+                                 <l xml:id="tg575.3.142.kqhc.0">Sprach sie: »Dir ists noch nicht genug,</l>
+                                 <l xml:id="tg575.3.143.kqhc.0">Der Schneider hats vermessen,</l>
+                                 <l xml:id="tg575.3.144.kqhc.0">So gehn nicht die Prinzessen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.145.kqhc.0"/>
+                                 <l xml:id="tg575.3.146.kqhc.0">Die Hände fahren dir herum;</l>
+                                 <l xml:id="tg575.3.147.kqhc.0">Dein Leib wird schief, dein Hals wird krumm,</l>
+                                 <l xml:id="tg575.3.148.kqhc.0">Als wolltest du mich schlagen;</l>
+                                 <l xml:id="tg575.3.149.kqhc.0">Es wankt dir auch der Magen.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.150.kqhc.0"/>
+                                 <l xml:id="tg575.3.151.kqhc.0">Da nahm sie eine Schnürbrust her,</l>
+                                 <l xml:id="tg575.3.152.kqhc.0">Schnürt' mich die Kreuz, schnürt' mich die Quer,</l>
+                                 <l xml:id="tg575.3.153.kqhc.0">So spitz wie eine Spindel,</l>
+                                 <l xml:id="tg575.3.154.kqhc.0">Wie's Kindlein in der Windel.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.155.kqhc.0"/>
+                                 <l xml:id="tg575.3.156.kqhc.0">Da ward ich still, da ward ich zahm,</l>
+                                 <l xml:id="tg575.3.157.kqhc.0">Im Herzen ich das Wort vernahm:</l>
+                                 <l xml:id="tg575.3.158.kqhc.0">Die wird mein Sterben rächen,</l>
+                                 <l xml:id="tg575.3.159.kqhc.0">Den wilden Sinn dir brechen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.160.kqhc.0"/>
+                                 <l xml:id="tg575.3.161.kqhc.0">Und so ward ich hierhergebracht</l>
+                                 <l xml:id="tg575.3.162.kqhc.0">Und ward gepeinigt Tag und Nacht;</l>
+                                 <l xml:id="tg575.3.163.kqhc.0">Die Antwort war, sobald ich bat:</l>
+                                 <l xml:id="tg575.3.164.kqhc.0">Nur geh nicht krumm und halt dich grad.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.165.kqhc.0"/>
+                                 <l xml:id="tg575.3.166.kqhc.0">Und zehen Jahr sind nun herum,</l>
+                                 <l xml:id="tg575.3.167.kqhc.0">Ich bin nicht grad, ich bin nicht krumm,</l>
+                                 <l xml:id="tg575.3.168.kqhc.0">Zerdrückt nur und zerknicket,</l>
+                                 <l xml:id="tg575.3.169.kqhc.0">Zerstückelt und zerzwicket.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.170.kqhc.0"/>
+                                 <l xml:id="tg575.3.171.kqhc.0">Vom lieben Gott hört ich nicht viel,</l>
+                                 <l xml:id="tg575.3.172.kqhc.0">Doch vom Tarock und L'hombrespiel,</l>
+                                 <l xml:id="tg575.3.173.kqhc.0">Von Tanzen und Manieren</l>
+                                 <l xml:id="tg575.3.174.kqhc.0">Und auch von Gratulieren.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.175.kqhc.0"/>
+                                 <l xml:id="tg575.3.176.kqhc.0">Weil ich betrübt den Kopf gesenkt,</l>
+                                 <l xml:id="tg575.3.177.kqhc.0">Ward ich ins Halsband eingezwängt,</l>
+                                 <l xml:id="tg575.3.178.kqhc.0">Ich mußte auf den Zehen</l>
+                                 <l xml:id="tg575.3.179.kqhc.0">Und dazu auswärts gehen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.180.kqhc.0"/>
+                                 <l xml:id="tg575.3.181.kqhc.0">Den Leib hinein! Die Brust heraus!</l>
+                                 <l xml:id="tg575.3.182.kqhc.0">Die Nase hoch und oben aus!</l>
+                                 <pb n="609" xml:id="tg575.3.183.kqhc.0"/>
+                                 <l xml:id="tg575.3.184.kqhc.0">Ich mußt mich tief verneigen,</l>
+                                 <l xml:id="tg575.3.185.kqhc.0">Hoffärtge Demut zeigen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.186.kqhc.0"/>
+                                 <l xml:id="tg575.3.187.kqhc.0">Kein Apfel, keine Kirsche rot,</l>
+                                 <l xml:id="tg575.3.188.kqhc.0">Kein Salz, kein Schmalz, nur frisches Brot,</l>
+                                 <l xml:id="tg575.3.189.kqhc.0">Heißts, mach die Säfte stocken,</l>
+                                 <l xml:id="tg575.3.190.kqhc.0">Ich esse Semmeln trocken.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.191.kqhc.0"/>
+                                 <l xml:id="tg575.3.192.kqhc.0">Kein frisches Wasser aus dem Quell</l>
+                                 <l xml:id="tg575.3.193.kqhc.0">Erlaubet mir die Pimpernell,</l>
+                                 <l xml:id="tg575.3.194.kqhc.0">Das, mit Respekt zu melden,</l>
+                                 <l xml:id="tg575.3.195.kqhc.0">Mich könnte leicht verkälten.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.196.kqhc.0"/>
+                                 <l xml:id="tg575.3.197.kqhc.0">Ich trinke nichts als Fliedertee,</l>
+                                 <l xml:id="tg575.3.198.kqhc.0">Und keine Milch ich jemals seh,</l>
+                                 <l xml:id="tg575.3.199.kqhc.0">Sie könnte mich verschleimen</l>
+                                 <l xml:id="tg575.3.200.kqhc.0">Und innerlich verleimen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.201.kqhc.0"/>
+                                 <l xml:id="tg575.3.202.kqhc.0">Zur Stärkung der Memorie</l>
+                                 <l xml:id="tg575.3.203.kqhc.0">Muß ich gar oft Zichorie</l>
+                                 <l xml:id="tg575.3.204.kqhc.0">Mit braunem Sirup schlucken</l>
+                                 <l xml:id="tg575.3.205.kqhc.0">Und darf nicht einmal spucken.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.206.kqhc.0"/>
+                                 <l xml:id="tg575.3.207.kqhc.0">Man sperrte mich nun ein darauf,</l>
+                                 <l xml:id="tg575.3.208.kqhc.0">O du betrübter Lebenslauf!</l>
+                                 <l xml:id="tg575.3.209.kqhc.0">Ich muß stets stillesitzen,</l>
+                                 <l xml:id="tg575.3.210.kqhc.0">Um mich nicht zu erhitzen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.211.kqhc.0"/>
+                                 <l xml:id="tg575.3.212.kqhc.0">Und alle Tage Medezin!</l>
+                                 <l xml:id="tg575.3.213.kqhc.0">So gingen zehen Jahre hin.</l>
+                                 <l xml:id="tg575.3.214.kqhc.0">Mein Licht hat ausgeglommen,</l>
+                                 <l xml:id="tg575.3.215.kqhc.0">Mein Stündlein ist gekommen!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.216.kqhc.0"/>
+                                 <l xml:id="tg575.3.217.kqhc.0">Wie wird so froh die Seele mein</l>
+                                 <l xml:id="tg575.3.218.kqhc.0">Sich schwingen durch den Himmel rein,</l>
+                                 <l xml:id="tg575.3.219.kqhc.0">Hin zu dem Paradiese</l>
+                                 <l xml:id="tg575.3.220.kqhc.0">Auf eine frische Wiese.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.221.kqhc.0"/>
+                                 <l xml:id="tg575.3.222.kqhc.0">Zuerst vor allem an den Quell,</l>
+                                 <l xml:id="tg575.3.223.kqhc.0">Wo ich zertrat die Pimpernell,</l>
+                                 <l xml:id="tg575.3.224.kqhc.0">Verzeihung zu erbitten,</l>
+                                 <l xml:id="tg575.3.225.kqhc.0">Ich hab ja drum gelitten.</l>
+                                 <pb n="610" xml:id="tg575.3.226.kqhc.0"/>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.227.kqhc.0"/>
+                                 <l xml:id="tg575.3.228.kqhc.0">Dann zu dem lieben Vater mein</l>
+                                 <l xml:id="tg575.3.229.kqhc.0">Und zu dem lieben Brüderlein,</l>
+                                 <l xml:id="tg575.3.230.kqhc.0">Sie sollen mir vergeben</l>
+                                 <l xml:id="tg575.3.231.kqhc.0">Mein wildes Widerstreben.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.232.kqhc.0"/>
+                                 <l xml:id="tg575.3.233.kqhc.0">Und dann an meiner Mutter Brust,</l>
+                                 <l xml:id="tg575.3.234.kqhc.0">Die lebt schon in der Himmelslust,</l>
+                                 <l xml:id="tg575.3.235.kqhc.0">Sie wird an ihrem Herzen</l>
+                                 <l xml:id="tg575.3.236.kqhc.0">Mir nehmen alle Schmerzen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.237.kqhc.0"/>
+                                 <l xml:id="tg575.3.238.kqhc.0">Und dann, und dann, wohin Gott will,</l>
+                                 <l xml:id="tg575.3.239.kqhc.0">Ich bin zufrieden, halte still,</l>
+                                 <l xml:id="tg575.3.240.kqhc.0">Laß pressen und mich schnüren</l>
+                                 <l xml:id="tg575.3.241.kqhc.0">Und zu Gerichte führen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.242.kqhc.0"/>
+                                 <l xml:id="tg575.3.243.kqhc.0">Bin ich hier gleich zum Sterben krank,</l>
+                                 <l xml:id="tg575.3.244.kqhc.0">So sag ich doch von Herzen Dank</l>
+                                 <l xml:id="tg575.3.245.kqhc.0">Der Pimpernell am Quelle</l>
+                                 <l xml:id="tg575.3.246.kqhc.0">Und Mamsell Pimpernelle.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.247.kqhc.0"/>
+                                 <l xml:id="tg575.3.248.kqhc.0">Ich war gar heftig und gar wild,</l>
+                                 <l xml:id="tg575.3.249.kqhc.0">Ich ward durch sie ganz sanft und mild,</l>
+                                 <l xml:id="tg575.3.250.kqhc.0">Kann nun getröstet sterben,</l>
+                                 <l xml:id="tg575.3.251.kqhc.0">Das Himmelreich erwerben.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.252.kqhc.0"/>
+                                 <l xml:id="tg575.3.253.kqhc.0">Viel Böses hätt ich wohl getan,</l>
+                                 <l xml:id="tg575.3.254.kqhc.0">Drum tat der liebe Gott wohl dran</l>
+                                 <l xml:id="tg575.3.255.kqhc.0">Und ließ mich binden und schnüren,</l>
+                                 <l xml:id="tg575.3.256.kqhc.0">Da konnt ich mich nicht rühren.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.257.kqhc.0"/>
+                                 <l xml:id="tg575.3.258.kqhc.0">So starb in mir der Übermut;</l>
+                                 <l xml:id="tg575.3.259.kqhc.0">So ward ich selbst zum Sterben gut</l>
+                                 <l xml:id="tg575.3.260.kqhc.0">Und kann dich mit Entzücken,</l>
+                                 <l xml:id="tg575.3.261.kqhc.0">Liebseelchen! jetzt anblicken.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg575.3.262.kqhc.0"/>
+                                 <l xml:id="tg575.3.263.kqhc.0">Ach, grab mein Grab doch an dem Quell,</l>
+                                 <l xml:id="tg575.3.264.kqhc.0">Wo ich zerriß die Pimpernell,</l>
+                                 <l xml:id="tg575.3.265.kqhc.0">Und pflanz mir Pimpernelle</l>
+                                 <l xml:id="tg575.3.266.kqhc.0">Um meine kleine Zelle!</l>
+                              </lg>
+                              <lb xml:id="tg575.3.267.kqhc.0"/>
+                              <p xml:id="tg575.3.268.kqhc.0">So weit hatte das arme todkranke Schnürlieschen mit leiser Stimme seinen Lebenslauf und seine schwere Strafe erzählt, welche es für seine Grausamkeit an dem Kräutlein Pimpernelle <pb n="611" xml:id="tg575.3.268.1.kqhc.0"/>
+erlitten hatte, als auf einmal durch eine Hintertüre, welche Liebseelchen gar nicht bemerkt hatte, die alte Mamsell Pimpernell teils mit einem großen Kaffeebrett voll Kannen und Tassen, teils mit einem heftigen Zorn, das Schnürlieschen ganz bequem ohne Schnürbrust und Halsband daliegen zu sehen, hereintrat. Sie wußte nicht, ob sie zuerst der Prinzessin das Frühstück anbieten oder Schnürlieschen zuerst anfahren sollte, und kam darüber in eine solche Verwirrung, daß sie den Präsentierteller mit allem Geschirr unter großem Geklirr an den Boden fallen ließ, worüber das kranke Schnürlieschen so erschrak, daß sein schwaches Lebensfädchen entzweiriß.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.269.kqhc.0">Sie streckte ihre dünnen Fingerchen nach Liebseelchen aus und sprach: »Dank, herzlichen Dank! ich muß sterben. Mein letzter Wille ist, daß du, gutes Liebseelchen! nichts von allem, was ich dir gesagt, bekannt machest und der armen Mamsell Pimpernelle verzeihst, wie ich ihr auch von Herzen verzeihe, denn sie hat es gut mit mir gemeint, und ich habe es wohl noch schlimmer verdient, lebe wohl!« Da sah sie nochmal in die tränenvollen Augen Liebseelchens und schloß die ihrigen auf immer.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.270.kqhc.0">Liebseelchen saß ganz still da und weinte und dachte: »Ach, wie gut war das arme Schnürlieschen, und wie geduldig hat es für seinen Jugendfehler gebüßt, und wie menschenfreundlich ist es gestorben!« So dachte Liebseelchen und sah in das bleiche, müde Schlummergesicht des gestorbenen Schnürlieschens.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.271.kqhc.0">Mamsell Pimpernelle hatte sich indessen wieder aufgerafft und stürzte zwischen den zwei stillen Jungfrauen mit Entschuldigungen und Beschuldigungen hin und her wie eine Woge zwischen zwei ruhigen Felsen, und beide hörten sie nicht. Denn was kümmerte sich Schnürlieschen um ihr Zanken, daß sie ohne Schnürbrust daliege, hatte sie doch die engste Schnürbrust des menschlichen Leibes ausgezogen und bei der andern Schnürbrust liegen lassen, und breitete ihre gute geprüfte Seele doch schon Minuten lang ihre Flügel in einer schönern Welt aus, hinschwebend über ewig blühende Wiesen, wo keine Mamsell Pimpernelle sie zerquälte, wo ihre liebe Mutter und ihr guter Vater sie ans Herz drückten; denn auch dieser war aus Kummer über ihre Entführung gestorben. Auch Liebseelchen <pb n="612" xml:id="tg575.3.271.1.kqhc.0"/>
+hörte nicht auf Mamsell Pimpernell; denn sie betete mit stillen Tränen für das gute Schnürlieschen und dachte: »Ach Gott! wie blind und verdreht können doch die armen Menschen einander das Leben verbittern und verkrüppeln! Ach, was würden doch für Affen und endlich noch für niedrigere Tiere aus den Menschen werden, wenn sich Gott ihrer nicht erbarmte und die Mittel, welche sie anwenden, sich zu verderben, gerade zu ihrer Besserung wendete! Da hat nun die Mamsell Pimpernell aus dem guten Schnürlieschen eine recht verdrehte Zierpuppe machen wollen, und gerade dadurch ist sie ein recht liebes, geduldiges Lämmchen geworden, das sich jetzt recht wohl bei andern Lämmern im Himmel befinden mag.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.272.kqhc.0">Nach diesen Gedanken wurde Liebseelchen von Mamsell Pimpernell gestört, welche mit aller Gewalt die Verstorbene wieder einschnüren wollte und ihr die heftigsten Vorwürfe machte, daß sie sich aus Eigensinn nicht rühre und rege. Liebseelchen konnte es nicht länger mit ansehen und sprach zu Mamsell Pimpernell, indem sie dieselbe sanft zurückzog: »Schnürlieschen hat ausgelitten; hören Sie auf, Ihre Reden an die Überreste eines armen Kindes zu verlieren, dessen Seele bereits außer dem Umfange aller Schnürleiber und Halsbänder ist. Ich habe ihren letzten Willen empfangen und werde für ihre Beerdigung sorgen. Ich kenne das unglückliche Schicksals des armen Schnürlieschens in seinem ganzen Umfang. Sie hat Ihnen von Herzen verziehen, und nach ihrem ausgesprochenen letzten Willen rede ich keine Silbe von allem, was Ihnen, Mamsell Pimpernell, sehr übel bekommen könnte, wenn es bekannt würde.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.273.kqhc.0">Mamsell Pimpernell fühlte sich von diesen Worten Liebseelchens so angegriffen, daß sie in Ohnmacht sank. Liebseelchen bekümmerte sich nicht um sie, rief aber ihrem Gefolge und befahl ihnen, das Bett, worauf Schnürlieschen lag, welche sie mit ihrem Schleier bedeckt hatte, nach dem Schlosse zu tragen, und allen andern Jungfrauen und Mägdlein, welche bei Mamsell Pimpernelle erzogen wurden, befahl sie, paarweise dem Zuge nachzufolgen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.274.kqhc.0">Alles eilte, den Willen der geliebten Prinzessin zu vollbringen, und vorzüglich die Zöglinge der Mamsell Pimpernelle, welchen <pb n="613" xml:id="tg575.3.274.1.kqhc.0"/>
+dieses außerordentliche Ereignis eine große Freude machte. Sie hatten ihre Staatskleider wegen des Empfanges Liebseelchens noch an und waren daher sogleich bereit, ihr zu folgen, und da sie fröhlich durcheinanderplapperten, als sie die Botschaft erhalten hatten, und einander fragten, durch welche Straße der Zug wohl gehen und wer von ihnen an dem Hause seiner Eltern oder Freunde vorüberkommen würde, sagte Liebseelchen, die an ihnen vorüberging, indem sie dem Schnürlieschen folgte, das auf seinem Lager die Treppe hinabgetragen wurde: »Meine Kinder, wer hat Schnürlieschen am liebsten gehabt?« Da sagten alle: »Ich, ich, ich!« Da erwiderte Liebseelchen; »Das wollen wir alles untersuchen; jetzt aber stellt euch nach der Größe, um ihr nach dem Schlosse zu folgen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.275.kqhc.0">Da gab es wieder eine große Verwirrung, denn eine klagte über die andere, sie habe höhere Absätze oder einen höheren Aufsatz. Einige aber standen ganz still im Hintergrund. Liebseelchen winkte ihnen, vorzutreten, und ordnete die andern paarweise, wie es ihr gutdünkte, und fragte sie, ob sie nicht ein schönes, frommes Lied singen könnten. Sie konnten aber keine anderen Lieder als französische: <hi rend="italic" xml:id="tg575.3.275.1.kqhc.0">Malbrough s'en va-t-en guerre, miron ton ton tonton taire,</hi> oder <hi rend="italic" xml:id="tg575.3.275.2.kqhc.0">Je ne saurais danser, ma pantoufle est trop étroite,</hi> welches auf deutsch heißt: »Ich werde nicht tanzen können, mein Pantoffel ist zu eng« u.dgl. Da sagte Liebseelchen: »Hat denn Schnürlieschen kein Lieblingslied gehabt?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg575.3.276.kqhc.0">– »O ja,« erwiderten mehrere, »und wir können es alle, aber wir durften es nicht singen.«</p>
+                              <pb n="614" xml:id="tg575.3.277.kqhc.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

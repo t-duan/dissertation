@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0s2.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Merkwürdige Prophezeiung</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>364-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg402.r0s1.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Merkwürdige Prophezeiung">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Merkwürdige Prophezeiung</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B1A0-F</idno><idno type="TextGridUri">textgrid:r0s1.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>364-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg402.3.r0s1.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg402.3.1.r0s1.0">Merkwürdige Prophezeiung</head>
+
+                              <p xml:id="tg402.3.2.r0s1.0">In dem Werk: <hi rend="italic" xml:id="tg402.3.2.1.r0s1.0">Paris, Versailles et les Provinces au 18me siècle, par un ancien officier aux gardes françaises, 2 Vol. in 8. 1809</hi>, wird die Erzählung einer sonderbar eingetroffenen Vorherverkündigung mit zuviel historischen Angaben belegt, als daß sie nicht einiger Erwägung wert wäre. Herr von Apchon war in seiner früheren Jugend Malteserritter, und von seiner Familie zum Seedienst bestimmt. Als er in dem Kollegium zu Lyon war, wurde er einem spanischen Jesuiten vorgestellt, der, unter seinen Mitbrüdern, für einen Wahrsager galt. Dieser, als er ihn ins Auge faßte, sagte ihm, auf eine sonderbare Weise, daß er einst eine der Stützen der Kirche, und der dritte Bischof von Dijon werden würde. Man verstand den Jesuiten um so weniger, da es damals in Dijon keinen Bischof gab, und Herr von Apchon ward, von diesem Augenblick an, von seinen Mitschülern spottweise<hi rend="italic" xml:id="tg402.3.2.2.r0s1.0"> der Bischof</hi> genannt: einen Zunamen, den er auch nachher als Seekadett beibehielt. Zehn Jahre darauf ward Herr von Apchon Bischof von <hi rend="italic" xml:id="tg402.3.2.3.r0s1.0">Dijon</hi>, und nachheriger Erzbischof von <hi rend="italic" xml:id="tg402.3.2.4.r0s1.0">Auch</hi>. – Diese Begebenheit bestätigen alle Zeitgenossen; und der ehrwürdige Prälat selbst hat sie, durch sein ganzes Leben, erzählt.</p>
+                              <pb n="364" xml:id="tg402.3.3.r0s1.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

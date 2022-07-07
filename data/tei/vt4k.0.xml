@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vt4k.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Geschichten aus der Tonne</title><title>Erzählungen</title><title>Storm, Theodor</title><title>Se dohn sick wat to gude</title><author>Storm, Theodor</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-1CEC-F</idno><idno type="textgrid">textgrid:vt9k.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstdruck: Köln (Schaffstein) [1919], (Schaffstein's blaue Bändchen, 102).
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title><author key="pnd:118618725">Storm, Theodor</author></titleStmt><extent>329-</extent><publicationStmt><date when-iso="1967"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title><author key="pnd:118618725">Storm, Theodor</author></titleStmt><extent>334-</extent><publicationStmt><date when-iso="1967"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg262.vt4j.0" n="/Literatur/M/Storm, Theodor/Erzählungen/Geschichten aus der Tonne/Se dohn sick wat to gude">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Se dohn sick wat to gude</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-1C59-8</idno><idno type="TextGridUri">textgrid:vt4j.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title>
+                  <author key="pnd:118618725">Storm, Theodor</author>
+               </titleStmt>
+               <extent>334-</extent>
+               <publicationStmt>
+                  <date when="1967"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1817" notAfter="1888"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg262.2.vt4j.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg262.2.1.vt4j.0">Se dohn sick wat to gude</head>
+
+                              <p xml:id="tg262.2.2.vt4j.0">»Nu will wi uns wat to gude dohn«, sagte Frau Marthe; da ging ihr Mann, der Schustermeister, aus der Haustür, und die Frau »Naversch« watschelte hinein. ›Aha‹, dachte der <pb n="334" xml:id="tg262.2.2.1.vt4j.0"/>
+Meister, der es gehört hatte, ›nu geit 't över Koffee und Zucker her.‹ Als er aber nach einer halben Stunde wieder nach Hause kam, da ging »Fru Naversch« eben wieder aus der Stube, und die Kaffeetassen standen unberührt auf dem Brett über der Tür. Da konnte der Mann gar nicht begreifen, was doch die Weiber sich zugute täten. Es dauerte aber nicht lange, so ging er wieder aus dem Hause und sagte, daß er so bald nicht wiederkommen würde. Kaum ist er um die nächste Ecke, so hört er noch seine Frau rufen: »Kumm Se 'n bät um, Naversch, nu will wi uns recht wat to gude dohn«; und wie er so über die Straßensteine schreitet, so kann er's immer nicht loswerden, und er muß immer denken: ›Wat willt se sick denn to gude dohn?‹ Kaum kommt er wieder nach Hause, so geht »Naversch« aus der Tür, und die Tassen stehen ruhig auf ihrem Platz, ist auch sonst nichts gerührt. Da nimmt der Mann seine Marthe vor und fragt: »Na, laat mi doch oock mal wäten, wat jüm jüm denn to gude doht!« Die Frau aber sagt, daß sei nur so eine Redensart, und was sie sich wohl zugute tun sollten; sie täte sich nichts zugute als mit Arbeit und Plagen den ganzen Tag; genug, der Mann bekommt's nicht heraus. Da dacht er's mit List anzufangen – denn es ließ ihm nun einmal keine Ruhe mehr – und sagte eines Nachmittags, er wolle aufs Land gehen. Damit geht er um die nächste Ecke und hört sein Weib an »Fru Naversch« Fensterscheiben klopfen und wie gewöhnlich sagen: »Kumm Se 'rum, Naversch, min Ohl' is uut; wi willt uns en bät to gude dohn.« Der Mann aber geht hinten wieder ins Haus hinein und steigt leise die Bodentreppe hinauf; als er oben ist, bohrt er ebenso leise ein Loch in den Boden und sieht nun deutlich in die Stube hinab. Da sitzen Frau Marthe und Frau Naversch gegeneinander über, die Arme ineinandergeschlagen auf dem Tisch und die Feuerkieken unter den Füßen. ›Na‹, denkt der Mann, ›dohn se sick all wat to gude?‹ Aber auf dem Tisch liegt nichts als der wollne Strickstrumpf der Frau Marthe. Und wie die Weiber sich so einander gegenübersitzen, so fangen ihre Augen ordentlich an zu brennen und zu funkeln, <pb n="335" xml:id="tg262.2.2.2.vt4j.0"/>
+so als wenn die Katz einen Kanarienvogel oder eine feine Nachtigall zerreißen will.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.3.vt4j.0">›Na‹, denkt der Mann, ›nu geit 't los‹, und erwartet jeden Augenblick, daß die Magd das heimliche Gericht auf den Tisch tragen solle. Es kam aber keins, und doch ging's nun in der Tat los, und die Zungen hatten heiße Arbeit. Das war ein ganz anderes Gericht, das blieb nicht bei einem gebratenen Täubchen oder Hühnchen; die ganze Stadt verschlangen die beiden Weiber; Väter, Mütter, Bräute, Kinder, alle mußten herhalten, kaum die Wiegenkinder blieben verschont, und war bald von allen kein Haar mehr übrig. Dabei schmatzten sie mit den Lippen, und die Zungen gingen ihnen wie zwei Messerspitzen, und ihre Augen wurden immer brennender und gieriger, daß es genau den Anschein bekam, als wenn sie sich zum Beschluß noch selber verschlingen wollten, damit doch alles verputzt sei und es morgen schön Wetter werde. ›Tööf still‹, denkt der Meister, steigt leise die Bodentreppe herunter und platzt mit einem Male in die Stube hinein. Da wurden die Weiber auf der Stelle ruhig, Frau Marthe nahm hastig den Strickstrumpf in die Hand; Fru Naversch wickelte die Schürze um die Arme und wollte zur Tür hinaus. »Tööf still«, sagte der Mann und verschloß die Tür, »nu paß mal op, nu will <hi rend="italic" xml:id="tg262.2.3.1.vt4j.0">ick</hi> mi mal wat to gude dohn.« Somit nahm er den Knieriemen von seinem Schustertisch, kriegte seine Frau Marthe beim Kranshaken und fing an, sie etwas durchzugerben, wobei er in einem fort ausrief: »Dat is för Hans und dat is för Greth, und dat is för Greth und dat för Hans«, und dabei ging es immer: »Hast du mich gesehen!« – »Sieh so,« sagte er endlich und warf den Knieriemen wieder auf den Tisch, »up so 'n Maaltied, as du von Dag holen hest, schall so 'n Motschion di wull gut dohn.« Dann schloß er die Tür auf, und Fru Naversch schlich wie 'ne Katze aus der Stube. »Nu nehm Se sick in acht«, rief der Meister hinterdrein, »dat ick mi nich ock 'n mal bi Är to Gaste laad.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.4.vt4j.0">Seit der Zeit haben Frau Naversch und Frau Marthe sich niemals etwas wieder zugute getan; denn Frau Marthe hatte <pb n="336" xml:id="tg262.2.4.1.vt4j.0"/>
+allen Appetit auf ihre Nebenmenschen verloren; und – Schnipp, schnapp, schnuut, min Stück is uut! –</p>
+                              <lb xml:id="tg262.2.5.vt4j.0"/>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.6.vt4j.0">»Das ist ein sonderbares Stück, Claas«, sagte ich und putzte mit meinem Taschenmesser unser Lichtendchen; »das hast du wohl selbst gemacht.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.7.vt4j.0">»Nein«, versetzte Claas, »das hat mein Vater immer meiner Mutter erzählt, wenn sie den Mund nicht darüber halten konnte, daß die Frau Muhme so breite Knüppels auf der Dormeuse trage.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.8.vt4j.0">»Aber hat denn dein Vater seine Frau auch mitunter mit dem Knieriemen gegerbt?« fragte ich.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.9.vt4j.0">»So alle Festtage einmal«, erwiderte Claas, »er sagte dann immer, das sei nach dem jütschen Lov. – Aber nun sollst du auch etwas erzählen; denn mir wird der Mund trocken, und es ist hier auch gewaltig heiß in der Tonne.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.10.vt4j.0">»Ich kann besser hören, lieber Claas«, sagte ich, »erzähle nur noch ein einziges kleines Stück; dein Vater hat dir ja soviel Schönes erzählt. Ich will das Brett etwas von der Tonne schieben. – Siehst du, nun ist's wieder ganz kühl und luftig!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg262.2.11.vt4j.0">Und Claas ließ sich noch einmal bewegen und erzählte:</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

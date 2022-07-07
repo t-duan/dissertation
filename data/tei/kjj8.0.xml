@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:kjj8.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Wunderbilder und Träume</title><title>Erzählungen</title><title>Bernhardi, Sophie</title><title>Die Waldgenossin</title><author>Bernhardi, Sophie</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0002-2E92-B</idno><idno type="textgrid">textgrid:kjh5.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstdruck unter dem Titel »Wunderbilder und Träume in eilf Mährchen«: Königsberg (Friedrich Nicolovius) 1802.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Sophie Bernhardi: Wunderbilder und Träume, 2. Ausgabe, Königsberg: Universitäts-Buchhandlung, 1823.</title><author key="pnd:118973665">Bernhardi, Sophie</author></titleStmt><extent>1-</extent><publicationStmt><date when-iso="1823"/><pubPlace>Königsberg</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Sophie Bernhardi: Wunderbilder und Träume, 2. Ausgabe, Königsberg: Universitäts-Buchhandlung, 1823.</title><author key="pnd:118973665">Bernhardi, Sophie</author></titleStmt><extent>289-</extent><publicationStmt><date when-iso="1823"/><pubPlace>Königsberg</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg87.kjj7.0" n="/Literatur/M/Bernhardi, Sophie/Erzählungen/Wunderbilder und Träume/Die Waldgenossin">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Waldgenossin</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-2EB3-1</idno><idno type="TextGridUri">textgrid:kjj7.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sophie Bernhardi: Wunderbilder und Träume, 2. Ausgabe, Königsberg: Universitäts-Buchhandlung, 1823.</title>
+                  <author key="pnd:118973665">Bernhardi, Sophie</author>
+               </titleStmt>
+               <extent>289-</extent>
+               <publicationStmt>
+                  <date when="1823"/>
+                  <pubPlace>Königsberg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1775" notAfter="1823"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg87.3.kjj7.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg87.3.1.kjj7.0">Die Waldgenossin</head>
+
+                              <p xml:id="tg87.3.2.kjj7.0">
+                                 <pb n="289" xml:id="tg87.3.2.1.kjj7.0"/>
+                                 <pb type="start" n="291" xml:id="tg87.3.2.2.kjj7.0"/>Still für sich betend ging ein Einsiedler durch den Wald, welchen der Frühling eben erst von neuem mit muntern Laube bekleidet hatte. Vögel hüpften auf den Zweigen und schauten auf den Einsiedler hinunter; dann erhoben sie ihre Stimmen, und sangen in muntern wirbelnden Tönen ihre frohen Lieder der warmen Sonne entgegen, die ihre grüne Wohnung vergoldete. Aber der Einsiedler wandte sein Haupt nicht zu den Vögeln empor, er vernahm auch ihre Lieder nicht, sondern wandelte still seiner Wohnung zu. Und doch war sein Sinn auch nicht mit seinem Gebet beschäftigt, sondern alle seine Gedanken flohen nach seiner Geliebten hin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg87.3.3.kjj7.0">
+                                 <pb n="291" xml:id="tg87.3.3.1.kjj7.0"/>
+Die Welt hat den unglücklichen Alonso vergessen, seufzte er endlich, wie du undankbare Flerida; aber ich kann die Welt nicht vergessen, weil du einzig Geliebte darin lebst. Und doch will ich den Anblick der Menschen meiden, weil du, grausame Flerida, mich nicht mit deinem holdseligen Blick erfreuen willst. Er hatte jetzt seine Wohnung erreicht, es war eine dichte Laube, die sich durch nahe an einander stehende Bäume gebildet hatte. Epheu wuchs an den Baumstämmen empor, und bekleidete so die Wände des grünen Gemaches. Keine Höhle, sagte der Einsiedler, will ich zu meiner Wohnung erwählen: sie würde mir nicht mehr ein Bild deines reizenden blühenden Lebens seyn. Sehe ich den Epheu sich an den Bäumen hinab schmiegen, so ist mir, ich sähe dich geschmückt mit grünen Gewändern. Brechen die Sonnenstrahlen durch die Wipfel der Bäume, und spielen glänzend auf dem Boden, so ist mir, als wären es die funkelnden Steine in deinen dunkeln Locken, die mit ihrem Glanze mein Herz träfen. Höre ich der Vögel Stimmen über mir, so glaube <pb n="292" xml:id="tg87.3.3.2.kjj7.0"/>
+ich dich zu vernehmen, wie du zu süßen Harfentönen lieblich singst. Rauscht ein leichter Wind in den Zweigen, so bebe ich entzückt und denke: endlich hast du dich meiner erbarmt, und erwartest mich hier in meiner Wohnung, und wirst nun mit deinen zarten Händen den grünen Vorhang von Blättern aufheben, und mit den holdseligen Mienen hervortreten, mir die Hand reichen und mich freundlich anlächeln. Als der Einsiedler noch so redete, rauschte ein Wind, die Epheuranken bewegten sich, eine weiße Hand theilte sie, und es trat eine weibliche Gestalt mit freundlichen Mienen in die Laube. In ihren dunkeln Locken schimmerten kostbare Steine, ein grünes Gewand floß zu ihren Füßen herab, eine silberne Zitter ruhte in ihrem linken Arm; sie betrachtete den Einsiedler einige Zeit, dann fing sie an auf der Zitter zu spielen, und begleitete die Töne mit ihrem Gesange:</p>
+                              <lb xml:id="tg87.3.4.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.5.kjj7.0">Wohntest unter meinen Bäumen,</l>
+                                 <l xml:id="tg87.3.6.kjj7.0">Klagtest oft hier deine Schmerzen,</l>
+                                 <l xml:id="tg87.3.7.kjj7.0">Und mir ging dein Leid zu Herzen,</l>
+                                 <l xml:id="tg87.3.8.kjj7.0">Möchte gern hinweg es räumen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.9.kjj7.0"/>
+                                 <pb n="293" xml:id="tg87.3.10.kjj7.0"/>
+                                 <l xml:id="tg87.3.11.kjj7.0">Wann du oft mit bittern Thränen</l>
+                                 <l xml:id="tg87.3.12.kjj7.0">Flerida Geliebte nanntest,</l>
+                                 <l xml:id="tg87.3.13.kjj7.0">Dich zu meinen Bäumen wandtest,</l>
+                                 <l xml:id="tg87.3.14.kjj7.0">Riefest: stillet doch mein Sehnen!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.15.kjj7.0"/>
+                                 <l xml:id="tg87.3.16.kjj7.0">Oftmals dann im stillen Sinne,</l>
+                                 <l xml:id="tg87.3.17.kjj7.0">Dacht' ich: wie Sie alle Leiden,</l>
+                                 <l xml:id="tg87.3.18.kjj7.0">Senk' ich in sein Herz wohl Freuden,</l>
+                                 <l xml:id="tg87.3.19.kjj7.0">Daß sein herbes Weh zerrinne.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.20.kjj7.0"/>
+                                 <l xml:id="tg87.3.21.kjj7.0">Und mein faltig grün Gewand</l>
+                                 <l xml:id="tg87.3.22.kjj7.0">Ließ ich durch die Blätter spielen,</l>
+                                 <l xml:id="tg87.3.23.kjj7.0">Winde luftig drinne wühlen,</l>
+                                 <l xml:id="tg87.3.24.kjj7.0">Nahm die Zitter in die Hand.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.25.kjj7.0"/>
+                                 <l xml:id="tg87.3.26.kjj7.0">Wenn das Saitenspiel erklang,</l>
+                                 <l xml:id="tg87.3.27.kjj7.0">Fingen Vöglein an zu singen,</l>
+                                 <l xml:id="tg87.3.28.kjj7.0">Wollten meinen Ton bezwingen</l>
+                                 <l xml:id="tg87.3.29.kjj7.0">Mit dem lieblichsten Gesang:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.30.kjj7.0"/>
+                                 <l xml:id="tg87.3.31.kjj7.0">Und nicht lange, so erschallt</l>
+                                 <l xml:id="tg87.3.32.kjj7.0">Es in Wipfeln auf und nieder,</l>
+                                 <l xml:id="tg87.3.33.kjj7.0">Aller Vöglein süße Lieder</l>
+                                 <l xml:id="tg87.3.34.kjj7.0">Wirbeln durch den ganzen Wald.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.35.kjj7.0"/>
+                                 <l xml:id="tg87.3.36.kjj7.0">Aber wie der Wald auch lacht,</l>
+                                 <l xml:id="tg87.3.37.kjj7.0">Wie die Vögel immer ringen,</l>
+                                 <l xml:id="tg87.3.38.kjj7.0">Wie die Stimmen munter klingen,</l>
+                                 <l xml:id="tg87.3.39.kjj7.0">Stets in dir die Liebe wacht.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.40.kjj7.0"/>
+                                 <pb n="294" xml:id="tg87.3.41.kjj7.0"/>
+                                 <l xml:id="tg87.3.42.kjj7.0">Scheuchet Waldlust wohl zurücke;</l>
+                                 <l xml:id="tg87.3.43.kjj7.0">Denkest gar beim Sonnenscheine</l>
+                                 <l xml:id="tg87.3.44.kjj7.0">Ihren Putz, ihr schön Gesteine,</l>
+                                 <l xml:id="tg87.3.45.kjj7.0">Seufzest nur nach ihrem Blicke.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.46.kjj7.0"/>
+                                 <l xml:id="tg87.3.47.kjj7.0">Daß in meinem sanften Herzen,</l>
+                                 <l xml:id="tg87.3.48.kjj7.0">Schon der wilde Zorn entbrannte,</l>
+                                 <l xml:id="tg87.3.49.kjj7.0">Weil dein Herz es nicht erkannte,</l>
+                                 <l xml:id="tg87.3.50.kjj7.0">Wie ich litt bei deinen Schmerzen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.51.kjj7.0"/>
+                                 <l xml:id="tg87.3.52.kjj7.0">Es entwich der zorn'ge Muth,</l>
+                                 <l xml:id="tg87.3.53.kjj7.0">Fühlt' im Herzen wieder Reue,</l>
+                                 <l xml:id="tg87.3.54.kjj7.0">Daß ich strafen wollt' um Treue;</l>
+                                 <l xml:id="tg87.3.55.kjj7.0">Ward dir so von neuem gut.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.56.kjj7.0"/>
+                                 <l xml:id="tg87.3.57.kjj7.0">Und beschloß nun dir zu dienen.</l>
+                                 <l xml:id="tg87.3.58.kjj7.0">Dich zu retten aus den Träumen,</l>
+                                 <l xml:id="tg87.3.59.kjj7.0">Saß ich sinnend in den Bäumen,</l>
+                                 <l xml:id="tg87.3.60.kjj7.0">Hoch im Wipfel so im Grünen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.61.kjj7.0"/>
+                                 <l xml:id="tg87.3.62.kjj7.0">Und nach meiner Zitter Tönen,</l>
+                                 <l xml:id="tg87.3.63.kjj7.0">Kam der Vögel Königin,</l>
+                                 <l xml:id="tg87.3.64.kjj7.0">Ich erweichte nun den Sinn</l>
+                                 <l xml:id="tg87.3.65.kjj7.0">Dieser Holden, dieser Schönen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.66.kjj7.0"/>
+                                 <l xml:id="tg87.3.67.kjj7.0">Sie versprach mir, hinzufliegen,</l>
+                                 <l xml:id="tg87.3.68.kjj7.0">Wo ich deine Schöne sah,</l>
+                                 <l xml:id="tg87.3.69.kjj7.0">Die du nennest Flerida,</l>
+                                 <l xml:id="tg87.3.70.kjj7.0">Sie mit Tönen zu besiegen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.71.kjj7.0"/>
+                                 <pb n="295" xml:id="tg87.3.72.kjj7.0"/>
+                                 <l xml:id="tg87.3.73.kjj7.0">Was sie sprach, hat sie vollendet,</l>
+                                 <l xml:id="tg87.3.74.kjj7.0">Du hast Leid genug gelitten,</l>
+                                 <l xml:id="tg87.3.75.kjj7.0">Folge froh nun meinen Schritten,</l>
+                                 <l xml:id="tg87.3.76.kjj7.0">Eh dein Glück sich wieder wendet.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.77.kjj7.0"/>
+                                 <l xml:id="tg87.3.78.kjj7.0">Meine Bäume, die ich liebe,</l>
+                                 <l xml:id="tg87.3.79.kjj7.0">Will ich dir zu Liebe meiden,</l>
+                                 <l xml:id="tg87.3.80.kjj7.0">Sorgend daß von deinen Leiden</l>
+                                 <l xml:id="tg87.3.81.kjj7.0">Dir kein Schein zurücke bliebe.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.82.kjj7.0"/>
+                              <p xml:id="tg87.3.83.kjj7.0">Als die Schöne dies Lied geendigt hatte, trat sie aus der Laube heraus, und ging durch den Wald, Alonso folgte ihr. Ihr weites grünes Gewand wurde oft vom Winde aufgehoben, und verbreitete dann einen süßen Duft und liebliche Kühlung. Wann der grüne Saum die Grasspitzen berührte, so wurde das Gras grüner, und kleine Blümchen blickten daraus hervor. Die dunkeln Locken wehten um ihre Schultern, die Edelsteine funkelten darin, und es war dem Alonso, als ob die Nacht mit ihren Sternen auf grünen Bäumen ruhte. Indem sie ging, spielte sie auf der Zitter, die Vögel folgten den Tönen, und sangen mit ihren Stimmen darein. Alonso war wie träumend, so folgte er der<pb n="296" xml:id="tg87.3.83.1.kjj7.0"/>
+ Schönen, die mit ihm so wunderbar durch den Wald zog.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg87.3.84.kjj7.0">Nachdem sie den Tag über gewandert waren, und die Sonne matter zu scheinen anfing, war der Gang von Alonso's Führerin nicht mehr so schnell; sie blickte oft seufzend nach den Bäumen, dann sah sie sich nach dem Einsiedler um, und als nun endlich die Sonne untergegangen war, stand sie bei einer hohen Buche still, die ihre Zweige weit verbreitete. Die Schöne sah einige Augenblicke in die dichten Zweige hinauf, dann schlug sie einige Töne auf ihrer Zitter, worauf sie sang:</p>
+                              <lb xml:id="tg87.3.85.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.86.kjj7.0">Schwester in dem dunkeln Baum,</l>
+                                 <l xml:id="tg87.3.87.kjj7.0">In der Wohnung hör die Bitte,</l>
+                                 <l xml:id="tg87.3.88.kjj7.0">Freundlich nach der alten Sitte,</l>
+                                 <l xml:id="tg87.3.89.kjj7.0">Scheuche gleich den süßen Traum.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.90.kjj7.0"/>
+                                 <l xml:id="tg87.3.91.kjj7.0">Meine Bitten sind geringe:</l>
+                                 <l xml:id="tg87.3.92.kjj7.0">Laß nicht, daß der niedre grüne</l>
+                                 <l xml:id="tg87.3.93.kjj7.0">Teppich mir zum Lager diene,</l>
+                                 <l xml:id="tg87.3.94.kjj7.0">Nicht zu dieser Schmach mich zwinge.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.95.kjj7.0"/>
+                                 <l xml:id="tg87.3.96.kjj7.0">Senke zu mir her die Zweige,</l>
+                                 <l xml:id="tg87.3.97.kjj7.0">Daß sie mich zu dir erheben,</l>
+                                 <l xml:id="tg87.3.98.kjj7.0">Wiegend süße Träume geben;</l>
+                                 <l xml:id="tg87.3.99.kjj7.0">So mir Huld und Lieb' erzeige.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.100.kjj7.0"/>
+                                 <l xml:id="tg87.3.101.kjj7.0">
+                                    <pb n="297" xml:id="tg87.3.101.1.kjj7.0"/>
+Vom Baume herunter antwortete eine Stimme im schläfrigen Tönen:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.102.kjj7.0"/>
+                                 <l xml:id="tg87.3.103.kjj7.0">Wessen Stimme hör' ich schallen,</l>
+                                 <l xml:id="tg87.3.104.kjj7.0">Da schon lange sich geneiget</l>
+                                 <l xml:id="tg87.3.105.kjj7.0">Heller Tag,</l>
+                                 <l xml:id="tg87.3.106.kjj7.0">Und sein Strahl uns nicht mehr zeiget,</l>
+                                 <l xml:id="tg87.3.107.kjj7.0">Wo wir auf der Reise wallen?</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.108.kjj7.0"/>
+                                 <l xml:id="tg87.3.109.kjj7.0">Nach der altgewohnten Weise,</l>
+                                 <l xml:id="tg87.3.110.kjj7.0">Als ich sah der Sterne Funkeln,</l>
+                                 <l xml:id="tg87.3.111.kjj7.0">Thät der Schlaf</l>
+                                 <l xml:id="tg87.3.112.kjj7.0">Mir das müde Haupt umdunkeln:</l>
+                                 <l xml:id="tg87.3.113.kjj7.0">Und du bist noch auf der Reise?</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.114.kjj7.0"/>
+                                 <l xml:id="tg87.3.115.kjj7.0">Deiner Zitter Stimme saget,</l>
+                                 <l xml:id="tg87.3.116.kjj7.0">Unten tief in Waldes Grunde</l>
+                                 <l xml:id="tg87.3.117.kjj7.0">Sey dein Haus:</l>
+                                 <l xml:id="tg87.3.118.kjj7.0">Warum hast in dieser Stunde,</l>
+                                 <l xml:id="tg87.3.119.kjj7.0">Um ein Lager du geklaget?</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.120.kjj7.0"/>
+                                 <l xml:id="tg87.3.121.kjj7.0">Die Schöne schüttelte ihre dunkeln Locken, und sang mit zorniger Stimme:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.122.kjj7.0"/>
+                                 <l xml:id="tg87.3.123.kjj7.0">Glaubst du, daß mich böses zwang,</l>
+                                 <l xml:id="tg87.3.124.kjj7.0">Von den Bäumen zu entfliehen?</l>
+                                 <l xml:id="tg87.3.125.kjj7.0">Winde, Vögel nach mir ziehen,</l>
+                                 <l xml:id="tg87.3.126.kjj7.0">Folgend all' dem süßen Klang.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.127.kjj7.0"/>
+                                 <l xml:id="tg87.3.128.kjj7.0">Meine Zitter könnt' ich schlagen,</l>
+                                 <l xml:id="tg87.3.129.kjj7.0">Und sie würden alle weilen.</l>
+                                 <pb n="298" xml:id="tg87.3.130.kjj7.0"/>
+                                 <l xml:id="tg87.3.131.kjj7.0">Keiner würde nach mir eilen,</l>
+                                 <l xml:id="tg87.3.132.kjj7.0">Hätten sie mich zu verklagen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.133.kjj7.0"/>
+                                 <l xml:id="tg87.3.134.kjj7.0">Mitleid hat mich angetrieben,</l>
+                                 <l xml:id="tg87.3.135.kjj7.0">Daß ich ziehe durch die Wälder,</l>
+                                 <l xml:id="tg87.3.136.kjj7.0">Ueber blumenreiche Felder,</l>
+                                 <l xml:id="tg87.3.137.kjj7.0">Zu vereinen, die sich lieben.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.138.kjj7.0"/>
+                                 <l xml:id="tg87.3.139.kjj7.0">Wohl, du senkst die Zweige nieder,</l>
+                                 <l xml:id="tg87.3.140.kjj7.0">Hebst empor mich in die Lüfte,</l>
+                                 <l xml:id="tg87.3.141.kjj7.0">Mich umfächeln Blüthendüfte,</l>
+                                 <l xml:id="tg87.3.142.kjj7.0">Schlaf erquickt die müden Glieder.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.143.kjj7.0"/>
+                                 <l xml:id="tg87.3.144.kjj7.0">Auch dem Freunde hold dich zeige,</l>
+                                 <l xml:id="tg87.3.145.kjj7.0">Laß den großen Baum mit düstern</l>
+                                 <l xml:id="tg87.3.146.kjj7.0">Zweigen durch einander flüstern,</l>
+                                 <l xml:id="tg87.3.147.kjj7.0">Daß ihm Schlaf hernieder steige.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.148.kjj7.0"/>
+                              <p xml:id="tg87.3.149.kjj7.0">Die Schöne war in den Zweigen des Baumes verschwunden; Alonso wollte den hohen Wipfel noch durchschauen, aber die unzähligen Blätter flüsterten mit so lieblichem Geräusch durch einander, daß er seine Augen schließen mußte, und entschlief. Am Morgen erwachte er frühe und betrachtete den Baum, dann wieder die Gegend des Waldes, er war hier ganz unbekannt. Seine gestrige Begebenheit kam ihm in das Gedächtniß zurück, <pb n="299" xml:id="tg87.3.149.1.kjj7.0"/>
+aber er wagte es nicht daran zu glauben, sondern hielt alles für einen Traum. Er sah die alte Buche wieder an, und konnte sich der Thränen nicht erwehren. So warf er sich an ihrer Wurzel nieder, und sang mit betrübter Stimme:</p>
+                              <lb xml:id="tg87.3.150.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.151.kjj7.0">Zu dir auf, du hoher Baum,</l>
+                                 <l xml:id="tg87.3.152.kjj7.0">Muß ich meine Augen lenken;</l>
+                                 <l xml:id="tg87.3.153.kjj7.0">Immer muß ich sehnend denken:</l>
+                                 <l xml:id="tg87.3.154.kjj7.0">Wär mein Träumen doch kein Traum!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.155.kjj7.0"/>
+                                 <l xml:id="tg87.3.156.kjj7.0">Denk' ich an die holde Schöne,</l>
+                                 <l xml:id="tg87.3.157.kjj7.0">Die der Ast empor geschaukelt,</l>
+                                 <l xml:id="tg87.3.158.kjj7.0">Wie die Vögel sie umgaukelt,</l>
+                                 <l xml:id="tg87.3.159.kjj7.0">An den Zauber ihrer Töne:</l>
+                                 <l xml:id="tg87.3.160.kjj7.0">Dann muß ich, geliebter Baum,</l>
+                                 <l xml:id="tg87.3.161.kjj7.0">Meine Augen zu dir lenken,</l>
+                                 <l xml:id="tg87.3.162.kjj7.0">Muß von neuem sehnend denken:</l>
+                                 <l xml:id="tg87.3.163.kjj7.0">Wär' mein Träumen doch kein Traum!</l>
+                              </lg>
+                              <lb xml:id="tg87.3.164.kjj7.0"/>
+                              <p xml:id="tg87.3.165.kjj7.0">Als er dies Lied geendigt hatte, stand die Schöne vor ihm und lächelte ihn freundlich an. Sie schlug in ihre Zitter, und die Töne erklangen, und ihr Gefolge, die muntern Vögel, machte sich auf um sie zu begleiten. Alonso betrachtete die Schöne, und da sie so <pb n="300" xml:id="tg87.3.165.1.kjj7.0"/>
+überaus milde und freundlich in den Wald hinein blickte, wagte er sie anzureden. Er trat nahe zu ihr und sagte: Vergieb, du himmlisches Wesen, daß ich mit dir zu reden wage. In einem übersüßen Traum, welchen ich hatte, erschienst du mir, und redetest von meiner geliebten Flerida, und gelobtest mich mit ihr zu vereinigen. Lächelnd sahe ihn die Schöne an, und setzte ihren Weg fort, ohne ihm zu antworten. Alonso sah sie noch einmal an, und entsetzte sich nun davor, daß er sie angeredet hatte; alle ihre Lieblichkeit schien gar nicht menschlich, und da ein solches Grauen sein Herz faßte, so stand er still und bedachte sich, ob er ihr noch weiter folgen sollte. Die Schöne bemerkte seinen Vorsatz, sie drehte sich zu ihm und sagte:</p>
+                              <lb xml:id="tg87.3.166.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.167.kjj7.0">Oftmals zu der Bäume Haupt</l>
+                                 <l xml:id="tg87.3.168.kjj7.0">Richtet ihr bethränte Blicke,</l>
+                                 <l xml:id="tg87.3.169.kjj7.0">Sprechend: Baum so grün umlaubt,</l>
+                                 <l xml:id="tg87.3.170.kjj7.0">Laß dir klagen mein Geschicke,</l>
+                                 <l xml:id="tg87.3.171.kjj7.0">Was die Menschen mir geraubt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.172.kjj7.0"/>
+                                 <l xml:id="tg87.3.173.kjj7.0">Freundlich schaut' ich auf dich nieder</l>
+                                 <l xml:id="tg87.3.174.kjj7.0">Aus des Baumes hoher Krone,</l>
+                                 <pb n="301" xml:id="tg87.3.175.kjj7.0"/>
+                                 <l xml:id="tg87.3.176.kjj7.0">Als ich deine bangen Lieder</l>
+                                 <l xml:id="tg87.3.177.kjj7.0">Hört' im Wipfel, wo ich wohne,</l>
+                                 <l xml:id="tg87.3.178.kjj7.0">Sprach: Dein Glücke blühet wieder.</l>
+                                 <l xml:id="tg87.3.179.kjj7.0">Rührte drauf des Baumes Haupt,</l>
+                                 <l xml:id="tg87.3.180.kjj7.0">Daß er Flüstern niederschicke,</l>
+                                 <l xml:id="tg87.3.181.kjj7.0">Das dir sage: grün umlaubt</l>
+                                 <l xml:id="tg87.3.182.kjj7.0">Wohnt dein Heil und süßes Glücke,</l>
+                                 <l xml:id="tg87.3.183.kjj7.0">Das kein Mensch dir wieder raubt.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.184.kjj7.0"/>
+                              <p xml:id="tg87.3.185.kjj7.0">Wie? sagte Alonso, wenn ich im trüben Gram verloren in den Wald kam, alle Erinnerung der vergangenen Zeit mein Herz matterte, und dann des Baumes Flüstern so freundlich zu mir sprach, so linde meinen Kummer verscheuchte, so war es deine Hand, die die Wipfel rührte, daß sie so milde zu mir sprachen? Die Schöne sang mit lieblichen Tönen:</p>
+                              <lb xml:id="tg87.3.186.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.187.kjj7.0">Meine Diener sind die Bäume,</l>
+                                 <l xml:id="tg87.3.188.kjj7.0">Können nicht von dannen fliegen,</l>
+                                 <l xml:id="tg87.3.189.kjj7.0">Denn sie fesseln grüne Räume,</l>
+                                 <l xml:id="tg87.3.190.kjj7.0">Mögen Kummer doch besiegen,</l>
+                                 <l xml:id="tg87.3.191.kjj7.0">Und verscheuchen bange Träume.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.192.kjj7.0"/>
+                                 <l xml:id="tg87.3.193.kjj7.0">Lustig alle Blätter rauschen,</l>
+                                 <l xml:id="tg87.3.194.kjj7.0">Will ich dir mein Lieben zeigen;</l>
+                                 <l xml:id="tg87.3.195.kjj7.0">Vögel auf die Töne lauschen,</l>
+                                 <l xml:id="tg87.3.196.kjj7.0">Wollen auch nicht länger schweigen,</l>
+                                 <l xml:id="tg87.3.197.kjj7.0">Worte mit den Bäumen tauschen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.198.kjj7.0"/>
+                                 <pb n="302" xml:id="tg87.3.199.kjj7.0"/>
+                                 <l xml:id="tg87.3.200.kjj7.0">Zu dem Menschen kommt dann Frieden,</l>
+                                 <l xml:id="tg87.3.201.kjj7.0">Wann die Wipfel so sich regen,</l>
+                                 <l xml:id="tg87.3.202.kjj7.0">Und sie winken nun dem Müden</l>
+                                 <l xml:id="tg87.3.203.kjj7.0">An dem Baum sich hinzulegen,</l>
+                                 <l xml:id="tg87.3.204.kjj7.0">Welcher ihm die Ruh' beschieden.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.205.kjj7.0"/>
+                                 <l xml:id="tg87.3.206.kjj7.0">Folgt er willig ihrem Winken,</l>
+                                 <l xml:id="tg87.3.207.kjj7.0">Dann sind hold ihm alle Bäume,</l>
+                                 <l xml:id="tg87.3.208.kjj7.0">Und im Schlaf hernieder sinken,</l>
+                                 <l xml:id="tg87.3.209.kjj7.0">Süß und milde, Glückes Träume,</l>
+                                 <l xml:id="tg87.3.210.kjj7.0">Neue Hoffnung muß er trinken.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.211.kjj7.0"/>
+                                 <l xml:id="tg87.3.212.kjj7.0">Dir nun bin, ich so gewogen,</l>
+                                 <l xml:id="tg87.3.213.kjj7.0">Daß ich lasse gar mein Haus,</l>
+                                 <l xml:id="tg87.3.214.kjj7.0">Fort bin ich mit dir gezogen,</l>
+                                 <l xml:id="tg87.3.215.kjj7.0">Gehe auf die Wandrung aus,</l>
+                                 <l xml:id="tg87.3.216.kjj7.0">Thue, was ich nie gepflogen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.217.kjj7.0"/>
+                                 <l xml:id="tg87.3.218.kjj7.0">Horch! der Vögel Melodieen,</l>
+                                 <l xml:id="tg87.3.219.kjj7.0">Werden jetzt von neuem wach,</l>
+                                 <l xml:id="tg87.3.220.kjj7.0">Wie die süßen Blumen blühen,</l>
+                                 <l xml:id="tg87.3.221.kjj7.0">Also ziehn die Tön' uns nach,</l>
+                                 <l xml:id="tg87.3.222.kjj7.0">Kannst dem Zauber nicht entfliehen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.223.kjj7.0"/>
+                                 <l xml:id="tg87.3.224.kjj7.0">Was dies Klingen mag bedeuten?</l>
+                                 <l xml:id="tg87.3.225.kjj7.0">Was dies Tönen alles soll?</l>
+                                 <l xml:id="tg87.3.226.kjj7.0">Freude will es dir bereiten:</l>
+                                 <l xml:id="tg87.3.227.kjj7.0">Zauber aus den Bäumen quoll,</l>
+                                 <l xml:id="tg87.3.228.kjj7.0">Der dir bietet Seligkeiten.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.229.kjj7.0"/>
+                              <p xml:id="tg87.3.230.kjj7.0">
+                                 <pb n="303" xml:id="tg87.3.230.1.kjj7.0"/>
+Als die Schöne dies Lied geendigt hatte, stand sie auf einem Grasplatze im Walde still, schlug ihre Zitter viel stärker, so daß die Töne durch alle Bäume klangen, und die Vögel verwundert still schwiegen. Hierauf hörte man in der Ferne ein liebliches Rauschen, und nun fingen die Vögel mit lauten Stimmen ihre Lieder von neuem an, wobei sie sich in den Lüften auf und nieder wiegten. Alonso blickte auf und sahe, wie ein schönes zartes Frauenbild durch die Lüfte schwamm, ein Gewand von tausendfarbigen Federn schmiegte sich um ihren zarten Leib, ein zahlloses Heer von Vögeln folgte ihr. Alonso's Führerin schlug nun die Zitter leiser und sang:</p>
+                              <lb xml:id="tg87.3.231.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.232.kjj7.0">Freundlich bist du, holde Schöne,</l>
+                                 <l xml:id="tg87.3.233.kjj7.0">Meinem Ruf sogleich gekommen.</l>
+                                 <l xml:id="tg87.3.234.kjj7.0">Kaum vernahmst du meine Töne,</l>
+                                 <l xml:id="tg87.3.235.kjj7.0">Bist schon durch die Luft geschwommen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.236.kjj7.0"/>
+                                 <l xml:id="tg87.3.237.kjj7.0">Sage! das, warum ich bitte,</l>
+                                 <l xml:id="tg87.3.238.kjj7.0">Hast du schon es ausgeführt?</l>
+                                 <l xml:id="tg87.3.239.kjj7.0">Folget Flerida dem Schritte,</l>
+                                 <l xml:id="tg87.3.240.kjj7.0">Der sie her zum Liebsten führt?</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.241.kjj7.0"/>
+                                 <l xml:id="tg87.3.242.kjj7.0">Das Frauenbild antwortete ihr mit lieblichem Gesange:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.243.kjj7.0"/>
+                                 <pb n="304" xml:id="tg87.3.244.kjj7.0"/>
+                                 <l xml:id="tg87.3.245.kjj7.0">Flerida wird gleich erscheinen,</l>
+                                 <l xml:id="tg87.3.246.kjj7.0">Süße Thränen wird sie weinen,</l>
+                                 <l xml:id="tg87.3.247.kjj7.0">Gerne sich dem Liebsten einen,</l>
+                                 <l xml:id="tg87.3.248.kjj7.0">Ihre Lieb' ihm nicht verneinen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.249.kjj7.0"/>
+                                 <l xml:id="tg87.3.250.kjj7.0">Als sie müde war vom Jagen,</l>
+                                 <l xml:id="tg87.3.251.kjj7.0">Da ließ ich die Stimme schlagen,</l>
+                                 <l xml:id="tg87.3.252.kjj7.0">Wie die Nachtigallen klagen,</l>
+                                 <l xml:id="tg87.3.253.kjj7.0">Lieblich hab' ich's vorgetragen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.254.kjj7.0"/>
+                                 <l xml:id="tg87.3.255.kjj7.0">Als ich so nun ließ den süßen</l>
+                                 <l xml:id="tg87.3.256.kjj7.0">Ton durch alle Büsche fließen,</l>
+                                 <l xml:id="tg87.3.257.kjj7.0">Mußte Thränen sie vergießen</l>
+                                 <l xml:id="tg87.3.258.kjj7.0">Auf die Blumen ihr zu Füßen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.259.kjj7.0"/>
+                                 <l xml:id="tg87.3.260.kjj7.0">Weinen hab' ich hier gemußt,</l>
+                                 <l xml:id="tg87.3.261.kjj7.0">Sprach sie, und in meiner Brust</l>
+                                 <l xml:id="tg87.3.262.kjj7.0">Schlägt das Herz mit banger Lust,</l>
+                                 <l xml:id="tg87.3.263.kjj7.0">Bin mir keines Leids bewußt.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.264.kjj7.0"/>
+                                 <l xml:id="tg87.3.265.kjj7.0">Nun was will es denn bedeuten?</l>
+                                 <l xml:id="tg87.3.266.kjj7.0">Schmerz und Lust im Herzen streiten,</l>
+                                 <l xml:id="tg87.3.267.kjj7.0">Locken mich mit Seligkeiten,</l>
+                                 <l xml:id="tg87.3.268.kjj7.0">Zeigen mir ein Bild von weiten.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.269.kjj7.0"/>
+                                 <l xml:id="tg87.3.270.kjj7.0">Bild, ich muß dich mir gewinnen,</l>
+                                 <l xml:id="tg87.3.271.kjj7.0">Darnach trachten alle Sinnen.</l>
+                                 <l xml:id="tg87.3.272.kjj7.0">Wohl, ich will den Streit beginnen,</l>
+                                 <l xml:id="tg87.3.273.kjj7.0">Mag mein Leben auch zerrinnen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.274.kjj7.0"/>
+                                 <pb n="305" xml:id="tg87.3.275.kjj7.0"/>
+                                 <l xml:id="tg87.3.276.kjj7.0">So nun folgt sie meinen Tönen,</l>
+                                 <l xml:id="tg87.3.277.kjj7.0">Die an Schmerzen sie gewöhnen.</l>
+                                 <l xml:id="tg87.3.278.kjj7.0">Nicht wird sie den Freund mehr höhnen,</l>
+                                 <l xml:id="tg87.3.279.kjj7.0">Gerne sich mit ihm versöhnen.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.280.kjj7.0"/>
+                              <p xml:id="tg87.3.281.kjj7.0">Indem trat Flerida in einem grünen Jagdkleide hervor, und lehnte sich ermattet an einen Baum. Alonso sahe sie noch nicht, so sehr war er von den Tönen, welche er vernommen hatte, geblendet. Seine Führerin wendete sich zu dem lieblichen Frauenbilde, das noch immer in der Luft schwebte, und sprach:</p>
+                              <lb xml:id="tg87.3.282.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.283.kjj7.0">Laß uns nun von dannen fliegen,</l>
+                                 <l xml:id="tg87.3.284.kjj7.0">Nichts ist mehr für uns zu thun,</l>
+                                 <l xml:id="tg87.3.285.kjj7.0">Unsre Mühe kann nun ruhn,</l>
+                                 <l xml:id="tg87.3.286.kjj7.0">Liebe wird sie ganz besiegen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.287.kjj7.0"/>
+                                 <l xml:id="tg87.3.288.kjj7.0">Sie, die Tönen unterliegen,</l>
+                                 <l xml:id="tg87.3.289.kjj7.0">Halten alles nur für Traum,</l>
+                                 <l xml:id="tg87.3.290.kjj7.0">Wenn sie sehn den grünen Baum</l>
+                                 <l xml:id="tg87.3.291.kjj7.0">Laub und Zweige freundlich wiegen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.292.kjj7.0"/>
+                                 <l xml:id="tg87.3.293.kjj7.0">Lebe wohl, geflügelt Wesen!</l>
+                                 <l xml:id="tg87.3.294.kjj7.0">Dein Gesang war süß und mild,</l>
+                                 <l xml:id="tg87.3.295.kjj7.0">Ja er zeigte mir das Bild</l>
+                                 <l xml:id="tg87.3.296.kjj7.0">Von dem Baum, den ich erlesen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.297.kjj7.0"/>
+                                 <pb n="306" xml:id="tg87.3.298.kjj7.0"/>
+                                 <l xml:id="tg87.3.299.kjj7.0">Lebe wohl! ich muß nun eilen,</l>
+                                 <l xml:id="tg87.3.300.kjj7.0">Wieder wohnen in dem grünen</l>
+                                 <l xml:id="tg87.3.301.kjj7.0">Baum, von goldner Sonn' umschienen,</l>
+                                 <l xml:id="tg87.3.302.kjj7.0">Kann allhier nicht länger weilen.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.303.kjj7.0"/>
+                              <p xml:id="tg87.3.304.kjj7.0">Als Alonso's Führerin diesen Gesang geendigt hatte, ging sie mit ihrer Zitter in den grünen Wald hinein, das liebliche Frauenbild in der blauen Luft flatterte auch davon. Alonso hob die Augen auf, und ihm war, als ob er aus einem süßen Traum erwachte. Flerida stand sinnend an den Baum gelehnt, und blickte zu ihm empor. Alonso bemerkte die Schöne, trat zu ihr und sagte:</p>
+                              <lb xml:id="tg87.3.305.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.306.kjj7.0">Schöne, einsam hier im Wald,</l>
+                                 <l xml:id="tg87.3.307.kjj7.0">Bist verirrt von deinen Frauen?</l>
+                                 <l xml:id="tg87.3.308.kjj7.0">Willst du dich mir anvertrauen,</l>
+                                 <l xml:id="tg87.3.309.kjj7.0">Führ' ich dich zurücke bald.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.310.kjj7.0"/>
+                                 <l xml:id="tg87.3.311.kjj7.0">Flerida schlug ihre Augen auf, aus denen Thränen niederfielen, und sagte:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.312.kjj7.0"/>
+                                 <l xml:id="tg87.3.313.kjj7.0">Nicht verirren kann ich's heißen,</l>
+                                 <l xml:id="tg87.3.314.kjj7.0">Was mich ziehet durch den Wald.</l>
+                                 <l xml:id="tg87.3.315.kjj7.0">Wider Willen folg' ich bald,</l>
+                                 <l xml:id="tg87.3.316.kjj7.0">Taumelnd in den Zauberkreisen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.317.kjj7.0"/>
+                                 <l xml:id="tg87.3.318.kjj7.0">Sprechen will ich; Eremite,</l>
+                                 <l xml:id="tg87.3.319.kjj7.0">Dir will ich mein Leid vertraun,</l>
+                                 <pb n="307" xml:id="tg87.3.320.kjj7.0"/>
+                                 <l xml:id="tg87.3.321.kjj7.0">Du sollst meine Seele schaun:</l>
+                                 <l xml:id="tg87.3.322.kjj7.0">Hilf und rathe mir voll Güte!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.323.kjj7.0"/>
+                                 <l xml:id="tg87.3.324.kjj7.0">Heiß ermüdet von dem Jagen</l>
+                                 <l xml:id="tg87.3.325.kjj7.0">Stand ich in der Bäume Schatten,</l>
+                                 <l xml:id="tg87.3.326.kjj7.0">In dem lieblichen Ermatten</l>
+                                 <l xml:id="tg87.3.327.kjj7.0">Hört' ich Nachtigallen klagen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.328.kjj7.0"/>
+                                 <l xml:id="tg87.3.329.kjj7.0">Wie die Töne in den Lüften,</l>
+                                 <l xml:id="tg87.3.330.kjj7.0">Wankten Blumen mir zu Füßen,</l>
+                                 <l xml:id="tg87.3.331.kjj7.0">Schmeichelten mit ihren süßen</l>
+                                 <l xml:id="tg87.3.332.kjj7.0">Balsamreichen lauen Lüsten.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.333.kjj7.0"/>
+                                 <l xml:id="tg87.3.334.kjj7.0">Davon ward mein Herz entzündet,</l>
+                                 <l xml:id="tg87.3.335.kjj7.0">Was ich wähnte schon gestorben,</l>
+                                 <l xml:id="tg87.3.336.kjj7.0">Hatte neue Kraft erworben,</l>
+                                 <l xml:id="tg87.3.337.kjj7.0">Mir sein Leben schnell verkündet.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.338.kjj7.0"/>
+                                 <l xml:id="tg87.3.339.kjj7.0">Ach ich weiß, das ist die Liebe!</l>
+                                 <l xml:id="tg87.3.340.kjj7.0">Wie sie sich so laut will regen,</l>
+                                 <l xml:id="tg87.3.341.kjj7.0">Zagt mein Herz mit bangen Schlägen</l>
+                                 <l xml:id="tg87.3.342.kjj7.0">Ach, schon kenn' ich diese Triebe!</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.343.kjj7.0"/>
+                                 <l xml:id="tg87.3.344.kjj7.0">Sieh nun weißt du meine Leiden.</l>
+                                 <l xml:id="tg87.3.345.kjj7.0">Sprich: warum in Jugendblüthe</l>
+                                 <l xml:id="tg87.3.346.kjj7.0">Ist voll Gram denn dein Gemüthe,</l>
+                                 <l xml:id="tg87.3.347.kjj7.0">Daß du schon die Welt willst meiden?</l>
+                              </lg>
+                              <lb xml:id="tg87.3.348.kjj7.0"/>
+                              <p xml:id="tg87.3.349.kjj7.0">Als Flerida die Rede endigte, hatte Alonso sie erkannt, er wagte es aber nicht seinen Namen zu nennen; er fürchtete, sie möchte <pb n="308" xml:id="tg87.3.349.1.kjj7.0"/>
+ihn dann wieder verlassen, und die Angst, die ihm dieser Gedanke machte, preßte ihm Thränen aus, wehmüthig blickte er zu den Bäumen auf, und sagte seufzend:</p>
+                              <lb xml:id="tg87.3.350.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.351.kjj7.0">Jugend schmückte meine Glieder,</l>
+                                 <l xml:id="tg87.3.352.kjj7.0">Zärtlich in der jungen Brust</l>
+                                 <l xml:id="tg87.3.353.kjj7.0">Regte sich mir Schmerz und Lust,</l>
+                                 <l xml:id="tg87.3.354.kjj7.0">Einer Schönen sandt' ich Lieder.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.355.kjj7.0"/>
+                                 <l xml:id="tg87.3.356.kjj7.0">Bald nun lernt' ich Qualen kennen,</l>
+                                 <l xml:id="tg87.3.357.kjj7.0">Als die Schöne mich verschmähte,</l>
+                                 <l xml:id="tg87.3.358.kjj7.0">Nie mein Auge sie erspähte,</l>
+                                 <l xml:id="tg87.3.359.kjj7.0">Fühlt' im Busen Wunden brennen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.360.kjj7.0"/>
+                                 <l xml:id="tg87.3.361.kjj7.0">Dieses Unglück schlug mich nieder,</l>
+                                 <l xml:id="tg87.3.362.kjj7.0">Rannte fort zu wilden Auen,</l>
+                                 <l xml:id="tg87.3.363.kjj7.0">Wollte niemals Menschen schauen,</l>
+                                 <l xml:id="tg87.3.364.kjj7.0">Da mein Anblick ihr zuwider.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.365.kjj7.0"/>
+                                 <l xml:id="tg87.3.366.kjj7.0">Hier im Walde zu den Bäumen</l>
+                                 <l xml:id="tg87.3.367.kjj7.0">Floh ich her, die mit den Zweigen</l>
+                                 <l xml:id="tg87.3.368.kjj7.0">Sich voll Mitleid zu mir neigen,</l>
+                                 <l xml:id="tg87.3.369.kjj7.0">So entstand ein seltsam Träumen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.370.kjj7.0"/>
+                                 <l xml:id="tg87.3.371.kjj7.0">Jetzo find' ich Eremite</l>
+                                 <l xml:id="tg87.3.372.kjj7.0">Dich die schönste aller Frauen:</l>
+                                 <l xml:id="tg87.3.373.kjj7.0">Willst du Hoffnung auf mich bauen,</l>
+                                 <l xml:id="tg87.3.374.kjj7.0">Sprießt mir auf des Glückes Blüthe.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.375.kjj7.0"/>
+                              <p xml:id="tg87.3.376.kjj7.0">Alonso sah die schöne Flerida mit zärtlichen <pb n="309" xml:id="tg87.3.376.1.kjj7.0"/>
+Blicken an, und streckte ihr bittend seine Hand entgegen. Sie erkannte den Eremiten, und eine liebliche Zärtlichkeit glänzte in ihren schönen Augen. Alonso nahte sich und fiel vor ihr auf die Kniee nieder, sie sank in seine Arme, und lehnte ihr glühendes, von der Liebe geröthetes Gesicht an seinen Busen. Als sich beide lange in stillem Entzücken umarmt gehalten hatten, hoben sie die trunkenen Augen auf zu den Bäumen, und sprachen zugleich:</p>
+                              <lb xml:id="tg87.3.377.kjj7.0"/>
+                              <lg>
+                                 <l xml:id="tg87.3.378.kjj7.0">Bäume, Vögel, seyd gepriesen!</l>
+                                 <l xml:id="tg87.3.379.kjj7.0">Euer Rauschen, euer Singen</l>
+                                 <l xml:id="tg87.3.380.kjj7.0">Wollt' uns aus der Irre bringen,</l>
+                                 <l xml:id="tg87.3.381.kjj7.0">Hat den schönsten Weg gewiesen.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg87.3.382.kjj7.0"/>
+                                 <l xml:id="tg87.3.383.kjj7.0">Sänger, fröhlich bunt von Farben,</l>
+                                 <l xml:id="tg87.3.384.kjj7.0">Und du, Hoffnungs-grüner Wald!</l>
+                                 <l xml:id="tg87.3.385.kjj7.0">Wie erfrischet ihr so bald</l>
+                                 <l xml:id="tg87.3.386.kjj7.0">Herzen, die in Sehnsucht darben!</l>
+                                 <l xml:id="tg87.3.387.kjj7.0">Darum seyd auch uns gepriesen!</l>
+                                 <l xml:id="tg87.3.388.kjj7.0">Euer Rauschen, euer Singen</l>
+                                 <l xml:id="tg87.3.389.kjj7.0">Wollt' uns himmlisch leitend bringen</l>
+                                 <l xml:id="tg87.3.390.kjj7.0">Zu der Liebe Paradiesen.</l>
+                              </lg>
+                              <lb xml:id="tg87.3.391.kjj7.0"/>
+                              <pb n="310" xml:id="tg87.3.392.kjj7.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

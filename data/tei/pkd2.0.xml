@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:pkd2.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Märchen-Almanach auf das Jahr 1826</title><title>Märchen</title><title>Hauff, Wilhelm</title><title>Märchen als Almanach</title><author>Hauff, Wilhelm</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-3872-2</idno><idno type="textgrid">textgrid:pkdj.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstdruck: Stuttgart (Metzler) 1826.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Wilhelm Hauff: Sämtliche Werke in drei Bänden. Nach den Originaldrucken und Handschriften. Textredaktion und Anmerkungen Sibylle von Steinsdorff, München: Winkler, 1970.</title><author key="pnd:118546864">Hauff, Wilhelm</author></titleStmt><extent>7-</extent><publicationStmt><date when-iso="1970"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Wilhelm Hauff: Sämtliche Werke in drei Bänden. Nach den Originaldrucken und Handschriften. Textredaktion und Anmerkungen Sibylle von Steinsdorff, München: Winkler, 1970.</title><author key="pnd:118546864">Hauff, Wilhelm</author></titleStmt><extent>7-</extent><publicationStmt><date when-iso="1970"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg157.pkd3.0" n="/Literatur/M/Hauff, Wilhelm/Märchen/Märchen-Almanach auf das Jahr 1826/Märchen als Almanach">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Märchen als Almanach</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-3865-F</idno><idno type="TextGridUri">textgrid:pkd3.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wilhelm Hauff: Sämtliche Werke in drei Bänden. Nach den Originaldrucken und Handschriften. Textredaktion und Anmerkungen Sibylle von Steinsdorff, München: Winkler, 1970.</title>
+                  <author key="pnd:118546864">Hauff, Wilhelm</author>
+               </titleStmt>
+               <extent>7-</extent>
+               <publicationStmt>
+                  <date when="1970"/>
+                  <pubPlace>München</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1802" notAfter="1827"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        <milestone unit="sigel" n="Hauff-SW Bd. 2" xml:id="tg156.2.1.pkd3.0"/>
+                        
+
+
+
+                        <head type="h3" xml:id="tg156.2.3.pkd3.0">Wilhelm Hauff</head>
+
+
+                        <head type="h2" xml:id="tg156.2.4.pkd3.0">Märchen-Almanach auf das Jahr 1826 für Söhne und Töchter</head>
+                        <head type="h2" xml:id="tg156.2.5.pkd3.0">gebildeter Stände</head>
+
+                        <milestone unit="sigel" n="Hauff-SW Bd. 2" xml:id="tg156.2.6.pkd3.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg157.3.pkd3.0">
+                           <pb type="start" n="7" xml:id="tg157.3.1.pkd3.0"/>
+                           <div type="h4">
+                              <head type="h4" xml:id="tg157.3.2.pkd3.0">Märchen als Almanach</head>
+
+                              <p xml:id="tg157.3.3.pkd3.0">In einem schönen fernen Reiche, von welchem die Sage lebt, daß die Sonne in seinen ewig grünen Gärten niemals untergehe, herrschte von Anfang an bis heute, die Königin Phantasie. Mit vollen Händen spendete diese, seit vielen Jahrhunderten, die Fülle des Segens über die Ihrigen, und war geliebt, verehrt von allen, die sie kannten. Das Herz der Königin war aber zu groß, als daß sie mit ihren Wohltaten, bei ihrem Lande stehengeblieben wäre; sie selbst, im königlichen Schmuck ihrer ewigen Jugend und Schönheit, stieg herab auf die Erde; denn sie hatte gehört, daß dort Menschen wohnen, die ihr Leben in traurigem Ernst, unter Mühe und Arbeit hinbringen. Diesen hatte sie die schönsten Gaben aus ihrem Reiche mitgebracht, und seit die schöne Königin durch die Fluren der Erde gegangen war, waren die Menschen fröhlich bei der Arbeit, heiter in ihrem Ernst.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.4.pkd3.0">Auch ihre Kinder, nicht minder schön und lieblich als die königliche Mutter, sandte sie aus, um die Menschen zu beglücken. Einst kam Märchen, die älteste Tochter der Königin, von der Erde zurück. Die Mutter bemerkte, daß Märchen traurig sei, ja, hie und da wollte es ihr bedünken, als ob sie verweinte Augen hätte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.5.pkd3.0">»Was hast du, liebes Märchen«, sprach die <hi rend="italic" xml:id="tg157.3.5.1.pkd3.0">Königin</hi> zu ihr; »du bist seit deiner Reise so traurig und niedergeschlagen, willst du deiner Mutter nicht anvertrauen, was dir fehlt?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.6.pkd3.0">»Ach! liebe Mutter«, antwortete <hi rend="italic" xml:id="tg157.3.6.1.pkd3.0">Märchen:</hi> »ich hätte gewiß nicht so lange geschwiegen, wenn ich nicht wüßte, daß mein Kummer auch der deinige ist.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.7.pkd3.0">»Sprich immer, meine Tochter«, bat die schöne<hi rend="italic" xml:id="tg157.3.7.1.pkd3.0"> Königin,</hi> »der Gram ist ein Stein, der den einzelnen niederdrückt, aber zwei tragen ihn leicht aus dem Wege.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.8.pkd3.0">»Du willst es«, antwortete <hi rend="italic" xml:id="tg157.3.8.1.pkd3.0">Märchen</hi>, »so höre: du weißt, wie <pb n="7" xml:id="tg157.3.8.2.pkd3.0"/>
+gerne ich mit den Menschen umgehe, wie ich freudig auch zu dem Ärmsten vor seine Hütte sitze, um nach der Arbeit ein Stündchen mit ihm zu verplaudern; sie boten mir auch sonst gleich freundlich die Hand zum Gruß, wenn ich kam, und sahen mir lächelnd und zufrieden nach, wenn ich weiterging; aber in diesen Tagen ist es gar nicht mehr so!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.9.pkd3.0">»Armes Märchen!« sprach die <hi rend="italic" xml:id="tg157.3.9.1.pkd3.0">Königin,</hi> und streichelte ihr die Wange, die von einer Träne feucht war; »aber du bildest dir vielleicht dies alles nur ein?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.10.pkd3.0">»Glaube mir, ich fühle es nur zu gut«, entgegnete<hi rend="italic" xml:id="tg157.3.10.1.pkd3.0"> Märchen,</hi> »sie lieben mich nicht mehr. Überall, wo ich hinkomme, begegnen mir kalte Blicke; nirgends bin ich mehr gern gesehen; selbst die Kinder, die ich doch immer so liebhatte, lachen über mich, und wen den mir altklug den Rücken zu.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.11.pkd3.0">Die Königin stützte die Stirne in die Hand, und schwieg sinnend. –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.12.pkd3.0">»Und woher soll es denn«, fragte die <hi rend="italic" xml:id="tg157.3.12.1.pkd3.0">Königin,</hi> »kommen, Märchen, daß sich die Leute da unten so geändert haben?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.13.pkd3.0">»Sieh, die Menschen haben kluge Wächter aufgestellt, die alles, was aus deinem Reich kommt, o Königin Phantasie! mit scharfem Blicke mustern und prüfen. Wenn nun einer kommt, der nicht nach ihrem Sinne ist, so erheben sie ein großes Geschrei, schlagen ihn tot, oder verleumden ihn doch so sehr bei den Menschen, die ihnen aufs Wort glauben, daß man gar keine Liebe, kein Fünkchen Zutrauen mehr findet. Ach! wie gut haben es meine Brüder, die Träume, fröhlich und leicht hüpfen sie auf die Erde hinab, fragen nichts nach jenen klugen Männern, besuchen die schlummernden Menschen, und weben und malen ihnen, was das Herz beglückt und das Auge erfreut!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.14.pkd3.0">»Deine Brüder sind Leichtfüße«, sagte die <hi rend="italic" xml:id="tg157.3.14.1.pkd3.0">Königin,</hi> »und du, mein Liebling, hast keine Ursache sie zu beneiden. Jene Grenzwächter kenne ich übrigens wohl; die Menschen haben so unrecht nicht, sie aufzustellen, es kam so mancher windige Geselle, und tat, als ob er geraden Wegs aus meinem Reiche käme, und doch hatte er höchstens von einem Berge zu uns herübergeschaut.« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.15.pkd3.0">»Aber warum lassen sie dies mich, deine eigene Tochter, entgelten«, weinte <hi rend="italic" xml:id="tg157.3.15.1.pkd3.0">Märchen,</hi> »ach! wenn du wüßtest, wie sie es mir gemacht haben; sie schalten mich eine alte Jungfer und drohten, mich das nächste Mal gar nicht mehr hereinzulassen.« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.16.pkd3.0">»Wie, meine Tochter nicht mehr einzulassen?« rief die <hi rend="italic" xml:id="tg157.3.16.1.pkd3.0">Königin,</hi> und Zorn erhöhte die Röte ihrer Wangen; »aber ich sehe <pb n="8" xml:id="tg157.3.16.2.pkd3.0"/>
+schon, woher dies kommt; die böse Muhme hat uns verleumdet!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.17.pkd3.0">»Die Mode? nicht möglich!« rief <hi rend="italic" xml:id="tg157.3.17.1.pkd3.0">Märchen,</hi> »sie tat ja sonst immer so freundlich.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.18.pkd3.0">»Oh! ich kenne sie, die Falsche«, antwortete die<hi rend="italic" xml:id="tg157.3.18.1.pkd3.0"> Königin</hi>, »aber versuche es, ihr zum Trotze, wieder meine Tochter, wer Gutes tun will, darf nicht rasten.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.19.pkd3.0">»Ach Mutter! wenn sie mich dann ganz zurückweisen, oder wenn sie mich verleumden, daß mich die Menschen nicht ansehen oder einsam und verachtet in der Ecke stehen lassen?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.20.pkd3.0">»Wenn die Alten, von der Mode betört, dich geringschätzen, so wende dich an die Kleinen, wahrlich sie sind meine Lieblinge, ihnen sende ich meine lieblichsten Bilder, durch deine Brüder, die <hi rend="italic" xml:id="tg157.3.20.1.pkd3.0">Träume,</hi> ja ich bin schon oft selbst zu ihnen hinabgeschwebt, habe sie geherzt und geküßt und schöne Spiele mit ihnen gespielt; sie kennen mich auch wohl, sie wissen zwar meinen Namen nicht, aber ich habe schon oft bemerkt, wie sie nachts zu meinen Sternen herauflächeln, und morgens, wenn meine glänzenden Lämmer am Himmel ziehen, vor Freuden die Hände zusammenschlagen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.21.pkd3.0">Auch wenn sie größer werden, lieben sie mich noch, ich helfe dann den lieblichen Mädchen bunte Kränze flechten, und die wilden Knaben werden stiller, wenn ich auf hoher Felsenspitze mich zu ihnen setze, aus der Nebelwelt der fernen blauen Berge, hohe Burgen und glänzende Paläste auftauchen lasse, und aus den rötlichen Wolken des Abends kühne Reiterscharen und wunderliche Wallfahrtszüge bilde.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.22.pkd3.0">»O die guten Kinder!« rief <hi rend="italic" xml:id="tg157.3.22.1.pkd3.0">Märchen</hi> bewegt aus, »ja es sei! mit ihnen will ich es noch einmal versuchen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.23.pkd3.0">»Ja, du gute Tochter«, sprach die <hi rend="italic" xml:id="tg157.3.23.1.pkd3.0">Königin,</hi> »gehe zu ihnen; aber ich will dich auch ein wenig ordentlich ankleiden, daß du den Kleinen gefällst, und die Großen dich nicht zurückstoßen, siehe das Gewand eines<hi rend="italic" xml:id="tg157.3.23.2.pkd3.0"> Almanach</hi> will ich dir geben.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.24.pkd3.0">»Eines Almanach, Mutter? ach! – ich schäme mich, so vor den Leuten zu prangen.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.25.pkd3.0">Die Königin winkte und die Dienerinnen brachten das zierliche Gewand eines Almanach. Es war von glänzenden Farben, und schöne Figuren eingewoben.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.26.pkd3.0">Die Zofen flochten dem schönen Märchen das lange Haar; sie banden ihr goldene Sandalen unter die Füße und hingen ihr dann das Gewand um.</p>
+                              <pb n="9" xml:id="tg157.3.27.pkd3.0"/>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.28.pkd3.0">Das bescheidene Märchen wagte nicht aufzublicken, die Mutter aber betrachtete sie mit Wohlgefallen und schloß sie in ihre Arme: »Gehe hin«, sprach sie zu der Kleinen; »mein Segen sei mit dir. Und wenn sie dich verachten und höhnen, so kehre zurück zu mir, vielleicht daß spätere Geschlechter, getreuer der Natur, ihr Herz dir wieder zuwenden.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.29.pkd3.0">Also sprach die <hi rend="italic" xml:id="tg157.3.29.1.pkd3.0">Königin Phantasie.</hi> Märchen aber stieg herab auf die Erde. Mit pochendem Herzen nahte sie dem Ort, wo die klugen Wächter hauseten; sie senkte das Köpfchen zur Erde, sie zog das schöne Gewand enger um sich her, und mit zagendem Schritt nahte sie dem Tor.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.30.pkd3.0">»Halt!« rief eine tiefe, rauhe Stimme; »Wache heraus! da kommt ein neuer Almanach!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.31.pkd3.0">Märchen zitterte als sie dies hörte; viele ältliche Männer von finsterem Aussehen stürzten hervor; sie hatten spitzige Federn in der Faust, und hielten sie dem Märchen entgegen. Einer aus der Schar schritt auf sie zu und packte sie mit rauher Hand am Kinn: »Nur auch den Kopf aufgerichtet Herr Almanach«, schrie er, »daß man Ihm in den Augen ansiehet, ob Er was Rechtes ist oder nicht?« –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.32.pkd3.0">Errötend richtete Märchen das Köpfchen in die Höhe und schlug das dunkle Auge auf –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.33.pkd3.0">»Das Märchen!« riefen die Wächter, und lachten aus vollem Hals, »das Märchen! haben wunder gemeint, was da käme! wie kommst du nur in diesen Rock?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.34.pkd3.0">»Die Mutter hat ihn mir angezogen«, antwortete<hi rend="italic" xml:id="tg157.3.34.1.pkd3.0"> Märchen</hi>.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.35.pkd3.0">»So? sie will dich bei uns einschwärzen? Nichts da! hebe dich weg, mach daß du fortkommst«, riefen die Wächter untereinander und erhoben die scharfen Federn.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.36.pkd3.0">»Aber ich will ja nur zu den Kindern«, bat <hi rend="italic" xml:id="tg157.3.36.1.pkd3.0">Märchen;</hi> »dies könnt ihr mir ja doch erlauben?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.37.pkd3.0">»Lauft nicht schon genug solches Gesindel im Land umher?« rief einer der Wächter; »sie schwatzen nur unseren Kindern dummes Zeug vor.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.38.pkd3.0">»Laßt uns sehen, was sie diesmal weiß«, sprach ein anderer –</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.39.pkd3.0">»Nun ja«, riefen sie, »sag an, was du weißt, aber beeile dich, denn wir haben nicht viele Zeit für dich.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.40.pkd3.0">Märchen streckte die Hand aus, und beschrieb mit dem Zeigfinger viele Zeichen in die Luft. Da sah man bunte Gestalten vorüberziehen; Karawanen mit schönen Rossen, geschmückte Reiter, viele Zelte im Sand der Wüste; Vögel und Schiffe auf stürmischen <pb n="10" xml:id="tg157.3.40.1.pkd3.0"/>
+Meeren; stille Wälder und volkreiche Plätze und Straßen; Schlachten und friedliche Nomaden, sie alle schwebten in belebten Bildern, in buntem Gewimmel vorüber.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.41.pkd3.0">Märchen hatte in dem Eifer, mit welchem sie die Bilder aufsteigen ließ, nicht bemerkt, wie die Wächter des Tores nach und nach eingeschlafen waren. Eben wollte sie neue Zeichen beschreiben, als ein freundlicher Mann auf sie zutrat und ihre Hand ergriff: »Siehe her, gutes Märchen«, sagte er, indem er auf die Schlafenden zeigte, »für diese sind deine bunten Sachen nichts; schlüpfe schnell durch das Tor, sie ahnen dann nicht, daß du im Lande bist, und du kannst friedlich und unbemerkt deine Straße ziehen. Ich will dich zu meinen Kindern führen; in meinem Hause geb ich dir ein stilles, freundliches Plätzchen; dort kannst du wohnen und für dich leben; wenn dann meine Söhne und Töchter gut gelernt haben, dürfen sie mit ihren Gespielen zu dir kommen und dir zuhören. Willst du so?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.42.pkd3.0">»Oh, wie gerne folge ich dir, zu deinen lieben Kleinen; wie will ich mich befleißen, ihnen zuweilen ein heiteres Stündchen zu machen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg157.3.43.pkd3.0">Der gute Mann nickte ihr freundlich zu, und half ihr über die Füße der schlafenden Wächter hinübersteigen. Lächelnd sah sich Märchen um, als sie hinüber war, und schlüpfte dann schnell in das Tor.</p>
+                              <pb n="11" xml:id="tg157.3.44.pkd3.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0rg.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Der Neuere (glücklichere) Werther</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>361-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg400.r0rf.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Der Neuere (glücklichere) Werther">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der Neuere (glücklichere) Werther</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B18C-E</idno><idno type="TextGridUri">textgrid:r0rf.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>361-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg400.3.r0rf.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg400.3.1.r0rf.0">Der Neuere (glücklichere) Werther</head>
+
+                              <p xml:id="tg400.3.2.r0rf.0">Zu L... e in Frankreich war ein junger Kaufmannsdiener, Charles C..., der die Frau seines Prinzipals, eines reichen aber bejahrten Kaufmanns, namens D..., heimlich liebte. Tugendhaft und rechtschaffen, wie er die Frau kannte, machte er nicht den mindesten Versuch, ihre Gegenliebe zu erhalten: um so weniger, da er durch manche Bande der Dankbarkeit und <pb n="361" xml:id="tg400.3.2.1.r0rf.0"/>
+Ehrfurcht an seinen Prinzipal geknüpft war. Die Frau, welche mit seinem Zustande, der seiner Gesundheit nachteilig zu werden drohte, Mitleiden hatte, forderte ihren Mann, unter mancherlei Vorwand auf, ihn aus dem Hause zu entfernen; der Mann schob eine Reise, zu welcher er ihn bestimmt hatte, von Tage zu Tage auf, und erklärte endlich ganz und gar, daß er ihn in seinem Comptoir nicht entbehren könne. Einst machte Herr D..., mit seiner Frau, eine Reise zu einem Freunde, aufs Land; er ließ den jungen C..., um die Geschäfte der Handlung zu führen, im Hause zurück. Abends, da schon alles schläft, macht sich der junge Mann, von welchen Empfindungen getrieben, weiß ich nicht, auf, um noch einen Spaziergang durch den Garten zu machen. Er kömmt bei dem Schlafzimmer der teuern Frau vorbei, er steht still, er legt die Hand an die Klinke, er öffnet das Zimmer: das Herz schwillt ihm bei dem Anblick des Bettes, in welchem sie zu ruhen pflegt, empor, und kurz, er begeht, nach manchen Kämpfen mit sich selbst, die Torheit, weil es doch niemand sieht, und zieht sich aus und legt sich hinein. Nachts, da er schon mehrere Stunden, sanft und ruhig, geschlafen, kommt, aus irgendeinem besonderen Grunde, der, hier anzugeben, gleichgültig ist, das Ehepaar unerwartet nach Hause zurück; und da der alte Herr mit seiner Frau ins Schlafzimmer tritt, finden sie den jungen C..., der sich, von dem Geräusch, das sie verursachen, aufgeschreckt, halb im Bette, erhebt. Scham und Verwirrung, bei diesem Anblick, ergreifen ihn; und während das Ehepaar betroffen umkehrt, und wieder in das Nebenzimmer, aus dem sie gekommen waren, verschwindet, steht er auf, und zieht sich an; er schleicht, seines Lebens müde, in sein Zimmer, schreibt einen kurzen Brief, in welchem er den Vorfall erklärt, an die Frau, und schießt sich mit einem Pistol, das an der Wand hängt, in die Brust. Hier scheint die Geschichte seines Lebens aus; und gleichwohl (sonderbar genug) fängt sie hier erst allererst an. Denn statt ihn, den Jüngling, auf den er gemünzt war, zu töten, zog der Schuß dem alten Herrn, der in dem Nebenzimmer befindlich war, den Schlagfluß zu: Herr D... verschied <pb n="362" xml:id="tg400.3.2.2.r0rf.0"/>
+wenige Stunden darauf, ohne daß die Kunst aller Ärzte, die man herbeigerufen, imstande gewesen wäre, ihn zu retten. Fünf Tage nachher, da Herr D... schon längst begraben war, erwachte der junge C..., dem der Schuß, aber nicht lebensgefährlich, durch die Lunge gegangen war: und wer beschreibt wohl – wie soll ich sagen, seinen Schmerz oder seine Freude? als er erfuhr, was vorgefallen war und sich in den Armen der lieben Frau befand, um derentwillen er sich den Tod hatte geben wollen! Nach Verlauf eines Jahres heiratete ihn die Frau; und beide lebten noch im Jahr 1801, wo ihre Familie bereits, wie ein Bekannter erzählt, aus 15 Kindern bestand.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

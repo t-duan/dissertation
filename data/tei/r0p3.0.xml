@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0p3.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Unwahrscheinliche Wahrhaftigkeiten</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>366-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg405.r0p4.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Unwahrscheinliche Wahrhaftigkeiten">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Unwahrscheinliche Wahrhaftigkeiten</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B14A-2</idno><idno type="TextGridUri">textgrid:r0p4.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>366-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg405.3.r0p4.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg405.3.1.r0p4.0">Unwahrscheinliche Wahrhaftigkeiten</head>
+
+                              <p xml:id="tg405.3.2.r0p4.0">»Drei Geschichten«, sagte ein alter Offizier in einer Gesellschaft, »sind von der Art, daß ich ihnen zwar selbst vollkommenen Glauben beimesse, gleichwohl aber Gefahr liefe, für einen Windbeutel gehalten zu werden, wenn ich sie erzählen wollte. Denn die Leute fordern, als erste Bedingung, von der Wahrheit, daß sie wahrscheinlich sei; und doch ist die Wahrscheinlichkeit, wie die Erfahrung lehrt, nicht immer auf Seiten der Wahrheit.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.3.r0p4.0">Erzählen Sie, riefen einige Mitglieder, erzählen Sie! – denn man kannte den Offizier als einen heitern und schätzenswürdigen Mann, der sich der Lüge niemals schuldig machte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.4.r0p4.0">Der Offizier sagte lachend, er wolle der Gesellschaft den Gefallen tun; erklärte aber noch einmal im voraus, daß er auf den Glauben derselben, in diesem besonderen Fall, keinen Anspruch mache.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.5.r0p4.0">Die Gesellschaft dagegen sagte ihm denselben im voraus zu; sie forderte ihn nur auf, zu reden, und horchte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.6.r0p4.0">»Auf einem Marsch 1792 in der Rheincampagne«, begann der Offizier, »bemerkte ich, nach einem Gefecht, das wir mit dem Feinde gehabt hatten, einen Soldaten, der stramm, mit Gewehr und Gepäck, in Reih und Glied ging, obschon er einen Schuß mitten durch die Brust hatte; wenigstens sah man das Loch vorn im Riemen der Patrontasche, wo die Kugel eingeschlagen hatte, und hinten ein anderes im Rock, wo sie wieder herausgegangen war. Die Offiziere, die ihren Augen bei diesem seltsamen Anblick nicht trauten, forderten ihn zu wiederholten Malen auf, hinter die Front zu treten und sich verbinden zu lassen; aber der Mensch versicherte, daß er gar keine Schmerzen habe, und bat, ihn, um dieses Prellschusses willen, wie er es nannte, nicht von dem Regiment zu entfernen. Abends, da wir ins Lager gerückt waren, untersuchte der herbeigerufene Chirurgus seine Wunde; und fand, daß die Kugel vom Brustknochen, den sie nicht Kraft genug gehabt, zu durchschlagen, zurückgeprellt, zwischen der Rippe und der <pb n="366" xml:id="tg405.3.6.1.r0p4.0"/>
+Haut, welche auf elastische Weise nachgegeben, um den ganzen Leib herumgeglitscht, und hinten, da sie sich am Ende des Rückgrats gestoßen, zu ihrer ersten senkrechten Richtung zurückgekehrt, und aus der Haut wieder hervorgebrochen war. Auch zog diese kleine Fleischwunde dem Kranken nichts als ein Wundfieber zu: und wenige Tage verflossen, so stand er wieder in Reih und Glied.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.7.r0p4.0">Wie? fragten einige Mitglieder der Gesellschaft betroffen, und glaubten, sie hätten nicht recht gehört.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.8.r0p4.0">Die Kugel? Um den ganzen Leib herum? Im Kreise? – – Die Gesellschaft hatte Mühe, ein Gelächter zu unterdrücken.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.9.r0p4.0">»Das war die erste Geschichte«, sagte der Offizier, indem er eine Prise Tabak nahm, und schwieg.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.10.r0p4.0">Beim Himmel! platzte ein Landedelmann los: da haben Sie recht; diese Geschichte ist von der Art, daß man sie nicht glaubt!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.11.r0p4.0">»Eilf Jahre darauf«, sprach der Offizier, »im Jahr 1803, befand ich mich, mit einem Freunde, in dem Flecken Königstein in Sachsen, in dessen Nähe, wie bekannt, etwa auf eine halbe Stunde, am Rande des äußerst steilen, vielleicht dreihundert Fuß hohen, Elbufers, ein beträchtlicher Steinbruch ist. Die Arbeiter pflegen, bei großen Blöcken, wenn sie mit Werkzeugen nicht mehr hinzu kommen können, feste Körper, besonders Pfeifenstiele, in den Riß zu werfen, und überlassen der, keilförmig wirkenden, Gewalt dieser kleinen Körper das Geschäft, den Block völlig von dem Felsen abzulösen. Es traf sich, daß, eben um diese Zeit, ein ungeheurer, mehrere tausend Kubikfuß messender, Block zum Fall auf die Fläche des Elbufers, in dem Steinbruch, bereit war; und da dieser Augenblick, wegen des sonderbar im Gebirge widerhallenden Donners, und mancher andern, aus der Erschütterung des Erdreichs hervorgehender Erscheinungen, die man nicht berechnen kann, merkwürdig ist: so begaben, unter vielen andern Einwohnern der Stadt, auch wir uns, mein Freund und ich, täglich abends nach dem Steinbruch hinaus, um den Moment, da der Block fallen würde, zu erhaschen. Der Block fiel aber in der <pb n="367" xml:id="tg405.3.11.1.r0p4.0"/>
+Mittagsstunde, da wir eben, im Gasthof zu Königstein, an der Tafel saßen; und erst um 5 Uhr gegen Abend hatten wir Zeit, hinaus zu spazieren, und uns nach den Umständen, unter denen er gefallen war, zu erkundigen. Was aber war die Wirkung dieses seines Falls gewesen? Zuvörderst muß man wissen, daß, zwischen der Felswand des Steinbruchs und dem Bette der Elbe, noch ein beträchtlicher, etwa 50 Fuß in der Breite haltender Erdstrich befindlich war; dergestalt, daß der Block (welches hier wichtig ist) nicht unmittelbar ins Wasser der Elbe, sondern auf die sandige Fläche dieses Erdstrichs gefallen war. Ein Elbkahn, meine Herren, das war die Wirkung dieses Falls gewesen, war, durch den Druck der Luft, der dadurch verursacht worden, aufs Trockne gesetzt worden; ein Kahn, der, etwa 60 Fuß lang und 30 breit, schwer mit Holz beladen, am andern, entgegengesetzten, Ufer der Elbe lag: diese Augen haben ihn im Sande – was sag ich? sie haben, am anderen Tage, noch die Arbeiter gesehen, welche, mit Hebeln und Walzen, bemüht waren, ihn wieder flottzumachen, und ihn, vom Ufer herab, wieder ins Wasser zu schaffen. Es ist wahrscheinlich, daß die ganze Elbe (die Oberfläche derselben) einen Augenblick ausgetreten, auf das andere flache Ufer übergeschwappt und den Kahn, als einen festen Körper, daselbst zurückgelassen; etwa wie, auf dem Rande eines flachen Gefäßes, ein Stück Holz zurückbleibt, wenn das Wasser, auf welchem es schwimmt, erschüttert wird.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.12.r0p4.0">Und der Block, fragte die Gesellschaft, fiel nicht ins Wasser der Elbe?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.13.r0p4.0">Der Offizier wiederholte: nein!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.14.r0p4.0">Seltsam! rief die Gesellschaft.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.15.r0p4.0">Der Landedelmann meinte, daß er die Geschichten, die seinen Satz belegen sollten, gut zu wählen wüßte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.16.r0p4.0">»Die dritte Geschichte«, fuhr der Offizier fort, »trug sich zu, im Freiheitskriege der Niederländer, bei der Belagerung von Antwerpen durch den Herzog von Parma. Der Herzog hatte die Schelde, vermittelst einer Schiffsbrücke, gesperrt, und die Antwerpner arbeiteten ihrerseits, unter Anleitung eines <pb n="368" xml:id="tg405.3.16.1.r0p4.0"/>
+geschickten Italieners, daran, dieselbe durch Brander, die sie gegen die Brücke losließen, in die Luft zu sprengen. In dem Augenblick, meine Herren, da die Fahrzeuge die Schelde herab, gegen die Brücke, anschwimmen, steht, das merken Sie wohl, ein Fahnenjunker, auf dem linken Ufer der Schelde, dicht neben dem Herzog von Parma; jetzt, verstehen Sie, jetzt geschieht die Explosion: und der Junker, Haut und Haar, samt Fahne und Gepäck, und ohne daß ihm das mindeste auf dieser Reise zugestoßen, steht auf dem rechten. Und die Scheide ist hier, wie Sie wissen werden, einen kleinen Kanonenschuß breit.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.17.r0p4.0">»Haben Sie verstanden?«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.18.r0p4.0">Himmel, Tod und Teufel! rief der Landedelmann.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.19.r0p4.0">Dixi! sprach der Offizier, nahm Stock und Hut und ging weg.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.20.r0p4.0">Herr Hauptmann! riefen die andern lachend: Herr Hauptmann! – Sie wollten wenigstens die Quelle dieser abenteuerlichen Geschichte, die er für wahr ausgab, wissen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg405.3.21.r0p4.0">Lassen Sie ihn, sprach ein Mitglied der Gesellschaft; die Geschichte steht in dem Anhang zu Schillers Geschichte vom Abfall der vereinigten Niederlande; und der Verf. bemerkt ausdrücklich, daß ein Dichter von diesem Faktum keinen Gebrauch machen könne, der Geschichtsschreiber aber, wegen der Unverwerflichkeit der Quellen und der Übereinstimmung der Zeugnisse, genötigt sei, dasselbe aufzunehmen.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

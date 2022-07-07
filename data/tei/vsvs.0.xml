@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:vsvs.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Geschichten aus der Tonne</title><title>Erzählungen</title><title>Storm, Theodor</title><title>»Dree to beed«</title><author>Storm, Theodor</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-1CEC-F</idno><idno type="textgrid">textgrid:vt9k.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Erstdruck: Köln (Schaffstein) [1919], (Schaffstein's blaue Bändchen, 102).
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title><author key="pnd:118618725">Storm, Theodor</author></titleStmt><extent>329-</extent><publicationStmt><date when-iso="1967"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title><author key="pnd:118618725">Storm, Theodor</author></titleStmt><extent>337-</extent><publicationStmt><date when-iso="1967"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg263.vsvv.0" n="/Literatur/M/Storm, Theodor/Erzählungen/Geschichten aus der Tonne/»Dree to beed«">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>»Dree to beed«</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-1B79-8</idno><idno type="TextGridUri">textgrid:vsvv.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theodor Storm: Sämtliche Werke in vier Bänden. Herausgegeben von Peter Goldammer, Berlin und Weimar: Aufbau, 1967.</title>
+                  <author key="pnd:118618725">Storm, Theodor</author>
+               </titleStmt>
+               <extent>337-</extent>
+               <publicationStmt>
+                  <date when="1967"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1817" notAfter="1888"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg263.2.vsvv.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg263.2.1.vsvv.0">»Dree to beed«</head>
+
+                              <p xml:id="tg263.2.2.vsvv.0">Es wohnte einmal in einem Dorfe eine alte Frau, die hatte viel Geld und Gut. Nun hätte wohl mancher langfingrige Bursche sich gern sein Teil davon genommen; aber die Frau stand in dem Ruf, als könne ihr nichts verborgen bleiben. Trotzdem fanden sich jedoch drei Bursche, die nicht für voll dran glaubten und sich berieten, wie sie abends der Alten ein gut Stück Geld abholen möchten. Nun aber pflegte die Frau, wenn sie abends beim Spinnen das erstemal gähnte, zu sagen: »Dat wer een to Bedd«, wenn sie zum zweitenmal gähnte: »Dat weren twee«, und wenn sie beim drittenmal gesagt <pb n="337" xml:id="tg263.2.2.1.vsvv.0"/>
+hatte: »Dat weren dree!«, so setzte sie hinzu: »Nu kaam ick!« und ging zu Bette.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg263.2.3.vsvv.0">Als nun Abend geworden war, so kam der erste von den drei Dieben und guckte ins Fenster, da saß die Alte noch bei ihrer Lampe und spann. »Oha!« sagte sie und gähnte, »dat wer een!« Der Bursche aber glaubte, die kluge Frau habe ihn gemeint und wisse um ihr ganzes Vorhaben. Da machte er lange Beine und lief zu den andern zurück und erzählte ihnen, wie es ihm ergangen. Darauf kam der zweite dran; der guckte auch ins Fenster, da gähnte die Frau zum zweitenmal und rief: »Oha, dat weren twee!« Da glaubte auch er, die Frau meine ihn damit, weil er der zweite war, und lief zurück wie der erste. – »Jüm sind man all dumme Jungens«, rief der dritte und machte sich ebenfalls auf den Weg. Als er aber ans Fenster kam, da gähnte die Alte zum drittenmal und rief: »Oha, dat weren dree!« Dann stieß sie das Spinnrad von sich, stand auf und setzte hinzu: »Nu kaam ick!« Da lief der dritte auch weg; die Frau aber ging ruhig in ihr Bett.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg263.2.4.vsvv.0">»Denn«, pflegte mein Vater zu sagen, »wer ein bös Gewissen hat, den kann ein altes Weib mit der Nachtmütze durchs Schlüsselloch jagen.«</p>
+                              <lb xml:id="tg263.2.5.vsvv.0"/>
+                              <p rend="zenoPLm4n0" xml:id="tg263.2.6.vsvv.0">Als Claas diese Geschichte auserzählt hatte, hörten wir die Turmuhr neun schlagen, und von der Hoftür aus rief die Magd zum Abendessen. Da nun auch unsre Lichtendchen allmählich eins nach dem andern verbrannt waren, so hatten für diesen Abend die Geschichten in der Tonne ein Ende.</p>
+                           </div>
+                        </div>
+                        
+                     </body>
+               </text>
+            </TEI></teiCorpus>

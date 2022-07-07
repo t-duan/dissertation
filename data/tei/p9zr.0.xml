@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:p9zr.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Prosa aus dem Nachlaß</title><title>Prosa</title><title>Günderode, Karoline von</title><title>Das Reich der Töne</title><author>Günderode, Karoline von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-1FE9-4</idno><idno type="textgrid">textgrid:p9z1.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                                 Entstanden wohl 1802/03, Erstdruck 1922.
+                              </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title><author key="pnd:118543202">Günderode, Karoline von</author></titleStmt><extent>69-</extent><publicationStmt><date when-iso="1920"/><pubPlace>Berlin-Wilmersdorf</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg105.p9zq.0" n="/Literatur/M/Günderode, Karoline von/Prosa/Prosa aus dem Nachlaß/Das Reich der Töne">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das Reich der Töne</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-1FFF-3</idno><idno type="TextGridUri">textgrid:p9zq.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                                 Entstanden wohl 1802/03, Erstdruck 1922.
+                              </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title>
+                  <author key="pnd:118543202">Günderode, Karoline von</author>
+               </titleStmt>
+               <extent>69-</extent>
+               <publicationStmt>
+                  <date when="1920"/>
+                  <pubPlace>Berlin-Wilmersdorf</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1802" notAfter="1803"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg105.3.p9zq.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg105.3.1.p9zq.0">Das Reich der Töne</head>
+
+                              <p xml:id="tg105.3.2.p9zq.0">Allen Materien wohnt ein geheimnißvolles Leben ein, aber es ist in ihnen gefangen, umstricket mit des Stoffes festen Banden denen es sich nicht allein entwinden kann. Wann aber der äußere Anstos die <pb n="69" xml:id="tg105.3.2.1.p9zq.0"/>
+Materie berühret dann werden die Bande gelöset. Die Töne entspringen ihren Kerkern, umarmen mit zitternder Freude die Luft, und in harmonischen Schwingungen fließen sie ineinander über. So schwebte einst, da alle Dinge noch in rohen Massen vermischt waren der lebendige Geist über den Materien, und da er sie umarmte entsprang aus ihrer Vermischung eine Reihe harmonischer Gestalten.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

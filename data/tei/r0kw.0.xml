@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0kw.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Anekdote aus dem letzten preußischen Kriege</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>343-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg380.r0kz.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Anekdote aus dem letzten preußischen Kriege">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Anekdote aus dem letzten preußischen Kriege</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B10A-3</idno><idno type="TextGridUri">textgrid:r0kz.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>343-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg380.3.r0kz.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg380.3.1.r0kz.0">Anekdote</head>
+                              <lb xml:id="tg380.3.2.r0kz.0"/>
+                           </div>
+                           <div type="h4">
+                              <head type="h4" xml:id="tg380.3.3.r0kz.0">aus dem letzten preußischen Kriege</head>
+
+                              <p xml:id="tg380.3.4.r0kz.0">In einem bei Jena liegenden Dorf, erzählte mir, auf einer Reise nach Frankfurt, der Gastwirt, daß sich mehrere Stunden nach der Schlacht, um die Zeit, da das Dorf schon ganz von der Armee des Prinzen von Hohenlohe verlassen und von Franzosen, die es für besetzt gehalten, umringt gewesen wäre, ein einzelner preußischer Reiter darin gezeigt hätte; und versicherte mir, daß wenn alle Soldaten, die an diesem Tage mitgefochten, so tapfer gewesen wären, wie dieser, die Franzosen hätten geschlagen werden müssen, wären sie auch noch dreimal stärker gewesen, als sie in der Tat waren. Dieser Kerl, sprach der Wirt, sprengte, ganz von Staub bedeckt, vor meinen Gasthof, und rief: »Herr Wirt!« und da ich frage: was gibt's? »ein Glas Branntewein!« antwortet er, indem er sein Schwert in die Scheide wirft: »mich dürstet« Gott im Himmel! sag ich: will er machen, Freund, daß er wegkömmt? Die Franzosen sind ja dicht vor dem Dorf! »Ei, was!« spricht er, indem er dem Pferde den Zügel über den Hals legt. »Ich habe den ganzen Tag nichts genossen!« Nun er ist, glaub ich, vom Satan besessen –! He! Liese! rief ich, und schaff ihm eine Flasche Danziger herbei, und sage: da! und will ihm die ganze Flasche in die Hand drücken, damit er nur reite. »Ach, was!« spricht er, indem er die Flasche wegstößt, und sich den Hut <pb n="343" xml:id="tg380.3.4.1.r0kz.0"/>
+abnimmt: »wo soll ich mit dem Quark hin?« Und: »schenk er ein!« spricht er, indem er sich den Schweiß von der Stirn abtrocknet: »denn ich habe keine Zeit!« Nun er ist ein Kind des Todes, sag ich. Da! sag ich, und schenk ihm ein; da! trink er und reit er! Wohl mag's ihm bekommen: »Noch eins!« spricht der Kerl; während die Schüsse schon von allen Seiten ins Dorf prasseln. Ich sage: noch eins? Plagt ihn –! »Noch eins!« spricht er, und streckt mir das Glas hin – »Und gut gemessen«, spricht er, indem er sich den Bart wischt, und sich vom Pferde herab schneuzt: »denn es wird bar bezahlt!« Ei, mein Seel, so wollt ich doch, daß ihn –! Da! sag ich, und schenk ihm noch, wie er verlangt, ein zweites, und schenk ihm, da er getrunken, noch ein drittes ein, und frage: ist er nun zufrieden? »Ach!« – schüttelt sich der Kerl. »Der Schnaps ist gut! – Na!« spricht er, und setzt sich den Hut auf: »was bin ich schuldig?« Nichts! nichts! versetz ich. Pack er sich, ins Teufelsnamen; die Franzosen ziehen augenblicklich ins Dorf! »Na!« sagt er, indem er in seinen Stiefel greift: »so soll's ihm Gott lohnen«, und holt, aus dem Stiefel, einen Pfeifenstummel hervor, und spricht, nachdem er den Kopf ausgeblasen: »schaff er mir Feuer!« Feuer? sag ich: plagt ihn –? »Feuer, ja!« spricht er: »denn ich will mir eine Pfeife Tabak anmachen.« Ei, den Kerl reiten Legionen –! He, Liese, ruf ich das Mädchen! und während der Kerl sich die Pfeife stopft, schafft das Mensch ihm Feuer. »Na!« sagt der Kerl, die Pfeife, die er sich angeschmaucht, im Maul: »nun sollen doch die Franzosen die Schwerenot kriegen!« Und damit, indem er sich den Hut in die Augen drückt, und zum Zügel greift, wendet er das Pferd und zieht von Leder. Ein Mordkerl! sag ich; ein verfluchter, verwetterter Galgenstrick! Will er sich ins Henkers Namen scheren, wo er hingehört? Drei Chasseurs – sieht er nicht? halten ja schon vor dem Tor? »Ei was!« spricht er, indem er ausspuckt; und faßt die drei Kerls blitzend ins Auge. »Wenn ihrer zehen wären, ich fürcht mich nicht« Und in dem Augenblick reiten auch die drei Franzosen schon ins Dorf. »Bassa Manelka!« ruft der Kerl, und gibt seinem Pferde die <pb n="344" xml:id="tg380.3.4.2.r0kz.0"/>
+Sporen und sprengt auf sie ein; sprengt, so wahr Gott lebt, auf sie ein, und greift sie, als ob er das ganze Hohenlohische Corps hinter sich hätte, an; dergestalt, daß, da die Chasseurs, ungewiß, ob nicht noch mehr Deutsche im Dorf sein mögen, einen Augenblick, wider ihre Gewohnheit, stutzen, er, mein Seel, ehe man noch eine Hand umkehrt, alle drei vom Sattel haut, die Pferde, die auf dem Platz herumlaufen, aufgreift, damit bei mir vorbeisprengt, und: »Bassa Teremtetem!« ruft, und: »Sieht er wohl, Herr Wirt?« und »Adies!« und »auf Wiedersehn!« und: »hoho! hoho! hoho!« – – So einen Kerl, sprach der Wirt, habe ich zeit meines Lebens nicht gesehen.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

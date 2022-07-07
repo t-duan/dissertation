@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0sp.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Neujahrswunsch eines Feuerwerkers</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>360-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg399.r0sn.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Neujahrswunsch eines Feuerwerkers">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Neujahrswunsch eines Feuerwerkers</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B1B1-9</idno><idno type="TextGridUri">textgrid:r0sn.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>360-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg399.3.r0sn.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg399.3.1.r0sn.0">Neujahrswunsch eines Feuerwerkers</head>
+                              <head type="h4" xml:id="tg399.3.2.r0sn.0">an seinen Hauptmann,</head>
+                              <head type="h4" xml:id="tg399.3.3.r0sn.0">aus dem siebenjährigen Kriege</head>
+
+                              <milestone unit="head_start"/>
+                                 <p rend="zenoPC" xml:id="tg399.3.4.r0sn.0">Hochwohlgeborner Herr,</p>
+                                 <p rend="zenoPC" xml:id="tg399.3.5.r0sn.0">Hochzuehrender, Hochgebietender, Vester und</p>
+                                 <p rend="zenoPC" xml:id="tg399.3.6.r0sn.0">Strenger Herr Hauptmann!</p>
+                              <milestone unit="head_end"/>
+                              <lb xml:id="tg399.3.7.r0sn.0"/>
+                              <p xml:id="tg399.3.8.r0sn.0">Sintemal und alldieweil und gleichwie, wenn die ungestüme Wasserflut und deren schäumende Wellen einer ganzen Stadt Untergang und Verwüstung drohen, und dann der zitternde Bürger mit Rettungswerkzeugen herzu eilet und rennt, um wo möglich den rauschenden, brausenden und erzürnten Fluten Einhalt zu tun: so und nicht anders eile ich Ew. Hochwohlgeboren bei dem jetzigen Jahreswechsel von der Unverbesserlichkeit meiner, Ihnen gewidmeten Ergebenheit bereitwilligst und dienstbeflissentlichst zu versichern und zu überzeugen und dabei meinem Hochgeehrten Herrn Hauptmann ein ganzes Arsenal voll aller zur Glückseligkeit des menschlichen Lebens erforderlichen Bedürfnisse anzuwünschen. – Es müsse meinem Hochgeehrtesten Herrn Hauptmann weder an Pulver der edlen Gesundheit, noch an den Kugeln eines immerwährenden Vergnügens, weder an Bomben der Zufriedenheit, weder an Karkassen der Gemütsruhe, noch an der Lunte eines langen Lebens ermangeln. Es müssen die Feinde unsrer Ruhe, die pandurenmäßigen Sorgen, sich nimmer der Zitadelle Ihres <pb n="360" xml:id="tg399.3.8.1.r0sn.0"/>
+Herzens nähern; <hi rend="italic" xml:id="tg399.3.8.2.r0sn.0">ja</hi>, es müsse Ihnen gelingen, die Trancheen ihrer Kränkungen vor der Redoute Ihrer Lustempfindungen zu öffnen. Das Glacis Ihres Wohlergehns sei bis in das späteste Alter mit den Palisaden des Segens verwahrt, und die Sturmleitern des Kummers müssen vergebens an das Ravelin Ihrer Freude gelegt werden. Es müssen Ew. Hochwohlgeboren alle, bei dem beschwerlichen Marsch dieses Lebens vorkommende, Defiléen ohne Verlust und Schaden passieren, und fehle es zu keiner Zeit, weder der Kavallerie Ihrer Wünsche, noch der Infanterie Ihrer Hoffnungen, noch der reitenden Artillerie Ihrer Projekte an dem Proviant und den Munitionen eines glücklichen Erfolgs. Übrigens ermangle ich auch nicht, das Gewehr meiner mit scharfen Patronen geladenen Dankbarkeit zu der Salve Ihres gütigen Wohlwollens loszuschießen, und mit ganzen Pelotons der Erkenntlichkeit durch zu chargieren. Ich verabscheue die Handgriffe der Falschheit, ich mache den Pfanndeckel der Verstellung ab, und dringe mit aufgepflanztem Bajonett meiner ergebensten Bitte in das Bataillon Quarré Ihrer Freundschaft ein, um dieselbe zu forcieren, daß sie mir den Wahlplatz Ihrer Gewogenheit überlassen müsse, wo ich mich zu maintenieren suchen werde, bis die unvermeidliche Mine des Todes ihren Effekt tut, und mich, nicht in die Luft sprengen, wohl aber in die dunkle Kasematte des Grabes einquartieren wird. Bis dahin verharre ich meines</p>
+                              <closer>
+                                 <seg type="closer" rend="zenoPR" xml:id="tg399.3.9.r0sn.0">Hochzuehrenden Herrn Hauptmanns</seg>
+                                 <seg type="closer" rend="zenoPR" xml:id="tg399.3.10.r0sn.0">respektmäßiger Diener N.N.</seg>
+                              </closer>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

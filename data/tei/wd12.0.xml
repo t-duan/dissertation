@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:wd12.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Die Märchen aus dem Phantasus</title><title>Erzählungen und Märchen</title><title>Tieck, Ludwig</title><title>Der getreue Eckart und Der Tannenhäuser</title><author>Tieck, Ludwig</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0005-56CF-E</idno><idno type="textgrid">textgrid:wdxp.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Tiecks dreibändige Sammlung »Phantasus« verknüpfte bereits früher gedruckte mit neuen Texten. Erstdruck der Sammlung: Berlin (Realschulbuchhandlung) 1812–1815.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Ludwig Tieck: Werke in vier Bänden. Nach dem Text der »Schriften« von 1828–1854, unter Berücksichtigung der Erstdrucke. Herausgegeben von Marianne Thalmann, Band 1–4, München: Winkler, 1963.</title><author key="pnd:12989432X">Tieck, Ludwig</author></titleStmt><extent>7-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Ludwig Tieck: Werke in vier Bänden. Nach dem Text der »Schriften« von 1828–1854, unter Berücksichtigung der Erstdrucke. Herausgegeben von Marianne Thalmann, Band 1–4, München: Winkler, 1963.</title><author key="pnd:12989432X">Tieck, Ludwig</author></titleStmt><extent>27-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg926.wd11.0" n="/Literatur/M/Tieck, Ludwig/Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der getreue Eckart und Der Tannenhäuser">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Der getreue Eckart und Der Tannenhäuser</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-53C9-3</idno><idno type="TextGridUri">textgrid:wd11.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ludwig Tieck: Werke in vier Bänden. Nach dem Text der »Schriften« von 1828–1854, unter Berücksichtigung der Erstdrucke. Herausgegeben von Marianne Thalmann, Band 1–4, München: Winkler, 1963.</title>
+                  <author key="pnd:12989432X">Tieck, Ludwig</author>
+               </titleStmt>
+               <extent>27-</extent>
+               <publicationStmt>
+                  <date when="1963"/>
+                  <pubPlace>München</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1773" notAfter="1853"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg926.3.1.wd11.0">Der Getreue Eckart</head>
+                              <head type="h4" xml:id="tg926.3.2.wd11.0">und</head>
+                              <head type="h4" xml:id="tg926.3.3.wd11.0">Der Tannenhäuser</head>
+
+                              <milestone unit="hi_start"/>
+                                 <p rend="zenoPC" xml:id="tg926.3.4.wd11.0">
+                                    <hi rend="italic" xml:id="tg926.3.4.1.wd11.0">In zwei Abschnitten</hi>
+                                 </p>
+                              <milestone unit="hi_end"/>
+                              <lb xml:id="tg926.3.5.wd11.0"/>
+                           </div>
+                        </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        
+                        <div subtype="work:no" xml:id="tg927.wd11.0" n="/Literatur/M/Tieck, Ludwig/Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der getreue Eckart und Der Tannenhäuser/Erster Abschnitt">
+                           <div>
+                              <desc>
+                                 <title>Erster Abschnitt</title>
+                                 <desc rend="zenoPLm8n8" corresp="#tg862.2.15">
+                                    Erstdruck in: Romantische Dichtungen, Jena (Frommann) 1799.
+                                 </desc>
+                              </desc>
+                           </div>
+                           
+                           <div type="text" xml:id="tg927.2.wd11.0">
+                              <div type="h4">
+                                 <head type="h4" xml:id="tg927.2.1.wd11.0">
+                                    <pb n="27" xml:id="tg927.2.1.1.wd11.0"/>
+                                    <pb type="start" n="29" xml:id="tg927.2.1.2.wd11.0"/>Erster Abschnitt</head>
+
+                                 <lg>
+                                    <l xml:id="tg927.2.2.wd11.0">»Der edle Herzog groß</l>
+                                    <l xml:id="tg927.2.3.wd11.0">Von <hi rend="italic" xml:id="tg927.2.3.1.wd11.0">dem Burgunder</hi> Lande</l>
+                                    <l xml:id="tg927.2.4.wd11.0">Litt manchen Feindesstoß</l>
+                                    <l xml:id="tg927.2.5.wd11.0">Wohl auf dem ebnen Sande.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.6.wd11.0"/>
+                                    <l xml:id="tg927.2.7.wd11.0">Er sprach: ›Mich schlägt der Feind,</l>
+                                    <l xml:id="tg927.2.8.wd11.0">Mein Mut ist mir entwichen,</l>
+                                    <l xml:id="tg927.2.9.wd11.0">Die Freunde sind erblichen,</l>
+                                    <l xml:id="tg927.2.10.wd11.0">Die Knecht geflohen seind!</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.11.wd11.0"/>
+                                    <l xml:id="tg927.2.12.wd11.0">Ich kann mich nicht mehr regen,</l>
+                                    <l xml:id="tg927.2.13.wd11.0">Nicht Waffen führen kann:</l>
+                                    <l xml:id="tg927.2.14.wd11.0">Wo bleibt der edle Degen,</l>
+                                    <l xml:id="tg927.2.15.wd11.0">Eckart der treue Mann?</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.16.wd11.0"/>
+                                    <l xml:id="tg927.2.17.wd11.0">Er war mir sonst zur Seite</l>
+                                    <l xml:id="tg927.2.18.wd11.0">In jedem harten Strauß,</l>
+                                    <l xml:id="tg927.2.19.wd11.0">Doch leider blieb er heute</l>
+                                    <l xml:id="tg927.2.20.wd11.0">Daheim bei sich zu Haus.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.21.wd11.0"/>
+                                    <l xml:id="tg927.2.22.wd11.0">Es mehren sich die Haufen,</l>
+                                    <l xml:id="tg927.2.23.wd11.0">Ich muß gefangen sein,</l>
+                                    <l xml:id="tg927.2.24.wd11.0">Mag nicht wie Knecht entlaufen,</l>
+                                    <l xml:id="tg927.2.25.wd11.0">Drum will ich sterben fein!‹ –</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.26.wd11.0"/>
+                                    <l xml:id="tg927.2.27.wd11.0">So klagt der von Burgund,</l>
+                                    <l xml:id="tg927.2.28.wd11.0">Will sein Schwert in sich stechen:</l>
+                                    <l xml:id="tg927.2.29.wd11.0">Da kommt zur selben Stund</l>
+                                    <l xml:id="tg927.2.30.wd11.0">Eckart, den Feind zu brechen.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.31.wd11.0"/>
+                                    <l xml:id="tg927.2.32.wd11.0">Geharnischt reit't der Degen</l>
+                                    <l xml:id="tg927.2.33.wd11.0">Keck in den Feind hinein,</l>
+                                    <l xml:id="tg927.2.34.wd11.0">Ihm folgt die Schar verwegen</l>
+                                    <l xml:id="tg927.2.35.wd11.0">Und auch der Sohne sein.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.36.wd11.0"/>
+                                    <pb n="29" xml:id="tg927.2.37.wd11.0"/>
+                                    <l xml:id="tg927.2.38.wd11.0">Burgund erkennt die Zeichen,</l>
+                                    <l xml:id="tg927.2.39.wd11.0">Und ruft: ›Gott sei gelobt!‹</l>
+                                    <l xml:id="tg927.2.40.wd11.0">Die Feinde mußten weichen</l>
+                                    <l xml:id="tg927.2.41.wd11.0">Die wütend erst getobt.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.42.wd11.0"/>
+                                    <l xml:id="tg927.2.43.wd11.0">Da schlug mit treuem Mute</l>
+                                    <l xml:id="tg927.2.44.wd11.0">Eckart ins Volk hinein,</l>
+                                    <l xml:id="tg927.2.45.wd11.0">Doch schwamm im roten Blute</l>
+                                    <l xml:id="tg927.2.46.wd11.0">Sein zartes Söhnelein.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.47.wd11.0"/>
+                                    <l xml:id="tg927.2.48.wd11.0">Als nun der Feind bezwungen,</l>
+                                    <l xml:id="tg927.2.49.wd11.0">Da sprach der Herzog laut :</l>
+                                    <l xml:id="tg927.2.50.wd11.0">Es ist dir wohl gelungen,</l>
+                                    <l xml:id="tg927.2.51.wd11.0">Doch so, daß es mir graut;</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.52.wd11.0"/>
+                                    <l xml:id="tg927.2.53.wd11.0">Du hast viel Mann geworben</l>
+                                    <l xml:id="tg927.2.54.wd11.0">Zu retten Reich und Leben,</l>
+                                    <l xml:id="tg927.2.55.wd11.0">Dein Söhnlein liegt erstorben,</l>
+                                    <l xml:id="tg927.2.56.wd11.0">Kann's dir nicht wiedergeben.'-</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.57.wd11.0"/>
+                                    <l xml:id="tg927.2.58.wd11.0">Der Eckart weinet fast,</l>
+                                    <l xml:id="tg927.2.59.wd11.0">Bückt sich der starke Held,</l>
+                                    <l xml:id="tg927.2.60.wd11.0">Und nimmt die teure Last,</l>
+                                    <l xml:id="tg927.2.61.wd11.0">Den Sohn in Armen hält.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.62.wd11.0"/>
+                                    <l xml:id="tg927.2.63.wd11.0">›Wie starbst du, Heinz, so frühe,</l>
+                                    <l xml:id="tg927.2.64.wd11.0">Und warst noch kaum ein Mann?</l>
+                                    <l xml:id="tg927.2.65.wd11.0">Mich reut nicht meine Mühe,</l>
+                                    <l xml:id="tg927.2.66.wd11.0">Ich seh dich gerne an,</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.67.wd11.0"/>
+                                    <l xml:id="tg927.2.68.wd11.0">Weil wir dich, Fürst, erlösten,</l>
+                                    <l xml:id="tg927.2.69.wd11.0">Aus deiner Feinde Hohn,</l>
+                                    <l xml:id="tg927.2.70.wd11.0">Und drum will ich mich trösten,</l>
+                                    <l xml:id="tg927.2.71.wd11.0">Ich schenke dir den Sohn!‹</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.72.wd11.0"/>
+                                    <l xml:id="tg927.2.73.wd11.0">Da ward dem Burgund trübe</l>
+                                    <l xml:id="tg927.2.74.wd11.0">Vor seiner Augen Licht,</l>
+                                    <l xml:id="tg927.2.75.wd11.0">Weil diese große Liebe</l>
+                                    <l xml:id="tg927.2.76.wd11.0">Sein edles Herze bricht.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.77.wd11.0"/>
+                                    <pb n="30" xml:id="tg927.2.78.wd11.0"/>
+                                    <l xml:id="tg927.2.79.wd11.0">Er weint die hellen Zähren</l>
+                                    <l xml:id="tg927.2.80.wd11.0">Und fällt ihm an die Brust:</l>
+                                    <l xml:id="tg927.2.81.wd11.0">›Dich, Held, muß ich verehren‹,</l>
+                                    <l xml:id="tg927.2.82.wd11.0">Spricht er in Leid und Lust,</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.83.wd11.0"/>
+                                    <l xml:id="tg927.2.84.wd11.0">›So treu bist du geblieben,</l>
+                                    <l xml:id="tg927.2.85.wd11.0">Da alles von mir wich,</l>
+                                    <l xml:id="tg927.2.86.wd11.0">So will ich nun auch lieben</l>
+                                    <l xml:id="tg927.2.87.wd11.0">Wie meinen Bruder dich,</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.88.wd11.0"/>
+                                    <l xml:id="tg927.2.89.wd11.0">Und sollst in ganz Burgunde</l>
+                                    <l xml:id="tg927.2.90.wd11.0">So gelten wie der Herr,</l>
+                                    <l xml:id="tg927.2.91.wd11.0">Wenn ich mehr lohnen kunnte,</l>
+                                    <l xml:id="tg927.2.92.wd11.0">Ich gäbe gern noch mehr.‹</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.93.wd11.0"/>
+                                    <l xml:id="tg927.2.94.wd11.0">Als dies das Land erfahren</l>
+                                    <l xml:id="tg927.2.95.wd11.0">So freut sich jedermann,</l>
+                                    <l xml:id="tg927.2.96.wd11.0">Man nennt den Held seit</l>
+                                    <l xml:id="tg927.2.97.wd11.0">Jahren Eckart den treuen Mann.«</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.98.wd11.0"/>
+                                 <p xml:id="tg927.2.99.wd11.0">Die Stimme eines alten Landmanns klang über die Felsen herüber, der dieses Lied sang, und der getreue Eckart saß in seinem Unmute auf dem Berghang und weinte laut. Sein jüngstes Söhnlein stand neben ihm und fragte: »Warum weinst du also laut, mein Vater Eckart? Wie bist du doch so groß und stark, höher und kräftiger, als alle übrige Männer, vor wem darfst du dich denn fürchten?«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.100.wd11.0">Indem zog die Jagd des Herzogs heim nach Hause. Burgund saß auf einem stattlichen, schön geschmückten Rosse, und Gold und Geschmeide des fürstlichen Herzogs flimmerte und blinkte in der Abendsonne, so daß der junge Conrad den herrlichen Aufzug nicht genug sehn, nicht genug preisen konnte. Der getreue Eckart erhob sich und schaute finster hinüber, und der junge Conrad sang, nachdem er die Jagd aus dem Gesichte verloren hatte:</p>
+                                 <lb xml:id="tg927.2.101.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.102.wd11.0">»Wann du willt</l>
+                                    <l xml:id="tg927.2.103.wd11.0">Schwert und Schild,</l>
+                                    <l xml:id="tg927.2.104.wd11.0">Gutes Roß,</l>
+                                    <l xml:id="tg927.2.105.wd11.0">Speer und Geschoß</l>
+                                    <l xml:id="tg927.2.106.wd11.0">Führen:</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.107.wd11.0"/>
+                                    <pb n="31" xml:id="tg927.2.108.wd11.0"/>
+                                    <l xml:id="tg927.2.109.wd11.0">Muß dein Mark</l>
+                                    <l xml:id="tg927.2.110.wd11.0">In Beinen stark,</l>
+                                    <l xml:id="tg927.2.111.wd11.0">Dir im Blut</l>
+                                    <l xml:id="tg927.2.112.wd11.0">Mannesmut</l>
+                                    <l xml:id="tg927.2.113.wd11.0">Gar kräftiglich regieren!«</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.114.wd11.0"/>
+                                 <p xml:id="tg927.2.115.wd11.0">Der Alte nahm den Sohn und herzte ihn, wobei er gerührt seine großen hellblauen Augen anschaute. »Hast du das Lied jenes guten Mannes gehört?« fragte er ihn dann.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.116.wd11.0">»Wie nicht?« sprach der Sohn, »hat er es doch laut genug gesungen, und bist du ja doch der getreue Eckart, so daß ich gern zuhörte.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.117.wd11.0">»Derselbe Herzog ist jetzt mein Feind«, sprach der alte Vater; »er hält mir meinen zweiten Sohn gefangen, ja hat ihn schon hingerichtet, wenn ich dem trauen darf, was die Leute im Lande sagen.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.118.wd11.0">»Nimm dein großes Schwert und duld es nicht«, sagte der Sohn; »sie müssen ja alle vor dir zittern, und alle Leute im ganzen Lande werden dir beistehn, denn du bist ihr größter Held im Lande.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.119.wd11.0">»Nicht also, mein Sohn«, sprach jener, »dann wäre ich der, für den mich meine Feinde ausgeben, ich darf nicht an meinem Landesherren ungetreu werden, nein, ich darf nicht den Frieden brechen, den ich ihm angelobt und in seine Hände versprochen.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.120.wd11.0">»Aber was will er von uns?« fragte Conrad ungeduldig.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.121.wd11.0">Der Eckart setzte sich wieder nieder und sagte: »Mein Sohn, die ganze Erzählung davon würde zu umständlich lauten, und du würdest es dennoch kaum verstehn. Der Mächtige hat immer seinen größten Feind in seinem eigenen Herzen, den er so Tag wie Nacht fürchtet: so meint der Burgund nunmehr, er habe mir zu viel getraut, und in mir eine Schlange an seinem Busen auferzogen. Sie nennen mich im Land den kühnsten Degen, sie sagen laut, daß er mir Reich und Leben zu danken, ich heiße der getreue Eckart, und so wenden sich Bedrängte und Notleidende zu mit, daß ich ihnen Hülfe schaffe; das kann er nicht leiden. So hat er Groll auf mich geworfen, und jeder, der bei ihm gelten möchte, vermehrt sein Mißtrauen zu mir: so hat sich endlich sein Herz von mir abgewendet.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.122.wd11.0">Hierauf erzählte ihm der Held Eckart mit schlichten Worten, daß ihn der Herzog von seinem Angesichte verbannt habe, und <pb n="32" xml:id="tg927.2.122.1.wd11.0"/>
+daß sie sich ganz fremd geworden seien, weil jener geargwohnt, er wolle ihm gar sein Herzogtum entreißen. In Betrübnis fuhr er fort, wie der Herzog ihm seinen Sohn gefangengenommen, und ihm selber, als einem Verräter, nach dem Leben stehe. Conrad sprach zu seinem Vater: »So laß mich nun hingehn, mein alter Vater, und mit dem Herzoge reden, damit er verständig und dir gewogen werde; hat er meinen Bruder erwürgt, so ist er ein böser Mann, und du sollst ihn strafen, doch kann es nicht sein, weil er nicht so schnöde deiner großen Dienste vergessen kann.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.123.wd11.0">»Weißt du nicht den alten Spruch«, sagte Eckart:</p>
+                                 <lb xml:id="tg927.2.124.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.125.wd11.0">»Wenn der Mächtge dein begehrt,</l>
+                                    <l xml:id="tg927.2.126.wd11.0">Bist du ihm als Freund was wert,</l>
+                                    <l xml:id="tg927.2.127.wd11.0">Wie die Not von ihm gewichen,</l>
+                                    <l xml:id="tg927.2.128.wd11.0">Ist die Freundschaft auch erblichen.</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.129.wd11.0"/>
+                                 <p xml:id="tg927.2.130.wd11.0">Ja, mein ganzes Leben ist unnütz verschwendet: warum machte er mich groß, um mich dann desto tiefer hinabzuwerfen? Die Freundschaft der Fürsten ist wie ein tötendes Gift, das man nur gegen Feinde nützen kann, und womit sich der Eigner aus Unbedacht endlich selbst erwürgt.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.131.wd11.0">»Ich will zum Herzoge hin«, rief Conrad aus, »ich will ihm alles, was du getan, was du für ihn gelitten, in die Seele zurückrufen, und er wird wieder sein, wie ehemals.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.132.wd11.0">»Du hast vergessen«, sagte Eckart, »daß man uns für Verräter ausgerufen hat, darum laß uns miteinander flüchten, in ein fremdes Land, wo wir wohl ein besseres Glück antreffen mögen.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.133.wd11.0">»In deinem Alter«, sagte Conrad, »willst du deiner lieben Heimat noch den Rücken wenden? Nein, laß uns lieber alles andere versuchen. Ich will zum Burgunder, ihn versöhnen und zufriedenstellen; denn was kann er mir tun wollen, wenn er dich auch haßt und fürchtet?«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.134.wd11.0">»Ich lasse dich sehr ungern«, sagte Eckart, »meine Seele weissagt mir nichts Gutes, und doch möcht ich gern mit ihm versöhnt sein, denn er ist mein alter Freund, auch deinen Bruder erretten, der in gefänglicher Haft bei ihm schmachtet.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.135.wd11.0">Die Sonne warf ihre letzten milden Strahlen auf die grüne Erde, und Eckart setzte sich nachdenkend nieder, an einem Baumstamm gelehnt, er beschaute den Conrad lange Zeit und sagte dann: »Wenn du gehen willst, mein Sohn, so gehe jetzt, <pb n="33" xml:id="tg927.2.135.1.wd11.0"/>
+bevor die Nacht vollends hereinbricht; die Fenster in der herzoglichen Burg glänzen schon von Lichtern, ich vernehme aus der Ferne Trompetentöne vom Feste, vielleicht ist die Gemahlin seines Sohnes schon angelangt und sein Gemüt freundlicher gegen uns.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.136.wd11.0">Ungern ließ er den Sohn von sich, weil er seinem Glücke nicht mehr traute; der junge Conrad aber war um so mutiger, weil es ihm ein leichtes dünkte, das Gemüt des Herzoges umzuwenden, der noch vor weniger Zeit so freundlich mit ihm gespielt hatte. »Kommst du mir gewiß zurück, mein liebstes Kind?« klagte der Alte, »wenn du mir verlorengehst, ist keiner mehr von meinem Stamme übrig.« Der Knabe tröstete ihn, und schmeichelte mit Liebkosungen dem Greise; sie trennten sich endlich.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.137.wd11.0">Conrad klopfte an die Pforte der Burg und ward eingelassen, der alte Eckart blieb draußen in der Nacht allein. »Auch diesen habe ich verloren«, klagte er in der Einsamkeit, »ich werde sein Angesicht nicht wiedersehn.« Indem er so jammerte, wankte an einem Stabe ein Greis daher, der die Felsen hinabsteigen wollte, und bei jedem Schritte zu fürchten schien, daß er in den Abgrund stürzen möchte. Wie Eckart die Gebrechlichkeit des Alten wahrnahm, reichte er ihm die Hand, daß er sicher heruntersteigen möchte. »Woher des Weges?« fragte ihn Eckart.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.138.wd11.0">Der Alte setzte sich nieder und fing an zu weinen, daß ihm die hellen Tränen die Wangen hinunterliefen. Eckart wollte ihn mit gelinden und vernünftigen Worten trösten, aber der sehr bekümmerte Greis schien auf seine wohlgemeinten Reden nicht zu achten, sondern sich seinen Schmerzen noch ungemäßigter zu ergeben. »Welcher Gram kann Euch denn so gar sehr niederbeugen«, fragte er endlich, »daß Ihr gänzlich davon überwältigt seid?«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.139.wd11.0">»Ach meine Kinder!« klagte der Alte. Da dachte Eckart an Conrad, Heinz und Dietrich, und war selbst alles Trostes verlustig; »ja, wenn Eure Kinder gestorben sind«, sprach er, »dann ist Euer Elend wahrlich sehr groß.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.140.wd11.0">»Schlimmer als gestorben«, versetzte hierauf der Alte mit seiner jammernden Summe, »denn sie sind nicht tot, aber ewig für mich verloren. O wollte der Himmel, daß sie nur gestorben wären!«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.141.wd11.0">Der Held erschrak über diese seltsamen Worte, und bat den</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.142.wd11.0">
+                                    <pb n="34" xml:id="tg927.2.142.1.wd11.0"/>
+Greis, ihm dieses Rätsel aufzulösen, worauf jener sagte: »Wir leben wahrlich in einer wunderbarlichen Zeit, die wohl die letzten Tage bald herbeiführen wird, denn die erschrecklichsten Zeichen fallen dräuend in die Welt herein. Alles Unheil macht sich von den alten Ketten los, und streift nun frank und frei herum; die Furcht Gottes versiegt und verrinnt, und findet kein Strombett, in das sie sich sammeln möchte, und die bösen Kräfte stehn kecklich in ihren Winkeln auf, und feiern ihren Triumph. O mein lieber Herr, wir sind alt geworden, aber für dergleichen Wundergeschichten noch nicht alt genug. Ihr werdet ohne Zweifel den Kometen gesehen haben, dieses wunderbare Himmelslicht, das so prophetisch herniederscheint; alle Welt weissagt Übles, und keiner denkt daran, mit sich selbst die Besserung anzufahn und so die Rute abzuwenden. Dies ist nicht genug, sondern aus der Erde tun sich Wunderwerke hervor und brechen geheimnisvoll von unten herauf, wie das Licht schrecklich von oben herniederscheint. Habt Ihr niemals von dem Berge gehört, den die Leute nur den Berg der Venus nennen?«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.143.wd11.0">»Niemalen«, sagte Eckart, »so weit ich auch herumgekommen bin.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.144.wd11.0">»Darüber muß ich mich verwundern«, sagte der Alte, »denn die Sache ist jetzt ebenso bekannt, als sie wahrhaftig ist. In diesen Berg haben sich die Teufel hineingeflüchtet, und sich in den wüsten Mittelpunkt der Erde gerettet, als das aufwachsende heilige Christentum den heidnischen Götzendienst stürzte. Hier, sagt man nun, solle vor allen Frau Venus Hof halten, und alle ihre höllischen Heerscharen der weltlichen Lüste und verbotenen Wünsche um sich versammeln, so daß das Gebirge auch verflucht seit undenklichen Zeiten gelegen hat.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.145.wd11.0">»Doch nach welcher Gegend liegt der Berg?« fragte Eckart.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.146.wd11.0">»Das ist das Geheimnis«, sprach der Alte, »daß dieses niemand zu sagen weiß, als der sich schon dem Satan zu eigen gegeben, es fällt auch keinem Unschuldigen ein, ihn aufsuchen zu wollen. Ein Spielmann von wunderseltner Art ist plötzlich von unten hervorgekommen, den die Höllschen als Ihren Abgesandten ausgeschickt haben; dieser durchzieht die Welt, und spielt und musiziert auf einer Pfeifen, daß die Töne weit in den Gegenden widerklingen. Wer nun diese Klänge vernimmt, der wird von ihnen mit offenbarer, doch unerklärlicher Gewalt erfaßt, und fort, fort in die Wildnis getrieben, er sieht den Weg<pb n="35" xml:id="tg927.2.146.1.wd11.0"/>
+ nicht, den er geht, er wandert und wandert und wird nicht müde, seine Kräfte nehmen zu wie seine Eile, keine Macht kann ihn aufhalten, so rennt er rasend in den Berg hinein, und findet ewig niemals den Rückweg wieder. Diese Macht ist der Hölle jetzt zurückgegeben, und von entgegengesetzten Richtungen wandeln nun die unglückseligen verkehrten Pilgrime hin, wo keine Rettung zu erwarten steht. Ich hatte an meinen beiden Söhnen schon seit lange keine Freude mehr erlebt, sie waren wüst und ohne Sitten, sie verachteten so Eltern wie Religion; nun hat sie der Klang ergriffen und angefaßt, sie sind davon und in die Weite, die Welt ist ihnen zu enge, und sie suchen in der Hölle Raum.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.147.wd11.0">»Und was denkt Ihr bei diesen Dingen zu tun?« fragte Eckart.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.148.wd11.0">»Mit dieser Krücke habe ich mich aufgemacht«, antwortete der Alte, »um die Welt zu durchstreifen, sie wiederzufinden, oder vor Müdigkeit und Gram zu sterben.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.149.wd11.0">Mit diesen Worten riß er sich mit großer Anstrengung aus seiner Ruhe auf, und eilte fort so schnell er nur konnte, als wenn er sein Liebstes auf der Welt versäumen möchte, und Eckart sah mit Bedauern seiner unnützen Bemühung nach, und achtete ihn in seinen Gedanken für wahnwitzig.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.150.wd11.0">Es war Nacht geworden und wurde Tag, und Conrad kam nicht zurück; da irrte Eckart durch das Gebirge und wandte seine sehnenden Augen nach dem Schlosse, aber er ersah ihn nicht. Ein Getümmel zog aus der Burg daher, da trachtete er nicht mehr, sich zu verbergen, sondern er bestieg sein Roß, das frei weidete, und ritt in die Schar hinein, die fröhlich und guter Dinge über das Blachfeld zog. Als er unter ihnen war, erkannten sie ihn, aber keiner wagte Hand an ihn zu legen, oder ihm ein hartes Wort zu sagen, sondern sie wurden aus Ehrerbietung stumm, umgaben ihn in Verwunderung, und gingen dann ihres Weges. Einen von den Knechten rief er zurück, und fragte ihn: »Wo ist mein Sohn Conrad?« »O fragt mich nicht«, sagte der Knecht, »denn es würde Euch doch nur Jammer und Wehklagen erregen.« »Und Dietrich?« rief der Vater. »Nennt ihre Namen nicht mehr«, sprach der alte Knecht, »denn sie sind dahin, der Zorn des Herrn war gegen sie entbrannt, er gedachte Euch in ihnen zu strafen.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.151.wd11.0">Ein heißer Zorn stieg in Eckarts Gemüt auf, und er war vor Schmerz und Wut sein selber nicht mehr mächtig. Er spornte <pb n="36" xml:id="tg927.2.151.1.wd11.0"/>
+sein Roß mit aller Gewalt und ritt in das Burgtor hinein. Alle traten ihm mit scheuer Ehrfurcht aus dem Wege, und so ritt er vor den Palast. Er schwang sich vom Rosse und ging mit wankenden Schritten die großen Stiegen hinan. »Bin ich hier in der Wohnung des Mannes«, sagte er zu sich selber, »der sonst mein Freund war?« Er wollte seine Gedanken sammeln, aber immer wildere Gestalten bewegten sich vor seinen Augen, und so trat er in das Gemach des Fürsten.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.152.wd11.0">Der Herzog von Burgund war sich seiner nicht gewärtig, und erschrak heftig, als er den Eckart vor sich sah. »Bist du der Herzog von Burgund?« redete dieser ihn an. Worauf der Herzog mit Ja antwortete. »Und du hast meinen Sohn Dietrichen hinrichten lassen?« Der Herzog sagte ja. »Und auch mein jüngstes Söhnlein Conrad«, rief Eckart im Schmerz, »ist dir nicht zu gut gewesen, und du hast ihn auch umbringen lassen?« Worauf der Herzog wieder mit Ja antwortete.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.153.wd11.0">Hier ward Eckart übermannt und sprach in Tränen: »O antworte mir nicht so, Burgund, denn diese Reden kann ich nicht aushalten, sprich nur, daß es dich gereut, daß du es jetzt ungeschehen wünschest, und ich will mich zu trösten suchen; aber so bist du meinem Herzen überall zuwider.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.154.wd11.0">Der Herzog sagte: »Entferne dich von meinem Angesichte, ungetreuer Verräter, denn du bist mir der ärgste Feind, den ich nur auf Erden haben kann.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.155.wd11.0">Eckart sagte: »Du hast mich wohl ehedem deinen Freund genannt, aber diese Gedanken sind dir nunmehr fremd; nie hab ich dir zuwidergehandelt, stets hab ich dich als meinen Fürsten geehrt und geliebt, und behüte mich Gott, daß ich nun, wie ich wohl könnte, die Hand an mein Schwert legen sollte, um mir Rache zu schaffen. Nein, ich will mich selbst von deinem Angesichte verbannen, und in der Einsamkeit sterben.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.156.wd11.0">Mit diesen Worten ging er fort, und der Burgund war in seinem Gemüte bewegt, doch erschienen auf seinen Ruf die Leibwächter mit den Lanzen, die ihn von allen Seiten umgaben, und den Eckart mit ihren Spießen aus dem Gemache treiben wollten.</p>
+                                 <lb xml:id="tg927.2.157.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.158.wd11.0">Es schwang sich auf sein Pferd</l>
+                                    <l xml:id="tg927.2.159.wd11.0">Eckart der edle Held,</l>
+                                    <l xml:id="tg927.2.160.wd11.0">Und sprach: »In aller Welt</l>
+                                    <l xml:id="tg927.2.161.wd11.0">Ist mir nun nichts mehr wert.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.162.wd11.0"/>
+                                    <pb n="37" xml:id="tg927.2.163.wd11.0"/>
+                                    <l xml:id="tg927.2.164.wd11.0">Die Söhn hab ich verloren,</l>
+                                    <l xml:id="tg927.2.165.wd11.0">So find ich nirgend Trost,</l>
+                                    <l xml:id="tg927.2.166.wd11.0">Der Fürst ist mir erbost,</l>
+                                    <l xml:id="tg927.2.167.wd11.0">Hat meinen Tod geschworen.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.168.wd11.0"/>
+                                    <l xml:id="tg927.2.169.wd11.0">Da reitet er zu Wald</l>
+                                    <l xml:id="tg927.2.170.wd11.0">Und klagt aus vollem Herzen</l>
+                                    <l xml:id="tg927.2.171.wd11.0">Die übergroßen Schmerzen,</l>
+                                    <l xml:id="tg927.2.172.wd11.0">Daß weit die Stimme schallt:</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.173.wd11.0"/>
+                                    <l xml:id="tg927.2.174.wd11.0">»Die Menschen sind mir tot,</l>
+                                    <l xml:id="tg927.2.175.wd11.0">Ich muß mir Freunde suchen</l>
+                                    <l xml:id="tg927.2.176.wd11.0">In Eichen, wilden Buchen,</l>
+                                    <l xml:id="tg927.2.177.wd11.0">Ihn'n klagen meine Not.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.178.wd11.0"/>
+                                    <l xml:id="tg927.2.179.wd11.0">Kein Kind, das mich ergötzt,</l>
+                                    <l xml:id="tg927.2.180.wd11.0">Erwürgt von schlimmen Leuen</l>
+                                    <l xml:id="tg927.2.181.wd11.0">Blieb keiner von den dreien,</l>
+                                    <l xml:id="tg927.2.182.wd11.0">Der Liebste starb zuletzt.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.183.wd11.0"/>
+                                    <l xml:id="tg927.2.184.wd11.0">Wie Eckart also klagte,</l>
+                                    <l xml:id="tg927.2.185.wd11.0">Verlor er Sinn und Mut,</l>
+                                    <l xml:id="tg927.2.186.wd11.0">Er reit't in Zorneswut,</l>
+                                    <l xml:id="tg927.2.187.wd11.0">Als schon der Morgen tagte.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.188.wd11.0"/>
+                                    <l xml:id="tg927.2.189.wd11.0">Das Roß, das treu geblieben,</l>
+                                    <l xml:id="tg927.2.190.wd11.0">Stürzt hin im wilden Lauf,</l>
+                                    <l xml:id="tg927.2.191.wd11.0">Er achtet nicht darauf</l>
+                                    <l xml:id="tg927.2.192.wd11.0">Und will nun nichts mehr lieben.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.193.wd11.0"/>
+                                    <l xml:id="tg927.2.194.wd11.0">Er tut die Rüstung abe,</l>
+                                    <l xml:id="tg927.2.195.wd11.0">Wirft sich zu Boden hin,</l>
+                                    <l xml:id="tg927.2.196.wd11.0">Auf Sterben steht sein Sinn,</l>
+                                    <l xml:id="tg927.2.197.wd11.0">Sein Wunsch nur nach dem Grabe.</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.198.wd11.0"/>
+                                 <p xml:id="tg927.2.199.wd11.0">Niemand in der Gegend wußte, wohin sich der Eckart gewendet, denn er hatte sich in die wüsten Waldungen hineinverirrt, und vor keinem Menschen ließ er sich sehen. Der Herzog fürchtete seinen Sinn, und es gereute ihn nun, daß er ihn von sich gelassen, ohne ihn zu fangen. Darum machte er sich an einem Morgen auf, mit einem großen Zuge von Jägern und <pb n="38" xml:id="tg927.2.199.1.wd11.0"/>
+anderm Gefolge, um die Wälder zu durchstreifen und den Eckart aufzusuchen, denn er meinte, daß dessen Tod nur ihn völlig sicher stellte. Alle waren unermüdet, und ließen sich den Eifer nicht verdrießen, aber die Sonne war schon untergegangen, ohne daß sie von Eckart eine Spur angetroffen hätten.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.200.wd11.0">Ein Sturm brach herein, und große Wolken flogen sausend über dem Walde hin, der Donner rollte, und Blitze fuhren in die hohen Eichen; von einem ungestümen Schrecken wurden alle angefaßt, und einzeln in den Gebüschen und auf den Fluren zerstreut. Das Roß des Herzogs rannte in das Dickicht hinein, sein Knappe vermochte nicht, ihm zu folgen; das edle Roß stürzte nieder, und der Burgund rief im Gewitter vergeblich nach seinen Dienern, denn es war keiner, der ihn hören mochte.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.201.wd11.0">Wie ein wildes Tier war Eckart umhergeirrt, ohne von sich, von seinem Unglücke etwas zu wissen, er hatte sich selber verloren und in dumpfer Betäubung seinen Hunger mit Kräutern und Wurzeln gesättigt; unkenntlich wäre der Held jetzt jedem seiner Freunde gewesen, so hatten ihn die Tage seiner Verzweiflung entstellt. Wie der Sturm aufbrach, erwachte er aus seiner Betäubung, er fand sich in seinen Schmerzen wieder und erkannte sein Unglück. Da erhub er ein lautes Jammergeschrei um seine Kinder, er raufte seine weißen Haare und klagte im Brausen des Sturmes: »Wohin, wohin seid ihr gekommen, ihr Teile meines Herzens? Und wie ist mir denn so alle Macht genommen, daß ich euren Tod nicht mindestens rächen darf? Warum hielt ich denn meinen Arm zurück, und gab nicht dem den Tod, der meinem Herzen den tödlichsten Stich zuteilte? Ha, du verdienst es, Wahnsinniger, daß der Tyrann dich verhöhnt, weil dein unmächtiger Arm, dein blödes Herz nicht dem Mörder widerstrebt! Jetzt, jetzt sollte er so vor mir stehn! Vergeblich wünsch ich jetzt die Rache, da der Augenblick vorüber ist.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.202.wd11.0">So kam die Nacht herauf, und Eckart irrte in seinem Jammer umher. Da hörte er aus der Ferne wie eine Stimme, die um Hülfe rief. Er richtete seine Schritte nach dem Schalle, und traf endlich in der Dunkelheit auf einen Mann, der an einen Baumstamm gelehnt, ihn wehmütig bat, ihm wieder auf die rechte Straße zu helfen. Eckart erschrak vor der Stimme, denn sie schien ihm bekannt, und bald ermannte er sich und erkannte, daß der Verirrte der Herzog von Burgunden sei. Da erhub er seine Hand und wollte sein Schwert fassen, um den Mann niederzuhauen, der der Mörder seiner Kinder war; es überfiel <pb n="39" xml:id="tg927.2.202.1.wd11.0"/>
+ihn die Wut mit neuen Kräften, und er war des festen Willens, jenem den Garaus zu machen, als er plötzlich innehielt, und seines Schwures und des gegebenen Wortes gedachte. Er faßte die Hand seines Feindes, und führte ihn nach der Gegend, wo er die Straße vermutete.</p>
+                                 <lb xml:id="tg927.2.203.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.204.wd11.0">Der Herzog sank darnieder</l>
+                                    <l xml:id="tg927.2.205.wd11.0">Im wilden dunkeln Hain,</l>
+                                    <l xml:id="tg927.2.206.wd11.0">Da nahm der Helde bieder</l>
+                                    <l xml:id="tg927.2.207.wd11.0">Ihn auf die Schultern sein.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.208.wd11.0"/>
+                                    <l xml:id="tg927.2.209.wd11.0">Er sprach: »Gar viel Beschwerden</l>
+                                    <l xml:id="tg927.2.210.wd11.0">Mach ich dir, guter Mann«;</l>
+                                    <l xml:id="tg927.2.211.wd11.0">Der sagte: »Auf der Erden</l>
+                                    <l xml:id="tg927.2.212.wd11.0">Muß man gar viel bestahn.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.213.wd11.0"/>
+                                    <l xml:id="tg927.2.214.wd11.0">»Doch sollst du«, sprach Burgund,</l>
+                                    <l xml:id="tg927.2.215.wd11.0">»Dich freun, bei meinem Worte,</l>
+                                    <l xml:id="tg927.2.216.wd11.0">Komm ich nur erst gesund</l>
+                                    <l xml:id="tg927.2.217.wd11.0">Zu Haus und sicherm Orte.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.218.wd11.0"/>
+                                    <l xml:id="tg927.2.219.wd11.0">Der Held fühlt' Tränen heiß</l>
+                                    <l xml:id="tg927.2.220.wd11.0">Auf seinen alten Wangen,</l>
+                                    <l xml:id="tg927.2.221.wd11.0">Er sprach: »Auf keine Weis</l>
+                                    <l xml:id="tg927.2.222.wd11.0">Trag ich nach Lohn Verlangen.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.223.wd11.0"/>
+                                    <l xml:id="tg927.2.224.wd11.0">»Es mehren sich die Plagen«,</l>
+                                    <l xml:id="tg927.2.225.wd11.0">Sprach der Burgund in Not;</l>
+                                    <l xml:id="tg927.2.226.wd11.0">»Wohin willst du mich tragen?</l>
+                                    <l xml:id="tg927.2.227.wd11.0">Du bist wohl gar der Tod?«-</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.228.wd11.0"/>
+                                    <l xml:id="tg927.2.229.wd11.0">»Tod bin ich nicht genannt«,</l>
+                                    <l xml:id="tg927.2.230.wd11.0">Sprach Eckart noch im Weinen,</l>
+                                    <l xml:id="tg927.2.231.wd11.0">»Du stehst in Gottes Hand,</l>
+                                    <l xml:id="tg927.2.232.wd11.0">Sein Licht mag dich bescheinen.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.233.wd11.0"/>
+                                    <l xml:id="tg927.2.234.wd11.0">»Ach, wohl ist mir bewußt«,</l>
+                                    <l xml:id="tg927.2.235.wd11.0">Sprach jener drauf in Reue,</l>
+                                    <l xml:id="tg927.2.236.wd11.0">»Daß sündvoll meine Brust,</l>
+                                    <l xml:id="tg927.2.237.wd11.0">Drum zittr' ich, daß er dräue.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.238.wd11.0"/>
+                                    <pb n="40" xml:id="tg927.2.239.wd11.0"/>
+                                    <l xml:id="tg927.2.240.wd11.0">Ich hab dem treusten Freunde</l>
+                                    <l xml:id="tg927.2.241.wd11.0">Die Kinder umgebracht,</l>
+                                    <l xml:id="tg927.2.242.wd11.0">Drum steht er mir zum Feinde</l>
+                                    <l xml:id="tg927.2.243.wd11.0">In dieser finstern Nacht.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.244.wd11.0"/>
+                                    <l xml:id="tg927.2.245.wd11.0">Er war mir recht ergeben,</l>
+                                    <l xml:id="tg927.2.246.wd11.0">Als wie der treuste Knecht,</l>
+                                    <l xml:id="tg927.2.247.wd11.0">Und war im ganzen Leben</l>
+                                    <l xml:id="tg927.2.248.wd11.0">Mir niemals ungerecht.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.249.wd11.0"/>
+                                    <l xml:id="tg927.2.250.wd11.0">Die Kindlein ließ ich töten,</l>
+                                    <l xml:id="tg927.2.251.wd11.0">Das kann er nie verzeihn,</l>
+                                    <l xml:id="tg927.2.252.wd11.0">Ich fürcht, in diesen Nöten</l>
+                                    <l xml:id="tg927.2.253.wd11.0">Treff ich ihn hier im Hain:</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.254.wd11.0"/>
+                                    <l xml:id="tg927.2.255.wd11.0">Das sagt mir mein Gewissen,</l>
+                                    <l xml:id="tg927.2.256.wd11.0">Mein Herze innerlich,</l>
+                                    <l xml:id="tg927.2.257.wd11.0">Die Kind hab ich zerrissen</l>
+                                    <l xml:id="tg927.2.258.wd11.0">Dafür zerreißt er mich.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.259.wd11.0"/>
+                                    <l xml:id="tg927.2.260.wd11.0">Der Eckart sprach: »Empfinden</l>
+                                    <l xml:id="tg927.2.261.wd11.0">Muß ich so schwere Last,</l>
+                                    <l xml:id="tg927.2.262.wd11.0">Weil du nicht rein von Sünden</l>
+                                    <l xml:id="tg927.2.263.wd11.0">Und schwer gefrevelt hast.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.264.wd11.0"/>
+                                    <l xml:id="tg927.2.265.wd11.0">Daß du den Mann wirst schauen,</l>
+                                    <l xml:id="tg927.2.266.wd11.0">Ist auch gewißlich wahr,</l>
+                                    <l xml:id="tg927.2.267.wd11.0">Doch magst du mir vertrauen,</l>
+                                    <l xml:id="tg927.2.268.wd11.0">So krümmt er dir kein Haar.«</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.269.wd11.0"/>
+                                 <p xml:id="tg927.2.270.wd11.0">So gingen sie in Gesprächen fort, als ihnen im Walde eine andre Mannsgestalt begegnete, es war Wolfram, der Knappe des Herzogs, der seinen Herrn schon seit lange gesucht hatte. Die dunkle Nacht lag noch über ihnen, und kein Sternlein blickte zwischen den schwarzen Wolken hervor. Der Herzog fühlte sich schwächer, und wünschte eine Herberge zu erreichen, in der er die Nacht schlafen möchte; dabei zitterte er, auf den Eckart zu treffen, der wie ein Gespenst vor seiner Seele stand. Er glaubte nicht den Morgen zu erleben, und schauderte von neuem zusammen, wenn sich der Wind wieder in den hohen Bäumen regte, wenn der Sturm von unten herauf aus den Bergschluften kam und über ihren Häuptern hinwegging. »Besteige, <pb n="41" xml:id="tg927.2.270.1.wd11.0"/>
+Wolfram«, rief der Herzog in seiner Angst, »diese hohe Tanne, und schaue umher, ob du kein Lichtlein, kein Haus, oder keine Hütte erspähst, zu der wir uns wenden mögen.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.271.wd11.0">Der Knappe kletterte mit Gefahr seines Lebens zum hohen Tannenbaum hinauf, den der Sturm von einer Seite zur andern warf, und je zuweilen fast bis zur Erde den Wipfel beugte, so daß der Knappe wie ein Eichkätzlein oben schwankte. Endlich hatte er den Gipfel erklommen und rief: »Im Tal da unten seh ich den Schein eines Lichtes, dorthin müssen wir uns wenden!« Sogleich stieg er ab und zeigte den beiden den Weg, und nach einiger Zeit sahen alle den erfreulichen Schein, worüber der Herzog anfing, sich wieder wohl zu gehaben. Eckart blieb immer stumm und in sich gekehrt, er sprach kein Wort und schaute seinen innern Gedanken zu. Als sie vor der Hütte standen, klopften sie an, und ein altes Mütterlein öffnete ihnen die Tür; sowie sie hineintraten, ließ der starke Eckart den Herzog von seinen Schultern nieder, der sich alsbald auf seine Knie warf und Gott in einem brünstigen Gebete für seine Rettung dankte. Eckart setzte sich in einen finstern Winkel nieder und traf dort den Greis schlafend, der ihm unlängst sein großes Unglück mit seinen Söhnen erzählt hatte, welche er aufzusuchen ging.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.272.wd11.0">Als der Herzog sein Gebet vollendet, sprach er: »Wunderbar ist mir in dieser Nacht zu Sinne geworden, und die Güte Gottes wie seine Allmacht haben sich meinem verstockten Herzen noch niemals so nahe gezeigt; auch daß ich bald sterbe, sagt mir mein Gemüt, und ich wünsche nichts so sehr, als daß Gott mir vorher meine vielen und schweren Sünden vergeben möge. Euch beide aber, die ihr mich hiehergeführt habt, will ich vor meinem Ende noch belohnen, soviel ich kann. Dir, meinem Knappen, schenk ich die beiden Schlösser, die hier auf den nächsten Bergen liegen; doch sollst du dich künftig, zum Gedächtnis dieser grauenvollen Nacht, den Tannenhäuser nennen. Und wer bist du, Mann«, fuhr er fort, »der sich dorten im Winkel gelagert hat? Komm hervor, damit ich auch dir für deine Mühe und Liebe lohnen möge.«</p>
+                                 <lb xml:id="tg927.2.273.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.274.wd11.0">Da stand der Eckart von der Erden</l>
+                                    <l xml:id="tg927.2.275.wd11.0">Und trat herfür ans helle Licht,</l>
+                                    <l xml:id="tg927.2.276.wd11.0">Er zeigt mit traurigen Gebärden</l>
+                                    <l xml:id="tg927.2.277.wd11.0">Sein hochbekümmert Angesicht.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.278.wd11.0"/>
+                                    <pb n="42" xml:id="tg927.2.279.wd11.0"/>
+                                    <l xml:id="tg927.2.280.wd11.0">Da fehlt dem Burgund Kraft und Mut,</l>
+                                    <l xml:id="tg927.2.281.wd11.0">Den Blick des Mannes auszuhalten,</l>
+                                    <l xml:id="tg927.2.282.wd11.0">Den Adern sein entweicht das Blut,</l>
+                                    <l xml:id="tg927.2.283.wd11.0">In Ohnmacht ist er festgehalten.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.284.wd11.0"/>
+                                    <l xml:id="tg927.2.285.wd11.0">Es stürzen ihm die matten Glieder</l>
+                                    <l xml:id="tg927.2.286.wd11.0">Von neuem auf den Boden nieder.</l>
+                                    <l xml:id="tg927.2.287.wd11.0">»Allmächtger Gott!« so schreit er laut,</l>
+                                    <l xml:id="tg927.2.288.wd11.0">»Du bist es, den mein Auge schaut?</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.289.wd11.0"/>
+                                    <l xml:id="tg927.2.290.wd11.0">Wohin soll ich vor dir entfliehn?</l>
+                                    <l xml:id="tg927.2.291.wd11.0">Mußt du mich aus dem Walde ziehn?</l>
+                                    <l xml:id="tg927.2.292.wd11.0">Dem ich die Kinder hab erschlagen,</l>
+                                    <l xml:id="tg927.2.293.wd11.0">Der muß mich in den Armen tragen?«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.294.wd11.0"/>
+                                    <l xml:id="tg927.2.295.wd11.0">So klagt Burgund und weint im Sprechen,</l>
+                                    <l xml:id="tg927.2.296.wd11.0">Und fühlt das Herz im Busen brechen,</l>
+                                    <l xml:id="tg927.2.297.wd11.0">Er sinkt dem Eckart an die Brust,</l>
+                                    <l xml:id="tg927.2.298.wd11.0">Ist sich sein selber nicht bewußt.-</l>
+                                    <l xml:id="tg927.2.299.wd11.0">Der Eckart leise zu ihm spricht:</l>
+                                    <l xml:id="tg927.2.300.wd11.0">»Der Schmach gedenk ich fürder nicht,</l>
+                                    <l xml:id="tg927.2.301.wd11.0">Damit die Welt es sehe frei,</l>
+                                    <l xml:id="tg927.2.302.wd11.0">Der Eckart war dir stets getreu.«</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.303.wd11.0"/>
+                                 <p xml:id="tg927.2.304.wd11.0">So verging die Nacht. Am andern Morgen kamen andre Diener, die den kranken Herzog fanden. Sie legten ihn auf Maultiere und führten ihn in sein Schloß zurück. Eckart durfte nicht von seiner Seite kommen, oft aber nahm er seine Hand und drückte sie sich gegen seine Brust, und sah ihn mit einem flehenden Blicke an. Eckart umarmte ihn dann, und sprach einige liebevolle Worte, mit denen sich der Fürst beruhigte. Er versammelte alle seine Räte um sich her, und sagte ihnen, daß er den Eckart, den getreuen Mann, zum Vormunde über seine Söhne setze, weil dieser sich als den Edelsten erwiesen. So starb er.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.305.wd11.0">Seitdem nahm sich Eckart der Regierung mit allem Fleiße an, und jedermann im Lande mußte seinen hohen männlichen Mut bewundern. Es währte nicht lange, so verbreitete sich in allen Gegenden das wunderbare Gerücht von dem Spielmanne, der aus dem Venusberge gekommen, das ganze Land durchziehe und mit seinen Tönen die Menschen entführe, welche verschwänden, ohne daß man eine Spur von ihnen wiederfinden <pb n="43" xml:id="tg927.2.305.1.wd11.0"/>
+könne. Viele glaubten dem Gerüchte, andre nicht, und Eckart gedachte des unglücklichen Greises wieder.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg927.2.306.wd11.0">»Ich habe euch zu meinen Söhnen angenommen«, sprach er zu den unmündigen Jünglingen, als er sich einst mit ihnen auf dem Berge vor dem Schlosse befand; »euer Glück ist jetzt meine Nachkommenschaft, ich will in eurer Freude nach meinem Tode fortleben.« Sie lagerten sich auf dem Abhange, von wo sie weit in das schöne Land hineinsehn konnten, und Eckart unterdrückte das Andenken an seine Kinder, denn sie schienen ihm von den Bergen herüberzuschreiten, indem er aus der Ferne einen lieblichen Klang vernahm.</p>
+                                 <lb xml:id="tg927.2.307.wd11.0"/>
+                                 <lg>
+                                    <l xml:id="tg927.2.308.wd11.0">»Kommt es nicht wie Träumen</l>
+                                    <l xml:id="tg927.2.309.wd11.0">Aus den grünen Räumen</l>
+                                    <l xml:id="tg927.2.310.wd11.0">Zu uns wallend nieder,</l>
+                                    <l xml:id="tg927.2.311.wd11.0">Wie Verstorbner Lieder?«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.312.wd11.0"/>
+                                    <l xml:id="tg927.2.313.wd11.0">Spricht er zu den jungen Herrn,</l>
+                                    <l xml:id="tg927.2.314.wd11.0">Vernimmt den Zauberklang von fern.</l>
+                                    <l xml:id="tg927.2.315.wd11.0">Wie sich die Tön herüberschwungen,</l>
+                                    <l xml:id="tg927.2.316.wd11.0">Erwachet in den frommen Jungen</l>
+                                    <l xml:id="tg927.2.317.wd11.0">Ein seltsam böser Geist,</l>
+                                    <l xml:id="tg927.2.318.wd11.0">Der sie nach unbekannter Ferne reißt.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.319.wd11.0"/>
+                                    <l xml:id="tg927.2.320.wd11.0">»Wir wollen in die Berge, in die Felder,</l>
+                                    <l xml:id="tg927.2.321.wd11.0">Uns rufen die Quellen, es locken die Wälder,</l>
+                                    <l xml:id="tg927.2.322.wd11.0">Gar heimliche Stimmen entgegensingen,</l>
+                                    <l xml:id="tg927.2.323.wd11.0">Ins irdische Paradies uns zu bringen!«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.324.wd11.0"/>
+                                    <l xml:id="tg927.2.325.wd11.0">Der Spielmann kommt in fremder Tracht</l>
+                                    <l xml:id="tg927.2.326.wd11.0">Den Söhnen Burgunds ins Gesicht,</l>
+                                    <l xml:id="tg927.2.327.wd11.0">Und höher schwillt der Töne Macht</l>
+                                    <l xml:id="tg927.2.328.wd11.0">Und heller glänzt der Sonne Licht,</l>
+                                    <l xml:id="tg927.2.329.wd11.0">Die Blumen scheinen trunken,</l>
+                                    <l xml:id="tg927.2.330.wd11.0">Ein Abendrot niedergesunken,</l>
+                                    <l xml:id="tg927.2.331.wd11.0">Und zwischen Korn und Gräsern schweifen</l>
+                                    <l xml:id="tg927.2.332.wd11.0">Sanft irrend blau und goldne Streifen.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.333.wd11.0"/>
+                                    <l xml:id="tg927.2.334.wd11.0">Wie ein Schatten ist hinweggehoben</l>
+                                    <l xml:id="tg927.2.335.wd11.0">Was sonst den Sinn zur Erden zieht,</l>
+                                    <l xml:id="tg927.2.336.wd11.0">Gestillt ist alles irdsche Toben,</l>
+                                    <pb n="44" xml:id="tg927.2.337.wd11.0"/>
+                                    <l xml:id="tg927.2.338.wd11.0">Die Welt zu <hi rend="italic" xml:id="tg927.2.338.1.wd11.0">einer</hi> Blum erblüht,</l>
+                                    <l xml:id="tg927.2.339.wd11.0">Die Felsen schwanken lichterloh,</l>
+                                    <l xml:id="tg927.2.340.wd11.0">Die Triften jauchzen und sind froh,</l>
+                                    <l xml:id="tg927.2.341.wd11.0">Es wirrt und irrt alles in die Klänge hinein</l>
+                                    <l xml:id="tg927.2.342.wd11.0">Und will in der Freude heimisch sein,</l>
+                                    <l xml:id="tg927.2.343.wd11.0">Des Menschen Seele reißen die Funken,</l>
+                                    <l xml:id="tg927.2.344.wd11.0">Sie ist im holden Wahnsinn ganz versunken.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.345.wd11.0"/>
+
+                                    <l xml:id="tg927.2.346.wd11.0">Es wurde Eckart rege</l>
+                                    <l xml:id="tg927.2.347.wd11.0">Und wundert sich dabei,</l>
+                                    <l xml:id="tg927.2.348.wd11.0">Er hört der Töne Schläge</l>
+                                    <l xml:id="tg927.2.349.wd11.0">Und fragt sich, was es sei.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.350.wd11.0"/>
+                                    <l xml:id="tg927.2.351.wd11.0">Ihm dünkt die Welt erneuet,</l>
+                                    <l xml:id="tg927.2.352.wd11.0">In andern Farben blühn,</l>
+                                    <l xml:id="tg927.2.353.wd11.0">Er weiß nicht, was ihn freuet,</l>
+                                    <l xml:id="tg927.2.354.wd11.0">Fühlt sich in Wonne glühn.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.355.wd11.0"/>
+                                    <l xml:id="tg927.2.356.wd11.0">»Ha! bringen nicht die Töne«,</l>
+                                    <l xml:id="tg927.2.357.wd11.0">So fragt er sich entzückt,</l>
+                                    <l xml:id="tg927.2.358.wd11.0">»Mir Weib und liebe Söhne,</l>
+                                    <l xml:id="tg927.2.359.wd11.0">Und was mich sonst beglückt?«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.360.wd11.0"/>
+                                    <l xml:id="tg927.2.361.wd11.0">Doch faßt ein heimlich Grauen</l>
+                                    <l xml:id="tg927.2.362.wd11.0">Den Helden plötzlich an,</l>
+                                    <l xml:id="tg927.2.363.wd11.0">Er darf nur um sich schauen</l>
+                                    <l xml:id="tg927.2.364.wd11.0">Und fühlt sich bald ein Mann.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.365.wd11.0"/>
+                                    <l xml:id="tg927.2.366.wd11.0">Da sieht er schon das Wüten</l>
+                                    <l xml:id="tg927.2.367.wd11.0">Der ihm vertrauten Kind,</l>
+                                    <l xml:id="tg927.2.368.wd11.0">Die sich der Hölle bieten</l>
+                                    <l xml:id="tg927.2.369.wd11.0">Und unbezwinglich sind.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.370.wd11.0"/>
+                                    <l xml:id="tg927.2.371.wd11.0">Sie werden fortgezogen</l>
+                                    <l xml:id="tg927.2.372.wd11.0">Und kennen ihn nicht mehr,</l>
+                                    <l xml:id="tg927.2.373.wd11.0">Sie toben wie die Wogen</l>
+                                    <l xml:id="tg927.2.374.wd11.0">Im wildempörten Meer.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.375.wd11.0"/>
+                                    <l xml:id="tg927.2.376.wd11.0">Was soll er da beginnen?</l>
+                                    <l xml:id="tg927.2.377.wd11.0">Ihn ruft sein Wort und Pflicht,</l>
+                                    <l xml:id="tg927.2.378.wd11.0">Ihm wanken selbst die Sinnen,</l>
+                                    <l xml:id="tg927.2.379.wd11.0">Er kennt sich selber nicht.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.380.wd11.0"/>
+                                    <pb n="45" xml:id="tg927.2.381.wd11.0"/>
+                                    <l xml:id="tg927.2.382.wd11.0">Da kömmt die Todesstunde</l>
+                                    <l xml:id="tg927.2.383.wd11.0">Von seinem Freund zurück,</l>
+                                    <l xml:id="tg927.2.384.wd11.0">Er höret den Burgunde</l>
+                                    <l xml:id="tg927.2.385.wd11.0">Und sieht den letzten Blick.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.386.wd11.0"/>
+                                    <l xml:id="tg927.2.387.wd11.0">So schirmt er sein Gemüte</l>
+                                    <l xml:id="tg927.2.388.wd11.0">Und steht gewappnet da,</l>
+                                    <l xml:id="tg927.2.389.wd11.0">Indem kommt im Gemüte</l>
+                                    <l xml:id="tg927.2.390.wd11.0">Der Spielmann selbst ihm nah.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.391.wd11.0"/>
+                                    <l xml:id="tg927.2.392.wd11.0">Er will den Degen schwingen</l>
+                                    <l xml:id="tg927.2.393.wd11.0">Und schlagen jenes Haupt:</l>
+                                    <l xml:id="tg927.2.394.wd11.0">Er hört die Pfeife klingen,</l>
+                                    <l xml:id="tg927.2.395.wd11.0">Die Kraft ist ihm geraubt.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.396.wd11.0"/>
+                                    <l xml:id="tg927.2.397.wd11.0">Es stürzen aus den Bergen</l>
+                                    <l xml:id="tg927.2.398.wd11.0">Gestalten wunderlich,</l>
+                                    <l xml:id="tg927.2.399.wd11.0">Ein wüstes Heer von Zwergen,</l>
+                                    <l xml:id="tg927.2.400.wd11.0">Sie nahen grauerlich.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.401.wd11.0"/>
+                                    <l xml:id="tg927.2.402.wd11.0">Die Söhne sind gefangen</l>
+                                    <l xml:id="tg927.2.403.wd11.0">Und toben in dem Schwarm,</l>
+                                    <l xml:id="tg927.2.404.wd11.0">Umsonst ist sein Verlangen,</l>
+                                    <l xml:id="tg927.2.405.wd11.0">Gelähmt sein tapfrer Arm.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.406.wd11.0"/>
+                                    <l xml:id="tg927.2.407.wd11.0">Es stürmt der Zug an Vesten,</l>
+                                    <l xml:id="tg927.2.408.wd11.0">An Schlössern wild vorbei,</l>
+                                    <l xml:id="tg927.2.409.wd11.0">Sie ziehn von Ost nach Westen</l>
+                                    <l xml:id="tg927.2.410.wd11.0">Mit jauchzendem Geschrei.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.411.wd11.0"/>
+                                    <l xml:id="tg927.2.412.wd11.0">Eckart ist unter ihnen,</l>
+                                    <l xml:id="tg927.2.413.wd11.0">Es reißt die Macht ihn hin,</l>
+                                    <l xml:id="tg927.2.414.wd11.0">Er muß der Hölle dienen</l>
+                                    <l xml:id="tg927.2.415.wd11.0">Bezwungen ist sein Sinn.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.416.wd11.0"/>
+                                    <l xml:id="tg927.2.417.wd11.0">Da nahen sie dem Berge,</l>
+                                    <l xml:id="tg927.2.418.wd11.0">Aus dem Musik erschallt,</l>
+                                    <l xml:id="tg927.2.419.wd11.0">Und alsogleich die Zwerge</l>
+                                    <l xml:id="tg927.2.420.wd11.0">Stillstehn und machen halt.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.421.wd11.0"/>
+                                    <pb n="46" xml:id="tg927.2.422.wd11.0"/>
+                                    <l xml:id="tg927.2.423.wd11.0">Der Fels springt voneinander,</l>
+                                    <l xml:id="tg927.2.424.wd11.0">Ein bunt Gewimmel drein,</l>
+                                    <l xml:id="tg927.2.425.wd11.0">Man sieht Gestalten wandern</l>
+                                    <l xml:id="tg927.2.426.wd11.0">Im wunderlichen Schein.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.427.wd11.0"/>
+                                    <l xml:id="tg927.2.428.wd11.0">Da faßt er seinen Degen</l>
+                                    <l xml:id="tg927.2.429.wd11.0">Und sprach: »Ich bleibe treu!«</l>
+                                    <l xml:id="tg927.2.430.wd11.0">Und haut mit Kraft verwegen</l>
+                                    <l xml:id="tg927.2.431.wd11.0">In alle Scharen frei.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.432.wd11.0"/>
+                                    <l xml:id="tg927.2.433.wd11.0">Die Kinder sind errungen,</l>
+                                    <l xml:id="tg927.2.434.wd11.0">Sie fliehen durch das Tal,</l>
+                                    <l xml:id="tg927.2.435.wd11.0">Der Feind noch unbezwungen</l>
+                                    <l xml:id="tg927.2.436.wd11.0">Mehrt sich zu Eckarts Qual.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.437.wd11.0"/>
+                                    <l xml:id="tg927.2.438.wd11.0">Die Zwerge sinken nieder,</l>
+                                    <l xml:id="tg927.2.439.wd11.0">Sie fassen neuen Mut,</l>
+                                    <l xml:id="tg927.2.440.wd11.0">Es kommen andre wieder,</l>
+                                    <l xml:id="tg927.2.441.wd11.0">Und jeder kämpft mit Wut.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.442.wd11.0"/>
+                                    <l xml:id="tg927.2.443.wd11.0">Da sieht der Held schon ferne</l>
+                                    <l xml:id="tg927.2.444.wd11.0">Die Kind in Sicherheit,</l>
+                                    <l xml:id="tg927.2.445.wd11.0">Sprach: »Nun verlier ich gerne</l>
+                                    <l xml:id="tg927.2.446.wd11.0">Mein Leben hier im Streit.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.447.wd11.0"/>
+                                    <l xml:id="tg927.2.448.wd11.0">Sein tapfres Schwert tut blinken</l>
+                                    <l xml:id="tg927.2.449.wd11.0">Im hellen Sonnenstrahl,</l>
+                                    <l xml:id="tg927.2.450.wd11.0">Die Zwerge niedersinken</l>
+                                    <l xml:id="tg927.2.451.wd11.0">Zu Haufen dort im Tal.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.452.wd11.0"/>
+                                    <l xml:id="tg927.2.453.wd11.0">Die Kinder sind entschwunden</l>
+                                    <l xml:id="tg927.2.454.wd11.0">Im allerfernsten Feld,</l>
+                                    <l xml:id="tg927.2.455.wd11.0">Da fühlt er seine Wunden,</l>
+                                    <l xml:id="tg927.2.456.wd11.0">Da stirbt der tapfre Held.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.457.wd11.0"/>
+                                    <l xml:id="tg927.2.458.wd11.0">So fand er seine Stunde</l>
+                                    <l xml:id="tg927.2.459.wd11.0">Wild kämpfend wie der Leu,</l>
+                                    <l xml:id="tg927.2.460.wd11.0">Und blieb noch dem Burgunde</l>
+                                    <l xml:id="tg927.2.461.wd11.0">Im Tode selber treu.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.462.wd11.0"/>
+                                    <pb n="47" xml:id="tg927.2.463.wd11.0"/>
+                                    <l xml:id="tg927.2.464.wd11.0">Als nun der Held erschlagen</l>
+                                    <l xml:id="tg927.2.465.wd11.0">Regiert der ältste Sohn,</l>
+                                    <l xml:id="tg927.2.466.wd11.0">Dankbar hört man ihn sagen:</l>
+                                    <l xml:id="tg927.2.467.wd11.0">»Eckart hat meinen Thron</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.468.wd11.0"/>
+                                    <l xml:id="tg927.2.469.wd11.0">Erkämpft mit vielen Wunden</l>
+                                    <l xml:id="tg927.2.470.wd11.0">Und seinem besten Blut,</l>
+                                    <l xml:id="tg927.2.471.wd11.0">Und alle Lebensstunden</l>
+                                    <l xml:id="tg927.2.472.wd11.0">Verdank ich seinem Mut.«</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.473.wd11.0"/>
+                                    <l xml:id="tg927.2.474.wd11.0">Bald hört man Wundersagen</l>
+                                    <l xml:id="tg927.2.475.wd11.0">Im ganzen Land umgehn,</l>
+                                    <l xml:id="tg927.2.476.wd11.0">Daß, wer es wolle wagen</l>
+                                    <l xml:id="tg927.2.477.wd11.0">Der Venus' Berg zu sehn,</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.478.wd11.0"/>
+                                    <l xml:id="tg927.2.479.wd11.0">Der werde dorten schauen</l>
+                                    <l xml:id="tg927.2.480.wd11.0">Des treuen Eckart Geist,</l>
+                                    <l xml:id="tg927.2.481.wd11.0">Der jeden mit Vertrauen</l>
+                                    <l xml:id="tg927.2.482.wd11.0">Zurück vom Felsen weist.</l>
+                                 </lg>
+                                 <lg>
+                                    <lb xml:id="tg927.2.483.wd11.0"/>
+                                    <l xml:id="tg927.2.484.wd11.0">Wo er nach seinem Sterben</l>
+                                    <l xml:id="tg927.2.485.wd11.0">Noch Schutz und Wache hält.</l>
+                                    <l xml:id="tg927.2.486.wd11.0">Es preisen alle Erben</l>
+                                    <l xml:id="tg927.2.487.wd11.0">Eckart den treuen Held.</l>
+                                 </lg>
+                                 <lb xml:id="tg927.2.488.wd11.0"/>
+                              </div>
+                           </div>
+                        </div>
+                        <div subtype="work:no" xml:id="tg928.wd11.0" n="/Literatur/M/Tieck, Ludwig/Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der getreue Eckart und Der Tannenhäuser/Zweiter Abschnitt">
+                           <div>
+                              <desc>
+                                 <title>Zweiter Abschnitt</title>
+                              </desc>
+                           </div>
+                           
+                           <div type="text" xml:id="tg928.2.wd11.0">
+                              <div type="h4">
+                                 <head type="h4" xml:id="tg928.2.1.wd11.0">Zweiter Abschnitt</head>
+
+                                 <p xml:id="tg928.2.2.wd11.0">Es waren mehr als vier Jahrhunderte seit dem Tode des getreuen Eckart verflossen, als am Hofe ein edler Tannenhäuser als kaiserlicher Rat in großem Ansehen stand. Der Sohn dieses Ritters übertraf an Schönheit alle übrigen Edlen des Landes, weswegen er auch von jedermann geliebt und hochgeschätzt wurde. Plötzlich aber verschwand er, nachdem sich einige wunderbare Dinge mit ihm zugetragen hatten, und kein Mensch wußte zu sagen, wohin er gekommen sei. Seit der Zeit des getreuen Eckart gab es vom Venusberge eine Sage im Lande, und manche sprachen, daß er dorthin gewandert und also auf ewig verloren sei.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.3.wd11.0">Einer von seinen Freunden, Friedrich von Wolfsburg, härmte sich von allen am meisten um den jungen Tannenhäuser.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.4.wd11.0">
+                                    <pb n="48" xml:id="tg928.2.4.1.wd11.0"/>
+Sie waren miteinander erwachsen und ihre gegenseitige Freundschaft schien jedem ein Bedürfnis seines Lebens geworden zu sein. Tannenhäusers alter Vater war gestorben, Friedrich vermählte sich nach einigen Jahren; schon umgab ihn ein Kreis von fröhlichen Kindern, und immer noch hatte er keine Nachricht von seinem Jugendfreunde vernommen, so daß er ihn auch für gestorben halten mußte.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.5.wd11.0">Er stand eines Abends unter dem Tor seiner Burg, als er aus der Ferne einen Pilgrim daherkommen sah, der sich seinem Schlosse näherte. Der fremde Mann war in seltsame Tracht gekleidet, und sein Gang wie seine Gebärden erschienen dem Ritter wunderlich. Als jener näher gekommen, glaubte er ihn zu kennen, und endlich war er mit sich einig, daß der Fremde kein anderer als sein ehemaliger Freund der Tannenhäuser sein könne. Er erstaunte und ein heimlicher Schauer bemächtigte sich seiner, als er die durchaus veränderten Züge deutlich gewahr wurde.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.6.wd11.0">Die beiden Freunde umarmten sich, und erschraken dann einer vor dem andern, sie staunten sich an, wie fremde Wesen. Der Fragen, der verworrenen Antworten gab es viele; Friedrich erbebte oft vor dem wilden Blicke seines Freundes, in dem ein unverständliches Feuer brannte. Nachdem sich der Tannenhäuser einige Tage erholt hatte, erfuhr Friedrich, daß er auf einer Wallfahrt nach Rom begriffen sei.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.7.wd11.0">Die beiden Freunde erneuerten bald ihre ehemaligen Gespräche und erzählten sich die Geschichte ihrer Jugend, doch verschwieg der Tannenhäuser noch immer sorgfältig, wo er seitdem gewesen. Friedrich aber drang in ihn, nachdem sie sich in ihre sonstige Vertraulichkeit wieder hineingefunden hatten, jener suchte sich lange den freundschaftlichen Bitten zu entziehen, doch endlich rief er aus: »Nun, so mag dein Wille erfüllt werden, du sollst alles erfahren, mache mir aber nachher keine Vorwürfe, wenn dich die Geschichte mit Bekümmernis und Grauen erfüllt.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.8.wd11.0">Sie gingen ins Freie und wandelten durch einen grünen Lustwald, wo sie sich niedersetzten, worauf der Tannenhäuser sein Haupt im grünen Grase verbarg und unter lautem Schluchzen seinem Freunde abgewandt die rechte Hand reichte, die dieser zärtlich drückte. Der trübselige Pilgrim richtete sich wieder auf, und begann seine Erzählung auf folgende Weise:</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.9.wd11.0">»Glaube mir, mein Teurer, daß manchem von uns ein böser <pb n="49" xml:id="tg928.2.9.1.wd11.0"/>
+Geist von seiner Geburt an mitgegeben wird, der ihn durch das Leben dahinängstigt und ihn nicht ruhen läßt, bis er an das Ziel seiner schwarzen Bestimmung gelangt ist. So geschahe mir, und mein ganzer Lebenslauf ist nur ein dauerndes Geburtswehe, und mein Erwachen wird in der Hölle sein. Darum habe ich nun schon so viele mühselige Schritte getan, und so manche stehn mir noch auf meiner Pilgerschaft bevor, ob ich vielleicht beim Heiligen Vater zu Rom Vergebung erlangen möchte: vor ihm will ich die schwere Ladung meiner Sünden ablegen, oder im Druck erliegen und verzweifelnd sterben.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.10.wd11.0">Friedrich wollte ihn trösten, doch schien der Tannenhäuser auf seine Reden nicht sonderlich achtzugeben, sondern fuhr nach einer kleinen Weile mit folgenden Worten fort: »Man hat ein altes Märchen, daß vor vielen Jahrhunderten ein Ritter mit dem Namen des getreuen Eckart gelebt habe; man erzählt, wie damals aus einem seltsamen Berge ein Spielmann gekommen sei, dessen wunderbarliche Töne so tiefe Sehnsucht, so wilde Wünsche in den Herzen aller Hörenden auferweckt haben, daß sie unwiderstreblich den Klängen nachgerissen worden, um sich in jenem Gebirge zu verlieren. Die Hölle hat damals ihre Pforten den armen Menschen weit aufgetan, und sie mit lieblicher Musik zu sich hereingespielt. Ich hörte als Knabe diese Erzählung oft und wurde nicht sonderlich davon gerührt, doch währte es nicht lange, so erinnerte mich die ganze Natur, jedweder Klang, jedwede Blume an die Sage von diesen herzergreifenden Tönen. Ich kann dir nicht ausdrücken, welche Wehmut, welche unaussprechliche Sehnsucht mich plötzlich ergriff, und wie in Banden hielt und fortführen wollte, wenn ich dem Zug der Wolken nachsahe, die lichte herrliche Bläue erblickte, die zwischen ihnen hervordrang, welche Erinnerungen Wies und Wald in meinem tiefsten Herzen erwecken wollten. Oft ergriff mich die Lieblichkeit und Fülle der herrlichen Natur, daß ich die Arme ausstreckte und wie mit Flügeln hineinstreben wollte, um mich, wie der Geist der Natur, über Berg und Tal auszugießen, und mich in Gras und Büschen allseitig zu regen und die Fülle des Segens einzuatmen. Hatte mich am Tage die freie Landschaft entzückt, so ängstigten mich in der Nacht dunkle Traumbilder und stellten sich grauenhaft vor mich hin, als wenn sie mir den Weg zu allem Leben versperren wollten. Vor allen ließ ein Traum einen unauslöschlichen Eindruck in meinem Gemüte zurück, ob ich gleich nicht die Bilder <pb n="50" xml:id="tg928.2.10.1.wd11.0"/>
+deutlich wieder in meine Phantasie zurückrufen konnte. Mir dünkte, als wäre ein großes Gewühl in den Gassen, ich vernahm undeutliche Gespräche durcheinander, darauf ging ich, es war dunkle Nacht, in das Haus meiner Eltern, und nur mein Vater war zugegen und krank. Am nächsten Morgen fiel ich meinen Eltern um den Hals, umarmte sie inbrünstig und drückte sie an meine Brust, als wenn uns eine feindliche Gewalt voneinanderreißen wollte. ›Sollt ich dich verlieren?‹ sprach ich zum teuren Vater, ›o wie unglücklich und einsam wäre ich ohne dich in dieser Welt!‹ Sie trösteten mich, aber es gelang ihnen nicht, das dunkle Bild aus meinem Gedächtnisse zu entfernen.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.11.wd11.0">Ich ward älter, indem ich mich stets von andern Knaben meines Alters entfernt hielt. Oft streifte ich einsam durch die Felder, und so geschah es an einem Morgen, daß ich meinen Weg verlor, und in einem dunkeln Walde, um Hülfe rufend, herumirrte. Nachdem ich so lange Zeit vergeblich nach einem Wege gesucht hatte, stand ich endlich plötzlich vor einem eisernen Gatterwerk, welches einen Garten umschloß. Durch dasselbe sah ich schöne dunkle Gänge vor mir, Fruchtbäume und Blumen, voran standen Rosengebüsche, die im Schein der Sonne glänzten. Ein unnennbares Sehnen zu den Rosen ergriff mich, ich konnte mich nicht zurückhalten, ich drängte mich mit Gewalt durch die eisernen Stäbe, und war nun im Garten. Alsbald fiel ich nieder, umfaßte mit meinen Armen die Gebüsche, küßte die Rosen auf ihren roten Mund, und ergoß mich in Tränen. Als ich mich eine Zeit in dieser Entzückung verloren hatte, kamen zwei Mädchen durch die Baumgänge, die eine älter, die andre von meinen Jahren. Ich erwachte aus meiner Betäubung, um mich einer höheren Trunkenheit hinzugeben. Mein Auge fiel auf die Jüngere, und mir war in diesem Augenblicke, als würde ich von allen meinen unbekannten Schmerzen geheilt. Man nahm mich im Hause auf, die Eltern der beiden Kinder erkundigten sich nach meinem Namen, und schickten meinem Vater Botschaft, der mich gegen Abend selber wieder abholte.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.12.wd11.0">Von diesem Tage hatte der ungewisse Lauf meines Lebens eine bestimmte Richtung gewonnen, meine Gedanken eilten immer wieder nach dem Schlosse und dem Mädchen zurück denn hier schien mir die Heimat aller meiner Wünsche. Ich vergaß meiner gewohnten Freuden, ich vernachlässigte meine Gespielen, und besuchte oft den Garten, das Schloß und das<pb n="51" xml:id="tg928.2.12.1.wd11.0"/>
+ Mädchen. Bald war ich dort wie ein Kind vom Hause, so daß man sich nicht mehr verwunderte, wenn ich zugegen war, und Emma ward mir mit jedem Tage lieber. So vergingen mir die Stunden, und eine Zärtlichkeit hatte mein Herz gefangengenommen, ohne daß ich es selber wußte. Meine ganze Bestimmung schien mir nun erfüllt, ich hatte keine andere Wünsche, als immer wiederzukommen, und wenn ich fortging, dieselbe Aussicht auf den künftigen Tag zu haben.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.13.wd11.0">Um die Zeit ward ein junger Ritter in der Familie bekannt, der auch zugleich ein Freund meiner Eltern war, und sich bald ebenso, wie ich, an Emma schloß. Ich haßte ihn von diesem Augenblicke wie meinen Todfeind. Unbeschreiblich aber waren meine Gefühle, als ich wahrzunehmen glaubte, daß Emma seine Gesellschaft der meinigen vorziehe. Von dieser Stunde an war es, als wenn die Musik, die mich bis dahin begleitet hatte, in meinem Busen unterginge Ich dachte nur Tod und Haß, wilde Gedanken erwachten in meiner Brust, wenn Emma nun auf der Laute die bekannten Gesänge sang. Auch verbarg ich meinen Widerwillen nicht, und bezeigte mich gegen meine Eltern, die mir Vorwürfe machten, wild und widerspenstig.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.14.wd11.0">Nun irrte ich in den Wäldern und zwischen Felsen umher, gegen mich selber wütend: den Tod meines Gegners hatte ich beschlossen. Der junge Ritter hielt nach einigen Monden bei den Eltern um meine Geliebte an, sie wurde ihm zugesagt. Was mich sonst wunderbar in der ganzen vollen Natur angezogen und gereizt hatte, hatte sich mir in Emmas Bilde vereiniget; ich wußte, kannte und wollte kein anderes Glück als sie, ja ich hatte mir willkürlich vorgesetzt, daß ihren Verlust und mein Verderben ein und derselbe Tag herbeiführen solle.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.15.wd11.0">Meine Eltern grämten sich über meine Verwilderung, meine Mutter war krank geworden, aber es rührte mich nicht, ich kümmerte mich wenig um ihren Zustand, und sah sie nur selten. Der Hochzeitstag meines Feindes rückte heran, und mit ihm wuchs meine Angst, die mich durch die Wälder und über die Berge trieb. Ich verwünschte Emma und mich mit den gräßlichsten Flüchen. Um die Zeit hatte ich keinen Freund kein Mensch wollte sich meiner annehmen, weil mich alle verloren gaben.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.16.wd11.0">Die schreckliche Nacht vor dem Vermählungstage brach heran. Ich hatte mich unter Klippen verirrt und hörte unter mir die Waldströme brausen, oft erschrak ich vor mir selber. Als es <pb n="52" xml:id="tg928.2.16.1.wd11.0"/>
+Morgen war, sah ich meinen Feind von den Bergen herniedersteigen, ich fiel ihn mit beschimpfenden Reden an, er verteidigte sich, wir griffen zu den Schwertern, und bald sank er unter meinen wütenden Hieben nieder.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.17.wd11.0">Ich eilte fort, ich sah mich nicht nach ihm um, aber seine Begleiter trugen den Leichnam fort. Nachts schwärmte ich um die Wohnung, die meine Emma einschloß, und nach wenigen Tagen vernahm ich im benachbarten Kloster Totengeläute und den Grabgesang der Nonnen. Ich fragte: man sagte mir, daß Fräulein Emma aus Gram über den Tod ihres Bräutigams gestorben sei.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.18.wd11.0">Ich wußte nicht zu bleiben, ich zweifelte, ob ich lebe, ob alles Wahrheit sei. Ich eilte zurück zu meinen Eltern, und kam in der folgenden Nacht spät in die Stadt, in der sie wohnten. Alles war in Unruhe, Pferde und Rüstwagen erfüllten die Straßen, Lanzenknechte tummelten sich durcheinander und sprachen in verwirrten Reden: es war gerade an dem, daß der Kaiser einen Feldzug gegen seine Feinde unternehmen wollte. Ein einsames Licht brannte in der väterlichen Wohnung als ich hereintrat; eine drückende Beklemmung lag auf meiner Brust. Auf mein Anklopfen kommt mir mein Vater selbst mit leisem bedächtigen Schritte entgegen; sogleich erinnere ich mich des alten Traumes aus meinen Kinderjahren, und fühle mit innigster Bewegung, daß es dasselbe sei, was ich nun erlebe. Ich bin bestürzt, ich frage: ›Warum, Vater, seid Ihr so spät noch auf?‹ Er führt mich hinein und spricht: ›Ich muß wohl wachen, denn deine Mutter ist ja nun auch tot.‹</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.19.wd11.0">Die Worte fielen wie Blitze in meine Seele. Er setzte sich bedächtig nieder, ich mich an seine Seite, die Leiche lag auf einem Bette und war mit Tüchern seltsam zugehängt. Mein Herz wollte zerspringen. ›Ich halte Wache‹, sprach der Alte, ›denn meine Gattin sitzt noch immer neben mir.‹ Meine Sinne vergingen, ich heftete meine Augen in einen Winkel, und nach kurzer Weile regte es sich wie ein Dunst, es wallte und wogte, und die bekannte Bildung meiner Mutter zog sich sichtbarlich zusammen, die nach mir mit ernsten Mienen schaute. Ich wollte fort, ich konnte nicht, denn die mütterliche Gestalt winkte und mein Vater hielt mich fest in den Armen, welcher mir leise zuflüsterte: ›Sie ist aus Gram um dich gestorben.‹ Ich umfaßte ihn mit aller kindlichen Brünstigkeit, ich vergoß brennende Tränen an seiner Brust. Er küßte mich, und mir schauderte, als <pb n="53" xml:id="tg928.2.19.1.wd11.0"/>
+seine Lippen kalt wie die Lippen eines Toten mich berührten. ›Wie ist dir, Vater?‹ rief ich mit Entsetzen aus. Er zuckte schmerzhaft in sich zusammen und antwortete nicht. In wenigen Augenblicken fühlte ich ihn kälter werden, ich suchte nach seinem Herzen, es stand still, und im wehmütigen Wahnsinn hielt ich die Leiche in meiner Umarmung fest eingeklammert.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.20.wd11.0">Wie ein Schein, gleich der ersten Morgenröte, flog es durch das dunkle Gemach; da saß der Geist meines Vaters neben dem Bilde meiner Mutter, und beide sahen nach mir mitleidig hin, wie ich die teure Leiche festhielt. Seitdem war es um mein Bewußtsein geschehn, wahnsinnig und kraftlos fanden mich die Diener am Morgen in der Totenkammer.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.21.wd11.0">Bis hieher war der Tannenhäuser mit seiner Erzählung gekommen, indem ihm sein Freund Friedrich mit dem größten Erstaunen zuhörte, als er plötzlich abbrach und mit dem Ausdruck des größten Schmerzes innehielt. Friedrich war verlegen und nachdenkend, die beiden Freunde gingen in die Burg zurück, doch blieben sie in einem Zimmer allein.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.22.wd11.0">Nachdem der Tannenhäuser eine Weile geschwiegen hatte, fing er wieder an: »Immer noch erschüttert mich das Andenken dieser Stunden tief, und ich begreife nicht, wie ich sie habe überleben können. Nunmehr schien mir die Erde und das Leben völlig ausgestorben und verwüstet, ich schleppte mich ohne Gedanken und Wunsch von einem Tage zum andern hinüber. Dann geriet ich in eine Gesellschaft von wilden jungen Leuten, und in Trunk und Wollust suchte ich den pochenden bösen Geist in mir zu besänftigen. Die alte brennende Ungeduld erwachte in meiner Brust von neuem, und ich konnte mich und meine Wünsche selber nicht verstehn. Ein Wüstling, Rudolf genannt, war mein Vertrauter geworden, der aber immer meine Klagen wie meine Sehnsucht verlachte. So mochte ein Jahr verflossen sein, als meine Angst bis zur Verzweiflung stieg; es drängte mich weiter, weiter hinein in eine unbekannte Ferne, ich hätte mich von den hohen Bergen hinab in den Glanz der Wiesenfarben, in das kühle Gebrause der Ströme stürzen mögen, um den glühenden Durst der Seele, die Unersättlichkeit zu löschen; ich sehnte mich nach der Vernichtung und wieder wie goldne Morgenwolken schwebten Hoffnung und Lebenslust vor mir hin und lockten mich nach. Da kam ich auf den Gedanken, daß die Hölle nach mir lüstern sei, und mir so Schmerzen wie Freuden entgegensende, um mich zu verderben, <pb n="54" xml:id="tg928.2.22.1.wd11.0"/>
+daß ein tückischer Geist alle meine Seelenkräfte nach der dunkeln Behausung richte und mich hinunterzügle. Da gab ich mich gefangen, um der Qualen, der wechselnden Entzückungen los zu werden. In der dunkelsten Nacht bestieg ich einen hohen Berg und rief mit allen Herzenskräften den Feind Gottes und der Menschen zu mir, so daß ich fühlte, er würde mir gehorchen müssen. Meine Worte zogen ihn herbei, er stand plötzlich neben mir und ich empfand kein Grauen. Da ging im Gespräch mit ihm der Glaube an jenen wunderbaren Berg von neuem in mir auf, und er lehrte mich ein Lied, das mich von selbst auf die rechte Straße dahin führen würde. Er verschwand, und ich war zum erstenmal, seit ich lebte, mit mir allein, denn nun verstand ich meine abirrenden Gedanken, die aus dem Mittelpunkte herausstrebten, um eine neue Welt zu finden. Ich machte mich auf den Weg, und das Lied, das ich mit lauter Stimme sang, führte mich über wunderbare Einöden fort, und alles übrige in mir und außer mir hatte ich vergessen; es trug mich wie auf großen Flügeln der Sehnsucht nach meiner Heimat, ich wollte dem Schatten entfliehen, der uns auch aus dem Glanze noch dräut, den wilden Tönen, die noch in der zartesten Musik auf uns schelten. So kam ich in einer Nacht, als der Mond hinter dunkeln Wolken matt hervorschien, vor dem Berge an. Ich setzte mein Lied fort, und eine Riesengestalt stand da und winkte mich mit ihrem Stabe zurück. Ich ging näher. ›Ich bin der getreue Eckart‹, rief die übermenschliche Bildung, ›ich bin von Gottes Güte hieher zum Wächter gesetzt, um des Menschen bösen Fürwitz zurückzuhalten.‹- Ich drang hindurch.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.23.wd11.0">Wie in einem unterirdischen Bergwerke war nun mein Weg. Der Steg war so schmal, daß ich mich hindurchdrängen mußte, ich vernahm den Klang der verborgenen wandernden Gewässer, ich hörte die Geister, die die Erze und Gold und Silber bildeten, um den Menschengeist zu locken, ich fand die tiefen Klänge und Töne hier einzeln und verborgen, aus denen die irdische Musik entsteht; je tiefer ich ging, je mehr fiel es wie ein Schleier vor meinem Angesichte hinweg.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.24.wd11.0">Ich ruhte aus und sah andre Menschengestalten heranwanken, mein Freund Rudolf war unter ihnen; ich begriff gar nicht, wie sie mir vorbeikommen würden, da der Weg so sehr enge war, aber sie gingen mitten durch die Steine hindurch, ohne daß sie mich gewahr wurden.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.25.wd11.0">
+                                    <pb n="55" xml:id="tg928.2.25.1.wd11.0"/>
+Alsbald vernahm ich Musik, aber eine ganz andre, als bis dahin zu meinem Gehör gedrungen war, meine Geister in mir arbeiteten den Tönen entgegen; ich kam ins Freie, und wunderhelle Farben glänzten mich von allen Seiten an. Das war es, was ich immer gewünscht hatte. Dicht am Herzen fühlte ich die Gegenwart der gesuchten, endlich gefundenen Herrlichkeit, und in mich spielten die Entzückungen mit allen ihren Kräften hinein. So kam mir das Gewimmel der frohen heidnischen Götter entgegen, Frau Venus an ihrer Spitze, alle begrüßten mich; sie sind dorthin gebannt von der Gewalt des Allmächtigen, und ihr Dienst ist von der Erde vertilgt; nun wirken sie Voll dort in ihrer Heimlichkeit.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.26.wd11.0">Alle Freuden, die die Erde beut, genoß und schmeckte ich hier in ihrer vollsten Blüte, unersättlich war mein Busen und unendlich der Genuß. Die berühmten Schönheiten der alten Welt waren zugegen, was mein Gedanke wünschte, war in meinem Besitz, eine Trunkenheit folgte der andern, mit jedem Tage schien um mich her die Welt in bunteren Farben zu brennen. Ströme des köstlichsten Weines löschten den grimmen Durst, und die holdseligsten Gestalten gaukelten dann in der Luft, ein Gewimmel von nackten Mädchen umgab mich einladend, Düfte schwangen sich bezaubernd um mein Haupt, wie aus dem innersten Herzen der seligsten Natur erklang eine Musik, und kühlte mit ihren frischen Wogen der Begierde wilde Lüsternheit; ein Grauen, das so heimlich über die Blumenfelder schlich, erhöhte den entzückenden Rausch. Wie viele Jahre so verschwunden sind, weiß ich nicht zu sagen, denn hier gab es keine Zeit und keine Unterschiede, in den Blumen brannte der Mädchen und der Lüste Reiz, in den Körpern der Weiber blühte der Zauber der Blumen, die Farben führten hier eine andre Sprache, die Töne sagten neue Worte, die ganze Sinnenwelt war hier in <hi rend="italic" xml:id="tg928.2.26.1.wd11.0">einer</hi> Blüte festgebunden, und die Geister drinnen feierten ewig einen brünstigen Triumph.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.27.wd11.0">Doch wie es geschah, kann ich so wenig sagen wie fassen, daß mich nun in aller Sünderherrlichkeit der Trieb nach der Ruhe, der Wunsch zur alten unschuldigen Erde mit ihren dürftigen Freuden ebenso ergriff, wie mich vormals die Sehnsucht hiehergedrängt hatte. Es zog mich an, wieder jenes Leben zu leben, das die Menschen in aller Bewußtlosigkeit führen, mit Leiden und abwechselnden Freuden, ich war von dem Glanz gesättigt und suchte gern die vorige Heimat wieder. Eine unbegreifliche <pb n="56" xml:id="tg928.2.27.1.wd11.0"/>
+Gnade des Allmächtigen verschaffte mir die Rückkehr, ich befand mich plötzlich wieder in der Welt, und denke nun meinen sündigen Busen vor den Stuhl unsers allerheiligsten Vaters in Rom auszuschütten, daß er mir vergebe und ich den übrigen Menschen wieder zugezählt werde.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.28.wd11.0">Der Tannenhäuser schwieg still, und Friedrich betrachtete ihn lange mit einem prüfenden Blicke; dann nahm er die Hand seines Freundes und sagte: »Immer noch kann ich nicht von meinem Erstaunen zurückkommen, auch kann ich deine Erzählung nicht begreifen, denn es ist nicht anders möglich, als daß alles, was du mir vorgetragen hast, nur eine Einbildung von dir sein muß. Denn noch lebt Emma, sie ist meine Gattin, und nie haben wir gekämpft oder uns gehaßt, wie du glaubst; doch verschwandest du noch vor unsrer Hochzeit aus der Gegend, auch hast du mir damals nie mit einem einzigen Worte gesagt, daß Emma dir lieb sei.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.29.wd11.0">Er nahm hierauf den verwirrten Tannenhäuser bei der Hand und führte ihn in ein anderes Zimmer zu seiner Gattin, die eben von einem Besuch ihrer Schwester, bei der sie einige Tage verweilt, auf das Schloß zurückgekommen war. Der Tannenhäuser war stumm und nachdenkend, er beschaute still die Bildung und das Antlitz der Frau, dann schüttelte er mit dem Kopfe und sagte: »Bei Gott, das ist noch die seltsamste von allen meinen Begebenheiten!«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.30.wd11.0">Friedrich erzählte ihm im Zusammenhange alles, was ihm seitdem zugestoßen war, und suchte seinem Freunde deutlich zu machen, daß ihn ein seltsamer Wahnsinn nur seit manchem Jahre beängstiget habe. »Ich weiß recht gut wie es ist«, rief der Tannenhäuser aus, »jetzt bin ich getäuscht und wahnsinnig, die Hölle will mir dies Blendwerk vorgaukeln, damit ich nicht nach Rom gehn und meiner Sünden ledig werden soll.«</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.31.wd11.0">Emma suchte ihn an seine Kindheit zu erinnern, aber der Tannenhäuser ließ sich nicht überreden. So reiste er schnell ab um in kurzer Zeit in Rom vom Papste Absolution zu erhalten.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.32.wd11.0">Friedrich und Emma sprachen noch oft über den seltsamen Pilgrim. Einige Monden waren verflossen, als der Tannenhäuser bleich und abgezehrt, in zerrissenen Wallfahrtskleidern und barfuß in Friedrichs Gemach trat, indem dieser noch schlief. Er küßte ihn auf den Mund und sagte dann schnell die Worte: »Der Heilige Vater will und kann mir nicht vergeben, ich muß in meinen alten Wohnsitz zurück.« Hierauf entfernte er sich eilig.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.33.wd11.0">
+                                    <pb n="57" xml:id="tg928.2.33.1.wd11.0"/>
+Friedrich ermunterte sich, der unglückliche Pilger war schon verschwunden. Er ging nach dem Zimmer seiner Gattin, und die Weiber stürzten ihm mit Geheul entgegen; der Tannenhäuser war hier früh am Tage hereingedrungen und hatte die Worte gesagt: »Diese soll mich nicht in meinem Laufe stören!« Man fand Emma ermordet.</p>
+                                 <p rend="zenoPLm4n0" xml:id="tg928.2.34.wd11.0">Noch konnte sich Friedrich nicht besinnen, als es ihn wie Entsetzen befiel; er konnte nicht ruhn, er rannte ins Freie. Man wollte ihn zurückhalten, aber er erzählte, wie ihm der Pilgrim einen Kuß auf die Lippen gegeben habe, und wie dieser Kuß ihn brenne, bis er jenen wiedergefunden. So rannte er in unbegreiflicher Eile fort, den wunderlichen Berg und den Tannenhäuser zu suchen, und man sah ihn seitdem nicht mehr. Die Leute sagten, wer einen Kuß von einem aus dem Berge bekommen, der könne der Lockung nicht widerstehn, die ihn auch mit Zaubergewalt in die unterirdischen Klüfte reiße.</p>
+                                 <pb n="58" xml:id="tg928.2.35.wd11.0"/>
+                              </div>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

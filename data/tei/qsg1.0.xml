@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:qsg1.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Sieben Legenden</title><title>Legenden</title><title>Keller, Gottfried</title><title>Die Jungfrau und der Teufel</title><author>Keller, Gottfried</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-9EFC-C</idno><idno type="textgrid">textgrid:qt3k.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden während der Berliner Zeit. Erstdruck: Stuttgart (Göschensche Buchhandlung) 1871.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Gottfried Keller: Sämtliche Werke in acht Bänden, Berlin: Aufbau, 1958–1961.</title><author key="pnd:11856109X">Keller, Gottfried</author></titleStmt><extent>331-</extent><publicationStmt><date when-iso="1958"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Gottfried Keller: Sämtliche Werke in acht Bänden, Berlin: Aufbau, 1958–1961.</title><author key="pnd:11856109X">Keller, Gottfried</author></titleStmt><extent>349-</extent><publicationStmt><date when-iso="1958"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg848.qsg0.0" n="/Literatur/M/Keller, Gottfried/Legenden/Sieben Legenden/Die Jungfrau und der Teufel">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Die Jungfrau und der Teufel</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-9CE3-E</idno><idno type="TextGridUri">textgrid:qsg0.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gottfried Keller: Sämtliche Werke in acht Bänden, Berlin: Aufbau, 1958–1961.</title>
+                  <author key="pnd:11856109X">Keller, Gottfried</author>
+               </titleStmt>
+               <extent>349-</extent>
+               <publicationStmt>
+                  <date when="1958"/>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1819" notAfter="1890"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg848.3.qsg0.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg848.3.1.qsg0.0">
+                                 <pb n="349" xml:id="tg848.3.1.1.qsg0.0"/>
+Die Jungfrau und der Teufel</head>
+
+                              <milestone unit="head_start"/>
+                                 <p xml:id="tg848.3.2.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.2.1.qsg0.0"> Freund! wach und schau dich um, der Teufel</seg>
+                                 </p>
+                                 <p xml:id="tg848.3.3.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.3.1.qsg0.0"> geht stets runden,</seg>
+                                 </p>
+                                 <p xml:id="tg848.3.4.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.4.1.qsg0.0"> Kommt er dir auf den Leib, so liegest du</seg>
+                                 </p>
+                                 <p xml:id="tg848.3.5.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.5.1.qsg0.0"> schon unten.</seg>
+                                 </p>
+                              <milestone unit="head_end"/>
+                              <lb xml:id="tg848.3.6.qsg0.0"/>
+                              <milestone unit="head_start"/>
+                                 <p rend="zenoPR" xml:id="tg848.3.7.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.7.1.qsg0.0">
+                                       <hi rend="italic" xml:id="tg848.3.7.1.1.qsg0.0">Angeli Silesii Cherub. Wandersmann,</hi>
+                                    </seg>
+                                 </p>
+                                 <p rend="zenoPR" xml:id="tg848.3.8.qsg0.0">
+                                    <seg rend="zenoTXFontsize80" xml:id="tg848.3.8.1.qsg0.0">
+                                       <hi rend="italic" xml:id="tg848.3.8.1.1.qsg0.0">IV. Buch, 42</hi>
+                                    </seg>
+                                 </p>
+                              <milestone unit="head_end"/>
+                              <lb xml:id="tg848.3.9.qsg0.0"/>
+                              <p xml:id="tg848.3.10.qsg0.0">Es war ein Graf Gebizo, der besaß eine wunderschöne Frau, eine prächtige Burg samt Stadt und so viele ansehnliche Güter, daß er für einen der reichsten und glücklichsten Herren im Lande galt. Diesen Ruf schien er denn auch dankbar anzuerkennen, indem er nicht nur eine glänzende Gastfreundschaft hielt, wobei sein schönes und gutes Weib gleich einer Sonne die Gemüter der Gäste erwärmte, sondern auch die christliche Wohltätigkeit im weitesten Umfang übte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.11.qsg0.0">Er stiftete und begabte Klöster und Spitäler, schmückte Kirchen und Kapellen, und an allen hohen Festtagen kleidete, speiste und tränkte er eine große Zahl von Armen, manchmal zu Hunderten, und einige Dutzend mußten täglich, ja fast stündlich auf seinem Burghofe schmausend und ihn lobpreisend zu sehen sein, sonst hätte ihm seine Wohnung, so schön sie war, verödet geschienen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.12.qsg0.0">Allein bei solch schrankenloser Freigebigkeit ist auch der größte Reichtum zu erschöpfen, und so kam es, daß der Graf nach und nach alle seine Herrschaften verpfänden mußte, um seinem Hange zu großartigem Wohltun zu frönen, und je mehr er sich verschuldete, desto eifriger verdoppelte er seine Vergabungen<pb n="350" xml:id="tg848.3.12.1.qsg0.0"/>
+ und Armenfeste, um dadurch den Segen des Himmels, wie er meinte, wieder zu seinen Gunsten zu wenden. Zuletzt verarmte er gänzlich, seine Burg verödete und verfiel; erfolglose und törichte Stiftungen und Schenkungsbriefe, welche er aus alter Gewohnheit immer noch zu schreiben nicht unterlassen konnte, trugen ihm nur Spott ein, und wenn er hie und da noch einen zerlumpten Bettler auf seine Burg locken konnte, so warf ihm dieser das magere Süppchen, das er ihm vorsetzte, mit höhnischen Schmähworten vor die Füße und machte sich davon.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.13.qsg0.0">Nur eines blieb sich immer gleich, die Schönheit seiner Frau Bertrade; ja, je öder es im Hause aussah, desto lichter schien diese Schönheit zu werden. Und auch an Huld, Liebe und Güte nahm sie zu, je ärmer Gebizo wurde, so daß aller Segen des Himmels sich in dies Weib zu legen schien und tausend Männer den Grafen um diesen einen Schatz, der ihm noch übrigblieb, beneideten. Er allein sah nichts von alledem, und je mehr sich die holde Bertrade bemühte, ihn aufzuheitern und seine Armut zu versüßen, desto geringer schätzte er dies Kleinod und verfiel in einen bittern und verstockten Trübsinn und verbarg sich vor der Welt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.14.qsg0.0">Als einst ein herrlicher Ostermorgen anbrach, wo er sonst gewohnt war, fröhliche Scharen nach seiner Burg wallfahren zu sehen, schämte er sich seines Falles, daß er nicht einmal in die Kirche zu gehen wagte und in Verzweiflung war, wie er die schönen sonnigen Festtage zubringen sollte. Umsonst bat ihn sein Weib mit perlenden Tränen und mit lächelndem Munde, sich nicht zu grämen und unverzagt mit ihr zur Kirche zu gehen; er machte sich unwirsch los und ging auf und davon, sich in den Wäldern zu verbergen, bis Ostern vorbei wäre.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.15.qsg0.0">Bergauf und -ab lief er, bis er in eine uralte Wildnis kam, wo ungeheure bärtige Tannenbäume einen See umschlossen, dessen Tiefe die nächtigen Tannen ihrer ganzen Länge nach widerspiegelte, so daß alles düster und schwarz erschien. Die Erde <pb n="351" xml:id="tg848.3.15.1.qsg0.0"/>
+um den See war dicht bedeckt mit abenteuerlichem langfransigem Moose, in welchem kein Tritt zu hören war.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.16.qsg0.0">Hier setzte sich Gebizo nieder und grollte mit Gott ob seinem elenden Geschicke, welches ihm nicht mehr erlaubte, seinen Hunger genugsam zu stillen, nachdem er Tausende mit Freuden gesättigt, und ihm überdies seine Werktätigkeit mit dem Hohn und Undank der Welt vergalt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.17.qsg0.0">Unversehens gewahrte er mitten auf dem See einen Nachen und in demselben einen hochgewachsenen Mann. Da der See nur klein und leicht zu überblicken war, so konnte Gebizo nicht begreifen, wo der Fährmann auf einmal herkomme, da er ihn zuvor nirgends bemerkt; genug, er war jetzt da, tat einen einzigen Ruderschlag und landete alsbald dicht vor dem Ritter, und ehe dieser sich einen Gedanken machen konnte, fragte er ihn, warum er ein so schlimmes Gesicht in die Welt schneide? Weil der Fremde ungeachtet des sehr hübschen Äußern einen Zug gründlicher Unzufriedenheit um Mund und Augen hatte, erweckte dies das Vertrauen Gebizos, und er klagte unverhohlen sein Mißleiden und all seinen Groll.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.18.qsg0.0">»Du bist ein Tor«, sagte jener hierauf; »denn du besitzest einen Schatz, der größer ist als alles, was du verloren hast. Wenn ich dein Weib hätte, so wollte ich nach allen Reichtümern, Kirchen und Klöstern und nach allen Bettelleuten der Welt nichts fragen!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.19.qsg0.0">»Gib mir diese Dinge wieder, und du kannst wohl mein Weib dafür haben!« erwiderte Gebizo bitter lachend, und jener rief blitzschnell: »Es gilt! Suche unter dem Kopfkissen deiner Frau, dort wirst du finden, was für deine ganze Lebenszeit ausreicht, alle Tage ein Kloster zu bauen und tausend Menschen zu speisen, und wenn du hundert Jahre alt würdest! Dafür bringe mir dein Weib hier zur Stelle, unfehlbar am Abend vor Walpurgistag!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.20.qsg0.0">Es sprühte bei diesen Worten ein solches Feuer aus seinen dunklen Augen, daß davon zwei rötliche Lichter über den Rockärmel <pb n="352" xml:id="tg848.3.20.1.qsg0.0"/>
+des Grafen und von da über Moos und Tannenstämme wegstreiften. Da sah Gebizo, wen er vor sich habe, und nahm das Anerbieten des Mannes an. Dieser rührte das Ruder und fuhr wieder auf die Mitte des Sees hinaus, wo er samt dem Schiffe im Wasser versank mit einem Getön, welches dem Gelächter von vielen ehernen Glocken ähnlich war.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.21.qsg0.0">Gebizo eilte mit einer Gänsehaut bekleidet auf dem geradesten Wege nach seiner Burg, untersuchte sogleich Bertradens Bett und fand unter ihrem Kopfkissen ein altes unscheinbares Buch, das er nicht lesen konnte. Wie er aber darin blätterte, fiel ein Goldstück nach dem andern heraus. Sobald er das merkte, machte er sich mit dem Buche in das tiefste Gewölbe eines Turmes und blätterte dort in aller Verborgenheit fürs erste, solange das Osterfest dauerte, einen hinreichenden Haufen Goldes aus dem interessanten Werke heraus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.22.qsg0.0">Dann trat er wieder auf vor der Welt, lösete alle seine Besitzungen ein, rief Werkleute herbei, die sein Schloß herstellten, prächtiger, als es je gewesen, und spendete Wohltaten rings herum gleich einem Fürsten, der eben gekrönt worden ist. Das Hauptwerk aber war die Grundlegung einer mächtigen Abtei für fünfhundert der frömmsten und vornehmsten Kapitularen, eine ordentliche Stadt von Heiligen und Schriftgelehrten, in deren Mitte dereinst seine Begräbnisstätte sein sollte. Diese Vorsicht glaubte er seinem ewigen Seelenheil schuldig zu sein. Da über seine Frau anders verfügt war, so wurde eine Grabstätte für sie nicht vorgesehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.23.qsg0.0">Am Mittage vor Walpurgis befahl er zu satteln und gebot seiner schönen Frau, ihr weißes Jagdpferd zu besteigen, da sie einen weiten Weg mit ihm zu reiten hätte. Zugleich verbot er, daß irgendein Knappe oder Diener mitkäme. Eine große Angst befiel die Arme, sie zitterte an allen Gliedern und belog zum ersten Mal in ihrer Ehe den Gemahl, indem sie sich für unwohl ausgab und ihn bat, sie zu Hause zu lassen. Da sie kurz vorher halblaut ein wenig gesungen hatte, so ward Gebizo zornig über <pb n="353" xml:id="tg848.3.23.1.qsg0.0"/>
+diese Lüge und glaubte nun ein doppeltes Recht über sie zu haben. Sie mußte, dazu noch möglichst wohl geschmückt, zu Pferde sitzen und ritt traurig mit ihrem Manne von dannen, ohne zu wissen, wohin es gehen sollte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.24.qsg0.0">Als sie ungefähr die Hälfte des Weges zurückgelegt, kamen sie zu einem Kirchlein, das Bertrade in früheren Tagen so nebenbei einst gebaut und der Mutter Gottes gewidmet hatte. Es war einem armen Meister zu Gefallen geschehen, welchem wegen seiner mürrischen und unlieblichen Person niemand etwas zu tun gab, so daß auch Gebizo, dem jeder mit gefälligem und ehrerbietigem Wesen nahen mußte, ihn nicht leiden mochte und bei allen seinen Werken leer ausgehen ließ. Heimlich hatte sie das Kirchlein bauen lassen, und der verachtete Meister hatte gleichsam als Feierabendarbeit zum Dank noch ein gar eigentümlich anmutiges Marienbild selbst gearbeitet und auf den Altar gestellt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.25.qsg0.0">In dieses Kirchlein begehrte jetzt Bertrade für einen Augenblick einzutreten, um ihr Gebet zu verrichten, und Gebizo ließ es geschehen; denn er dachte, sie könnte es wohl brauchen. Sie stieg also vom Pferde und ging, indessen der Mann draußen harrte, hinein, kniete vor dem Altare nieder und empfahl sich in den Schutz der Jungfrau Maria. Da fiel sie in einen tiefen Schlaf; die Jungfrau sprang vom Altar herunter, nahm Gestalt und Kleidung der Schlafenden an, trat aus der Türe frischen Mutes und bestieg das Pferd, worauf sie an der Seite des Grafen und an Bertradens Statt den Weg fortsetzte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.26.qsg0.0">Der Elende wollte sein Weib noch täuschen und, je näher sie dem Ziele kamen, mit um so größerer Freundlichkeit einschläfern und zerstreuen; und er redete deshalb über dieses und jenes mit ihr, und die Jungfrau gab ihm trauliche Antwort in süßem Geplauder, sich stellend, als ob sie alle Bangigkeit verlöre. So erreichten sie die dunkle Wildnis an dem See, über welchem falbe Abendwolken hingen; die alten Tannen blühten mit Purpurknospen, wie es nur in den üppigsten Frühlingen geschieht; im Dickicht schlug eine gespenstige Nachtigall so stark wie mit <pb n="354" xml:id="tg848.3.26.1.qsg0.0"/>
+Orgelpfeifen und Cymbeln, und aus den Tannen ritt der bewußte Mann hervor auf einem schwarzen Hengst, in reicher ritterlicher Tracht, ein langes Schwert zur Seite.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.27.qsg0.0">Er näherte sich ganz manierlich, obgleich er einen so grimmigen Blick schnell auf Gebizo schoß, daß diesem die Haut schauderte; sonst schienen nicht einmal die Pferde Unheil zu wittern, denn sie blieben ruhig. Gebizo warf dem Fremden zitternd die Zügel seiner Frau zu und sprengte ohne sie von dannen und ohne sich nach ihr umzusehen. Der Fremde aber ergriff die Zügel mit hastiger Faust, und fort ging es wie ein Sturmwind durch die Tannen, daß Schleier und Gewand der schönen Ritterfrau flogen und flatterten, über Berg und Tal und über die fließenden Wasser, daß die Hufe der Pferde kaum die Schäume der Wellen berührten. Von sausendem Sturme gejagt, wälzte sich vor den Rossen her eine rosig duftende Wolke, die in der Dämmerung leuchtete, und jene Nachtigall flog unsichtbar vor dem Paare her und setzte sich da und dort auf einen Baum, singend, daß die Lüfte schallten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.28.qsg0.0">Endlich nahmen alle Hügel und alle Bäume ein Ende, und die beiden ritten in eine endlose Heide hinein, in deren Mitte wie aus weiter Ferne die Nachtigall schlug, obgleich weder Strauch noch Zweig zu ahnen war, auf dem sie hätte sitzen können.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.29.qsg0.0">Unversehens hielt der Reiter an, sprang vom Pferde und half der Dame mit den Gebärden eines vollkommenen Ritters aus dem Sattel. Kaum berührte ihr Fuß die Heide, so entsproß rings um das Paar ein mannshoher Rosengarten mit einem herrlichen Brunnen und Ruhesitz, über welchem ein Sternenhimmel funkelte, so hell, daß man bei seinem Lichte hätte lesen können. Der Brunnen aber bestand aus einer großen runden Schale, in welcher einige Teufel in der Weise, wie man heutzutage lebende Bilder macht, eine verführerische weiße Marmorgruppe schöner Nymphen bildeten oder darstellten. Sie gossen schimmerndes Wasser aus ihren hohlen Händen, wo sie es hernahmen, wußte nur ihr Herr und Meister; das Wasser machte die lieblichste <pb n="355" xml:id="tg848.3.29.1.qsg0.0"/>
+Musik, denn jeder Strahl gab einen andern Ton, und das Ganze schien gestimmt wie ein Saitenspiel. Es war sozusagen eine Wasserharmonika, deren Akkorde alle Süßigkeiten der ersten Mainacht durchbebten und mit den reizenden Formen der Nymphengruppe ineinanderflossen; denn das lebende Bild stand nicht still, sondern wandelte und drehte sich unvermerkt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.30.qsg0.0">Nicht ohne feine Bewegung führte der seltsame Herr die Frau zu dem Ruhesitz und lud sie ein, Platz zu nehmen; dann aber ergriff er gewaltsam zärtlich ihre Hand und sagte mit einer das Mark erschütternden Stimme: »Ich bin der ewig Einsame, der aus dem Himmel fiel! Nur die Minne eines guten irdischen Weibes in der Mainacht läßt mich das Paradies vergessen und gibt mir Kraft, den ewigen Untergang zu tragen. Sei mit mir zu zweit, und ich will dich unsterblich machen und dir die Macht geben, Gutes zu tun und Böses zu hindern, soviel es dich freut!«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.31.qsg0.0">Er warf sich leidenschaftlich an die Brust des schönen Weibes, welches seine Arme lächelnd öffnete; aber in demselben Augenblicke nahm die Heilige Jungfrau ihre göttliche Gestalt an und schloß den Betrüger, der nun gefangen war, mit aller Gewalt in ihre leuchtenden Arme. Augenblicklich verschwand der Garten samt Brunnen und Nachtigall, die kunstreichen Dämonen, so das lebende Bild gemacht, entflohen als üble Geister mit ängstlichem Wimmern, ihren Herren im Stich lassend, und dieser rang mit Titanengewalt, sich aus der qualvollen Umarmung loszuwinden, ohne einen Laut zu verlieren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.32.qsg0.0">Die Jungfrau hielt sich aber tapfer und entließ ihn nicht, obgleich sie alle Kraft zusammennehmen mußte; sie hatte nichts Minderes im Sinn, als den überlisteten Teufel vor den Himmel zu tragen und ihn dort in all seinem Elend zum Gelächter der Seligen an einen Türpfosten zu binden.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.33.qsg0.0">Allein der Böse änderte seine Kampfweise, hielt sich ein Weilchen still und nahm die Schönheit an, welche er einst als der schönste Engel besessen, so daß es der himmlischen Schönheit Marias naheging. Sie erhöhte sich soviel als möglich; aber wenn <pb n="356" xml:id="tg848.3.33.1.qsg0.0"/>
+sie glänzte wie Venus, der schöne Abendstern, so leuchtete jener wie Luzifer, der helle Morgenstern, so daß auf der dunkeln Heide ein Leuchten begann, als wären die Himmel selbst herniedergestiegen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.34.qsg0.0">Als die Jungfrau merkte, daß sie zuviel unternommen und ihre Kräfte schwanden, begnügte sie sich, den Feind gegen Verzicht auf die Grafenfrau zu entlassen, und alsbald fuhren die himmlische und die höllische Schönheit auseinander mit großer Gewalt. Die Jungfrau begab sich etwas ermüdet nach ihrem Kirchlein zurück; der Böse hingegen, unfähig, länger irgendeine Verwandlung zu tragen, und wie an allen Gliedern zermalmt, schleppte sich in grausig dürftiger Gestalt, wie der leibhafte geschwänzte Gram, im Sande davon. So übel war ihm das vorgehabte Schäferstündchen bekommen!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.35.qsg0.0">Gebizo indessen, nachdem er sein liebliches Weib verlassen, war in der beginnenden Nacht irrgeritten und Roß und Mann in eine Kluft gestürzt, wo er den Kopf an einem Steine zerschellte, so daß er stracks aus dem Leben schwand.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.36.qsg0.0">Bertrade dagegen verharrte in ihrem Schlafe, bis die Sonne des ersten Maitages aufging; da erwachte sie und verwunderte sich über die verflossene Zeit. Doch sagte sie gleich ihr Ave Maria, und als sie gesund und munter vor das Kirchlein trat, stand ihr Pferd davor, wie sie es verlassen. Sie wartete nicht lang auf ihren Gemahl, sondern ritt froh und eilig nach Hause; denn sie ahnte, daß sie irgendeiner großen Gefahr entgangen sei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg848.3.37.qsg0.0">Bald fand und brachte man die Leiche des Grafen. Bertrade ließ ihn mit allen Ehren bestatten und stiftete unzählige Messen für ihn. Aber alle Liebe zu ihm war unerklärlicherweise für sie aus ihrem Herzen weggetilgt, obgleich dasselbe so freundlich und zärtlich blieb, als es je gewesen. Deshalb sah sich ihre hohe Gönnerin im Himmel nach einem andern Manne für sie um, der solch anmutiger Liebe würdiger wäre als jener tote Gebizo, und diese Sache begab sich, wie in der folgenden Legende geschrieben steht.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

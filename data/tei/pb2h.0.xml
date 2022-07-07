@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:pb2h.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Prosa aus dem Nachlaß</title><title>Prosa</title><title>Günderode, Karoline von</title><title>[Allerley Gedanken]</title><author>Günderode, Karoline von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt><respStmt><resp>Rights Holder</resp><name key="">TextGrid</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-1FE9-4</idno><idno type="textgrid">textgrid:p9z1.0</idno><availability><ab/></availability></publicationStmt><notesStmt><note>
+                                 Entstanden wohl 1802/03, Erstdruck 1922.
+                              </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title><author key="pnd:118543202">Günderode, Karoline von</author></titleStmt><extent>71-</extent><publicationStmt><date when-iso="1920"/><pubPlace>Berlin-Wilmersdorf</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg108.pb2g.0" n="/Literatur/M/Günderode, Karoline von/Prosa/Prosa aus dem Nachlaß/[Allerley Gedanken]">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>[Allerley Gedanken]</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-204F-A</idno><idno type="TextGridUri">textgrid:pb2g.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                                 Entstanden wohl 1802/03, Erstdruck 1922.
+                              </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Karoline von Günderode: Gesammelte Werke. Herausgegeben von Leopold Hirschberg. Band 1–3, Berlin-Wilmersdorf: Bibliophiler Verlag von O. Goldschmidt-Gabrielli, 1920–1922.</title>
+                  <author key="pnd:118543202">Günderode, Karoline von</author>
+               </titleStmt>
+               <extent>71-</extent>
+               <publicationStmt>
+                  <date when="1920"/>
+                  <pubPlace>Berlin-Wilmersdorf</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1802" notAfter="1803"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>prose</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg108.3.pb2g.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg108.3.1.pb2g.0">
+                                 <pb n="71" xml:id="tg108.3.1.1.pb2g.0"/>
+                                 <pb type="start" n="111" xml:id="tg108.3.1.2.pb2g.0"/>[Allerley Gedanken]</head>
+
+                              <p xml:id="tg108.3.2.pb2g.0">
+                                 <pb n="111" xml:id="tg108.3.2.1.pb2g.0"/>
+                                 <pb type="start" n="113" xml:id="tg108.3.2.2.pb2g.0"/>Die Vortreflichkeit ist ein Ganzes, wir haben sie nicht, sie ist gleichsam wie die Bläue des Himmels über uns, unsere Vortreflichkeit, ist nur ein Streben zu ihr, eine Ansicht von ihr; drum ist keine persönliche Liebe, nur Liebe zum Vortreflichen.</p>
+                              <lb xml:id="tg108.3.3.pb2g.0"/>
+                              <p xml:id="tg108.3.4.pb2g.0">Lasse dich leben wie du bist ohne Kunststücke mit dir zu probieren, d.h. ohne dich zwingen zu wollen Dinge zu lieben die du nicht lieben kanst; Dein Klagen daß du nicht liebtest ist eine Sehnsucht nach Liebe, diese Sehnsucht, ist ein Gedanke, (der, weil er keinen Gegenstand hat auf dem er ruhe) ins unendliche starrt; jezt begegnet mein Gedanke deinem gestaltlosen hinauf starren, und bildet es, giebt ihm seine Form, ihren Grund und Zwek im Bewußtsein, wenn ich nun allen deinen Gedanken die noch keine Form haben, mit den meinigen begegnet bin, und sie geformt habe, dann nehme ich mit meinen Gedanken eine andere Richtung, du glaubst dann ich habe dich verlassen, aber ich müßte hoffärtig sein wollte ich mich zu den glücklichen drängen die mich nicht bedürfen.</p>
+                              <lb xml:id="tg108.3.5.pb2g.0"/>
+                              <p xml:id="tg108.3.6.pb2g.0">
+                                 <pb n="113" xml:id="tg108.3.6.1.pb2g.0"/>
+Ich habe alles erfahren was ich ihnen sage, ich hatte ihren Zustand, aber in höherem Grade. Ich habe mich durch den Aberglauben und den Zweifel durchgearbeitet, und bin zum Glauben zurückgekehrt, auch sie müssen glauben, denn alles ist ja Glaube, auch die neueste und würdigste Philosophie kehrt zum Glaube.</p>
+                              <lb xml:id="tg108.3.7.pb2g.0"/>
+                              <p xml:id="tg108.3.8.pb2g.0">Es giebt nur zwei Leben das gemeine (das schlechter ist als wir) und das höhere; viele Menschen schweben zwischen beiden, der wahre Künstler steht ganz in lezterm es ist die wahre Seligkeit, und wer es einmal betretten der ist der Welt ohne Rettung verlohren.</p>
+                              <lb xml:id="tg108.3.9.pb2g.0"/>
+                              <p xml:id="tg108.3.10.pb2g.0">Es giebt nur zwei Arten recht zu leben irrdisch, oder himlisch; man kann der Welt dienen, und nüzen, ein Amt führen Geschäfte treiben, Kinder erziehen, dann lebt man irrdisch. Aber man lebt himlisch in der Betrachtung des Ewigen, Unendlichen im Streben nach ihm (eine Art Nonnenstand). Wer anders leben will als eine dieser beiden Arten der verdirbt.</p>
+                              <lb xml:id="tg108.3.11.pb2g.0"/>
+                              <p xml:id="tg108.3.12.pb2g.0">Sie wachsen noch an der Welt wie der Apfel am Baum, aber wenn die Frucht reif ist fällt sie vom Stamm, sie hat dann ihre eigenthümliche Gestalt, <pb n="114" xml:id="tg108.3.12.1.pb2g.0"/>
+ist vollendet. Auch sie müssen sich losreißen von der Welt, und ganz sie selbst werden, dann sind sie vollkommen. Ein Gesez herrschet in der ganzen Natur.</p>
+                              <lb xml:id="tg108.3.13.pb2g.0"/>
+                              <p xml:id="tg108.3.14.pb2g.0">Sie haben ein heiligen Bild zerrissen, und mögen des halb nicht beten, so ist ihr Zustand. Sie verweilen bei der Betrachtung ihrer Fehler und versäumen das Höchste.</p>
+                              <lb xml:id="tg108.3.15.pb2g.0"/>
+                              <p xml:id="tg108.3.16.pb2g.0">Sie komen mir vor wie jemand der mit einer schönen Stimme schlecht singt, mit guten Anlagen leben sie schlecht.</p>
+                              <lb xml:id="tg108.3.17.pb2g.0"/>
+                              <p xml:id="tg108.3.18.pb2g.0">Die Leute sagen ich sei unnüz weil ich kein Geschäft treibe, und ich arbeite doch durch den Einflus den ich auf manches Gemüth habe, für das Ewige. Wer ein Priester will sein unter den Menschen darf nicht heuchlen; drum kann ich nicht umgehen mit den Pharisäern, drum kann ich die Wahrheit nicht verschweigen. Daß mich meine Zeitgenossen nicht achten daran liegt mir nichts; wer einer bessern Lehre anhangt muß das immer erfahren, ich werde darum nicht untergehen, haben doch die Apostel Weib und Kind und alles verlassen und sind Christus gefolgt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg108.3.19.pb2g.0">
+                                 <pb n="115" xml:id="tg108.3.19.1.pb2g.0"/>
+Die wahre ächte Liebe ist meist eine unglükliche Erscheinung man quält sich selbst und wird von der Welt mißhandelt. Die Koketterie war mir immer interessant; sie ist zugleich das geistreichste Spiel und die größt Uebung für den Geist; man gehört sich dadurch an ohne sich selbst zu verliehren. Es ist ein sonderbares Gemeng in ihnen das sie verstehen müssen zu theilen, nicht durch Gedanken, (denn ihre Gedanken sind gerade das Gemeng) sondern durch theilende Beschäftigung. Dichten sie mit der Fantasie, arbeiten sie mit den Armen, tanzen sie mit den Füßen, lesen sie Göthe und den Homer, und studieren sie diese, d.h. lesen sie sie mit Freude, und so lange bis sich ihnen die Personen in den Gedanken aufgelöst d.h. bis ihnen Aiax nicht mehr blos der Held bleibt, nein bis sie in ihm den unendlichen Gedanken, (der sich durch die Kunst in die menschliche Form dargestellt hat) erkennen. Bis iezt haben sich alle ihre Bedürfnisse auf das der Liebe bezogen und gedrängt, darum ist ihre Liebe nicht frei mehr, nothwendig nicht liebenswürdig; wenn sie aber das alles gethan haben dann werden sie sich gehoben fühlen, und glüklich. Uebrigens sein sie bestimter in ihrem Sein tolerieren sie nichts schlechtes, gehn sie nicht viel mit gemeinen Menschen um, denn das heist die Vortreflichkeit mit Füßen tretten.</p>
+                              <lb xml:id="tg108.3.20.pb2g.0"/>
+                              <p xml:id="tg108.3.21.pb2g.0">
+                                 <pb n="116" xml:id="tg108.3.21.1.pb2g.0"/>
+Meine Ansicht vom Sterben ist die ruhigste. Ein Freund ist mir bei seinem Leben was mir die Grammatik ist, stirbt er so wird er mir zur Poesie. Ich wollte lieber von meinem besten Freund nichts wissen als irgend ein schönes Kunstwerk nicht kennen.</p>
+                              <pb n="117" xml:id="tg108.3.22.pb2g.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0p7.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Sonderbarer Rechtsfall in England</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>371-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg407.r0p6.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Sonderbarer Rechtsfall in England">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Sonderbarer Rechtsfall in England</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B14D-B</idno><idno type="TextGridUri">textgrid:r0p6.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>371-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg407.3.r0p6.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg407.3.1.r0p6.0">Sonderbarer Rechtsfall in England</head>
+
+                              <p xml:id="tg407.3.2.r0p6.0">Man weiß, daß in England jeder Beklagte zwölf Geschworne von seinem Stande zu Richtern hat, deren Ausspruch einstimmig sein muß, und die, damit die Entscheidung sich nicht zu sehr in die Länge verziehe, ohne Essen und Trinken so lange eingeschlossen bleiben, bis sie eines Sinnes sind. Zwei <pb n="371" xml:id="tg407.3.2.1.r0p6.0"/>
+Gentlemen, die einige Meilen von London lebten, hatten in Gegenwart von Zeugen einen sehr lebhaften Streit miteinander; der eine drohte dem andern, und setzte hinzu, daß ehe vierundzwanzig Stunden vergingen, ihn sein Betragen reuen solle. Gegen Abend wurde dieser Edelmann erschossen gefunden; der Verdacht fiel natürlich auf den, der die Drohungen gegen ihn ausgestoßen hatte. Man brachte ihn zu gefänglicher Haft, das Gericht wurde gehalten, es fanden sich noch mehrere Beweise, und 11 Beisitzer verdammten ihn zum Tode; allein der zwölfte bestand hartnäckig darauf, nicht einzuwilligen, weil er ihn für unschuldig hielte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg407.3.3.r0p6.0">Seine Kollegen baten ihn, Gründe anzuführen, warum er dies glaubte; allein er ließ sich nicht darauf ein, und beharrte bei seiner Meinung. Es war schon spät in der Nacht, und der Hunger plagte die Richter heftig; einer stand endlich auf, und meinte, daß es besser sei, einen Schuldigen loszusprechen, als 11 Unschuldige verhungern zu lassen; man fertigte also die Begnadigung aus, führte aber auch zugleich die Umstände an, die das Gericht dazu gezwungen hätten. Das ganze Publikum war wider den einzigen Starrkopf; die Sache kam sogar vor den König, der ihn zu sprechen verlangte; der Edelmann erschien, und nachdem er sich vom Könige das Wort geben lassen, daß seine Aufrichtigkeit nicht von nachteiligen Folgen für ihn sein sollte, so erzählte er dem Monarchen, daß, als er im Dunkeln von der Jagd gekommen, und sein Gewehr losgeschossen, es unglücklicherweise diesen Edelmann, der hinter einem Busche gestanden, getötet habe. Da ich, fuhr er fort, weder Zeugen meiner Tat, noch meiner Unschuld hatte, so beschloß ich, Stillschweigen zu beobachten; aber als ich hörte, daß man einen Unschuldigen anklagte, so wandte ich alles an, um einer von den Geschwornen zu werden; fest entschlossen, eher zu verhungern, als den Beklagten umkommen zu lassen. Der König hielt sein Wort, und der Edelmann bekam seine Begnadigung.</p>
+                              <pb n="372" xml:id="tg407.3.4.r0p6.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

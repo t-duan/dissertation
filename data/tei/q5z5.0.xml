@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:q5z5.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Letzte Erzählungen</title><title>Erzählungen, Märchen und Schriften</title><title>Hoffmann, E. T. A.</title><title>Naivetät</title><author>Hoffmann, E. T. A.</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-6B0E-C</idno><idno type="textgrid">textgrid:q5xq.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Unter dem Titel »Letzte Erzählungen« gab Julius Eduard Hitzig 1825 erstmals eine Sammlung kleinerer, einzeln publizierter Erzählungen aus Hoffmanns letzten Lebensjahren heraus, die hier im Anschluß an spätere Hoffmann-Ausgaben um einige Texte aus dem Nachlaß erweitert wurde.
+                           </note><note>
+                                 Erstdruck in: Der Zuschauer (Berlin), Juni 1822.
+                              </note></notesStmt><sourceDesc><biblFull><titleStmt><title>E.T.A. Hoffmann: Poetische Werke in sechs Bänden, Band 6, Berlin: Aufbau, 1963.</title><author key="pnd:118552465">Hoffmann, E. T. A.</author></titleStmt><extent>221-</extent><publicationStmt><date when-iso="1963"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>E.T.A. Hoffmann: Poetische Werke in sechs Bänden, Band 6, Berlin: Aufbau, 1963.</title><author key="pnd:118552465">Hoffmann, E. T. A.</author></titleStmt><extent>775-</extent><publicationStmt><date when-iso="1963"/><pubPlace>Berlin</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg204.q5z3.0" n="/Literatur/M/Hoffmann, E. T. A./Erzählungen, Märchen und Schriften/Letzte Erzählungen/Naivetät">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Naivetät</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-6B1B-E</idno><idno type="TextGridUri">textgrid:q5z3.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+                                 Erstdruck in: Der Zuschauer (Berlin), Juni 1822.
+                              </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>E.T.A. Hoffmann: Poetische Werke in sechs Bänden, Band 6, Berlin: Aufbau, 1963.</title>
+                  <author key="pnd:118552465">Hoffmann, E. T. A.</author>
+               </titleStmt>
+               <extent>775-</extent>
+               <publicationStmt>
+                  <date when="1963"/>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1776" notAfter="1822"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg204.3.q5z3.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg204.3.1.q5z3.0">Naivetät</head>
+
+                              <p xml:id="tg204.3.2.q5z3.0">Ein Kranker, der an einer beharrlichen Schlaflosigkeit litt, sah sich genötigt, jede Nacht jemanden um sich zu haben, mit dem er nicht allein sprechen konnte, sondern der ihm auch in seinem gelähmten Zustande die nötige Hilfe leistete. So sollte ein junger Mann bei dem Kranken wachen. Statt aber zu wachen, verfiel derselbe in einen Schlaf, aus dem er nicht zu erwecken. Der Kranke war in dieser Nacht von einem besondern Geist fröhlicher und zwar musikalischer Laune ergriffen, besann sich auf alle möglichen Kanzonen und Kanzonetten, die er sonst gesungen, und sang sie mit heller Stimme ab. Endlich, als er in das schlafende Antlitz seines Wächters schaute, kam ihm dasselbe, sowie die ganze Situation, gar zu drollig vor. Er rief seinen Wächter laut beim Namen und fragte, als dieser sich aus dem Schlafe rüttelte, ob ihn vielleicht das Singen in seiner Ruhe störe.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg204.3.3.q5z3.0">»Ach Gott!« erwiderte der junge wachsame Mann ganz naiv und trocken, indem er sich dehnte, »ach Gott, nicht im mindesten. Singen Sie doch in Gottes Namen, Herr ***Rat, ich habe einen festen, gesunden Schlaf!« Und damit schlief er wieder ein, indem der Kranke mit heller Kehle anstimmte:</p>
+                              <lb xml:id="tg204.3.4.q5z3.0"/>
+                              <closer>
+                                 <seg type="closer" rend="zenoPC" xml:id="tg204.3.5.q5z3.0">»Sul margine d'un rio etc.«</seg>
+                                 <pb n="775" xml:id="tg204.3.6.q5z3.0"/>
+                              </closer>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

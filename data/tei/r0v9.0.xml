@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:r0v9.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>[Anekdoten und Kurzgeschichten]</title><title>Erzählprosa</title><title>Kleist, Heinrich von</title><title>Wassermänner und Sirenen</title><author>Kleist, Heinrich von</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0003-B1BD-2</idno><idno type="textgrid">textgrid:r0t3.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1808 und 1811. Erstdruck der beiden Fabeln in: Phöbus (Dresden) 1. Jg. 1808, 3. Stück; Erstdruck aller anderen Anekdoten und Kurzgeschichten in: Berliner Abendblätter (Berlin), 1./2. Jg., 1810/11.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>341-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title><author key="pnd:118563076">Kleist, Heinrich von</author></titleStmt><extent>369-</extent><publicationStmt><date when-iso="1978"/><pubPlace>Berlin und Weimar</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg406.r0vb.0" n="/Literatur/M/Kleist, Heinrich von/Erzählprosa/[Anekdoten und Kurzgeschichten]/Wassermänner und Sirenen">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Wassermänner und Sirenen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-B1E1-E</idno><idno type="TextGridUri">textgrid:r0vb.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heinrich von Kleist: Werke und Briefe in vier Bänden. Herausgegeben von Siegfried Streller in Zusammenarbeit mit Peter Goldammer und Wolfgang Barthel, Anita Golz, Rudolf Loch, Berlin und Weimar: Aufbau, 1978.</title>
+                  <author key="pnd:118563076">Kleist, Heinrich von</author>
+               </titleStmt>
+               <extent>369-</extent>
+               <publicationStmt>
+                  <date when="1978"/>
+                  <pubPlace>Berlin und Weimar</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1777" notAfter="1811"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg406.3.r0vb.0">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg406.3.1.r0vb.0">Wassermänner und Sirenen</head>
+
+                              <p xml:id="tg406.3.2.r0vb.0">In der Wiener Zeitung vom 30. Juli 1803 wird erzählt, daß die Fischereipächter des Königssees in Ungarn mehrmals schon, bei ihrem Geschäft, eine Art nackten, wie sie sagten, vierfüßigen Geschöpfs bemerkt hatten, ohne daß sie unterscheiden konnten, von welcher Gattung es sei, indem es schnell, sobald jemand sich zeigte, vom Ufer ins Wasser lief und verschwand. Die Fischer lauerten endlich so lange, bis sie das <pb n="369" xml:id="tg406.3.2.1.r0vb.0"/>
+vermeintliche Tier, im Frühling des Jahrs 1776, mit ihren ausgesetzten Netzen fingen. Als sie nun desselben habhaft waren, sahen sie mit Erstaunen, daß es ein Mensch war. Sie schafften ihn sogleich nach Kapuvar zu dem fürstlichen Verwalter. Dieser machte eine Anzeige davon an die fürstliche Direktion, von welcher der Befehl erging, den Wassermann gut zu verwahren und ihn einem Trabanten zur Aufsicht zu übergeben. Derselbe mochte damals etwa 17 Jahr alt sein, seine Bildung war kräftig und wohlgestaltet, bloß die Hände und Füße waren krumm, weil er kroch; zwischen den Zehen und Fingern befand sich ein zartes, entenartiges Häutchen, er konnte, wie jedes Wassertier, schwimmen, und der größte Teil des Körpers war mit Schuppen bedeckt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg406.3.3.r0vb.0">Man lehrte ihn gehen, und gab ihm anfangs nur rohe Fische und Krebse zur Nahrung, die er mit dem größesten Appetit verzehrte: auch füllte man einen großen Bottich mit Wasser an, in dem er sich mit großen Freudenbezeugungen badete. Die Kleider waren ihm öfters zur Last und er warf sie weg, bis er sich nach und nach daran gewöhnte. An gekochte, grüne, Mehl- und Fleischspeisen hat man ihn nie recht gewöhnen können, denn sein Magen vertrug sie nicht; er lernte auch reden und sprach schon viele Worte aus, arbeitete fleißig, war gehorsam und zahm. Allein nach einer Zeit von drei Vierteljahren, wo man ihn nicht mehr so streng beobachtete, ging er aus dem Schlosse über die Brücke, sah den mit Wasser angefüllten Schloßgraben, sprang mit seinen Kleidern hinein und verschwand.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg406.3.4.r0vb.0">Man traf sogleich alle Anstalten, um ihn wieder zu fangen, allein alles Nachsuchen war vergebens, und ob man ihn schon nach der Zeit, besonders bei dem Bau des Kanals durch den Königssee, im Jahr 1803, wiedergesehen hat, so hat man seiner doch nie wieder habhaft werden können.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg406.3.5.r0vb.0">Dieser Vorfall wirft Licht über manche, bisher für fabelhaft gehaltene, See-Erscheinungen, die man <hi rend="italic" xml:id="tg406.3.5.1.r0vb.0">Sirenen</hi> nannte. So sah der Entdecker Grönlands Hudson, auf seiner zweiten Reise, am 15. Juni 1608 eine solche Sirene und die ganze <pb n="370" xml:id="tg406.3.5.2.r0vb.0"/>
+Schiffsmannschaft sah sie mit ihm. Sie schwamm zur Seite des Schiffs und sah die Schiffsleute starr an. Vom Kopfe bis zum Unterleib glich sie vollkommen einem Weibe von gewöhnlicher Statur. Ihre Haut war weiß; sie hatte lange, schwarze, um die Schultern flatternde Haare. Wenn die Sirene sich umkehrte, so sahen die Schiffsleute ihren Fischschwanz, der mit dem eines Meerschweins viel Ähnlichkeit hatte, und wie ein Makrelenschwanz gefleckt war. – Nach einem wütigen Sturm im Jahr 1740, der die holländischen Dämme von Westfriesland durchbrochen hatte, fand man auf den Wiesen eine sogenannte Sirene im Wasser. Man brachte sie nach Haarlem, kleidete sie und lehrte sie spinnen. Sie nahm gewöhnliche Speise zu sich und lebte einige Jahre. Sprechen lernte sie nicht, ihre Töne glichen dem Ächzen eines Sterbenden. Immer zeigte sie den stärksten Trieb zum Wasser. – Im Jahr 1560 fingen Fischer von der Insel Ceylon mehrere solcher Ungeheuer auf einmal im Netze. Dimas Bosquez von Valence, der sie untersuchte und einige, die gestorben waren, in Gegenwart mehrerer Missionäre anatomierte, fand alle inneren Teile mit dem menschlichen Körper sehr übereinstimmend. Sie hatten einen runden Kopf, große Augen, ein volles Gesicht, platte Wangen, eine aufgeworfene Nase, sehr weiße Zähne, gräuliche, manchmal bläuliche Haare, und einen langen grauen bis auf den Magen herabhangenden Bart. – Hierher gehört auch noch der sogenannte neapolitanische <hi rend="italic" xml:id="tg406.3.5.3.r0vb.0">Fischnickel</hi>, von welchem man in <hi rend="italic" xml:id="tg406.3.5.4.r0vb.0">Gehlers physikalischem Lexikon</hi> eine authentische Beschreibung findet.</p>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>

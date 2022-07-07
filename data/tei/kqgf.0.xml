@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='UTF-8'?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0" corresp="textgrid:kqgf.0"><teiHeader xmlns:md="http://textgrid.info/namespaces/metadata/core/2010"><fileDesc><titleStmt><title>Italienische Märchen</title><title>Märchen-Sammlung</title><title>Brentano, Clemens</title><title>Das Märchen von den Märchen oder Liebseelchen</title><author>Brentano, Clemens</author><respStmt><resp>Data Contributor</resp><name>tvitt@textgrid.de</name></respStmt></titleStmt><publicationStmt><idno type="handle">hdl:11858/00-1734-0000-0002-41F0-3</idno><idno type="textgrid">textgrid:kr9t.0</idno><availability><ab/></availability><availability><ab/></availability></publicationStmt><notesStmt><note>
+                              Entstanden zwischen 1805 und 1811. Erstdruck: Die Märchen des Clemens Brentano. Zum Besten der Armen nach dem letzten Willen des Verfassers herausgegeben von Guido Görres. Zweiter Band, Stuttgart und Tübingen (Cotta) 1847. Das »Märchen von dem Myrtenfräulein« war zuvor bereits erschienen in: Iris. Unterhaltungsblatt für Freunde des Schönen und Nützlichen (Frankfurt), 1826.
+                           </note></notesStmt><sourceDesc><biblFull><titleStmt><title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title><author key="pnd:118515055">Brentano, Clemens</author></titleStmt><extent>297-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc><sourceDesc><biblFull><titleStmt><title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title><author key="pnd:118515055">Brentano, Clemens</author></titleStmt><extent>297-</extent><publicationStmt><date when-iso="1963"/><pubPlace>München</pubPlace></publicationStmt></biblFull></sourceDesc></fileDesc></teiHeader><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg565.kqgd.0" n="/Literatur/M/Brentano, Clemens/Märchen-Sammlung/Italienische Märchen/Das Märchen von den Märchen oder Liebseelchen">
+               <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Das Märchen von den Märchen oder Liebseelchen</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-3F2C-E</idno><idno type="TextGridUri">textgrid:kqgd.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clemens Brentano: Werke. Herausgegeben von Friedhelm Kemp, Band 1–4, München: Hanser, [1963–1968].</title>
+                  <author key="pnd:118515055">Brentano, Clemens</author>
+               </titleStmt>
+               <extent>297-</extent>
+               <publicationStmt>
+                  <date when="1963"/>
+                  <pubPlace>München</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1778" notAfter="1842"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <front>
+                     <div type="front">
+                        
+
+
+
+                        <head type="h3" xml:id="tg564.2.2.kqgd.0">Clemens Brentano</head>
+
+
+                        <head type="h2" xml:id="tg564.2.3.kqgd.0">Italienische Märchen</head>
+
+                        <milestone unit="sigel" n="Brentano-W Bd. 3" xml:id="tg564.2.4.kqgd.0"/>
+                     </div>
+                  </front>
+                  <body>
+                        
+                           
+                        
+                        
+                        
+                        <div type="text" xml:id="tg565.3.kqgd.0">
+                           <pb type="start" n="297" xml:id="tg565.3.1.kqgd.0"/>
+                           <div type="h4">
+                              <head type="h4" xml:id="tg565.3.2.kqgd.0">Das Märchen von den Märchen</head>
+                              <head type="h4" xml:id="tg565.3.3.kqgd.0">oder Liebseelchen</head>
+
+                              <p xml:id="tg565.3.4.kqgd.0">Es war einmal ein König von Schattenthalien, der hatte eine einzige Tochter, die er sehr liebte und darum Liebseelchen nannte. Aber leider war sie unter einem traurigen Stern geboren und stets so still und traurig und nie zum Lachen zu bringen, daß alle, die sie kannten, sie, statt Liebseelchen, Trübseelchen nannten, weil sie immer so trübselig aussah. Hierüber war nun ihr königlicher Herr Vater, der lieber gewollt hätte, sie möge sich bucklich lachen, sehr unwillig und wendete alles an, um sie aufzuheitern.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.5.kqgd.0">Bald ließ er die Hoftrompeter auf Sechspfennigstrompeten zur Tafel blasen; aber sie lachte nicht und fand die Musik sehr ernsthaft; bald ließ er allen Gänsen, die der Hirt zum Tore hinaustrieb, papierne Haarbeutel anhängen; aber sie lachte nicht und fand den Zug sehr anständig; bald ließ er eine Menge Hunde wie die bekanntesten Hofherrn ankleiden, und sie mußten ihm durch die Beine tanzen, wozu er auf der Geige spielte, ohne daß er es konnte; aber sie lachte nicht und meinte, der Hofball wäre recht angenehm, weil man sie nicht auffordere, – und noch tausend andere solche Späßchen hatte er umsonst versucht; sie blieb immer, ohne eine Miene zu verziehen, so ernsthaft wie ein Arzneiglas, und der König hatte schon alle Hoffnung aufgegeben, sie jemals lachen zu sehen, als ihm noch ein Gedanke einfiel, der ihm selbst so possierlich vorkam, daß er laut zu lachen anfing. »Wohlan!« sagte er, »will Liebseelchen nicht drüber lachen, so will ich mir doch einmal eine lustige Stunde geben; denn ich armer König bin vor lauter vergeblichem Spaßmachen selbst ganz betrübt geworden«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.6.kqgd.0">Der Platz vor dem Schlosse war von spiegelglatt geschliffenem Marmor. In der Mitte dieses Platzes ließ er einen Springbrunnen von Öl machen, der sich über den Platz ergoß und denselben noch schlüpfriger machte, so daß es nicht leicht möglich war, über den Platz zu gehen, ohne zu fallen. Es war <pb n="297" xml:id="tg565.3.6.1.kqgd.0"/>
+am Neujahrstag, als er diesen Spaß anstellen wollte, weil er wußte, daß dann auf diesem Platze eine außerordentliche Menge geputzter und gezierter Leute in allerlei närrischen neuen Modekleidern herumspazieren pflegten, um sich einander das neue Jahr abzugewinnen. Er versprach sich tausend Spaß, wenn er dachte, wie die Putznarren und – närrinnen gleich Grillen und Heuschrecken auf dem Platze herumspringen würden, um sich keine Ölflecken in ihre Neujahrsröcke zu machen, und wie sie endlich doch zur Strafe ihrer Eitelkeit an die Erde fallen müßten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.7.kqgd.0">Als der Morgen herankam und das Neujahr schon mit Glockengeläut, Pauken und Trompeten in der Stadt angekündigt war, kam die Prinzessin Liebseelchen zu ihrem Vater an das Bett, küßte ihm die Hand und sprach so ernsthaft als ein Puthahn: »Ich wünsche Eurer Majestät ein glückseliges neues Jahr, und daß Sie noch viele untertänigste Jahre in Allerhöchstem Wohlsein zu verleben geruhen mögen.« Der König umarmte seine Tochter und sprach: »Gleichfalls, liebstes Liebseelchen! aber, wenn du mich nicht vor der Zeit unter die Erde bringen willst, so tue mir die Liebe an und lache einmal von Herzensgrund.« Das war aber fehlgegriffen; denn Liebseelchen fing an zu weinen und sagte: »Wie soll ich lachen, wenn Eure Majestät vom Sterben reden?« Da sprang der König aus dem Bett, setzte geschwind seine Krone auf, nahm seinen Szepter in die Hand und wollte mit den Worten: »Ei! das müßte doch der Kuckuck sein, wenn ich dich nicht sollte zum Lachen bringen!« im Schlafrock, wie er war, mit der Prinzessin hinaus auf den Balkon treten. Liebseelchen aber sagte; »Herr Vater! vergessen Sie nicht, Ihren Mantel anzulegen.« Zornig legte er seinen goldenen Mantel an; denn er dachte für sich: daß ich so im Schlafrock und ohne Perücke, die Krone auf der Nachtmütze tragend, hinaus vor das Volk treten wollte, darüber hätte sie eigentlich schon ordentlich lachen können; aber es ist nichts mit ihr anzufangen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.8.kqgd.0">Da er nun ganz königlich angekleidet war, setzte er sich mit ihr auf den Balkon, um zu sehen, wie die Leute sich auf dem Ölplatze betragen würden. Zuerst kamen die Bauern, um dem Könige Glück zu wünschen. Da sie aber teils barfuß gingen, teils tüchtige, mit Nägel beschlagene Stiefel anhatten, so gingen sie recht fest auf dem glatten Boden, und die, welche Stiefel anhatten, <pb n="298" xml:id="tg565.3.8.1.kqgd.0"/>
+patschten mit Vergnügen in dem Öl herum, weil ihnen das ihr Lederwerk dauerhaft und geschmeidig machte. Viele, die mit Holzschuhen kamen, zogen diese aus und nahmen sie mit Öl gefüllt nach Hause und bedankten sich noch recht schön bei Ihro Majestät.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.9.kqgd.0">Aber als später allerlei geputzte und gezierte Stadtleute kamen, gab es mancherlei für den König zu lachen, wenn sie, um sich nicht zu beschmutzen, auf den Fußspitzen einherhüpften und bei dem ersten Bückling, den sie machten, ausglitten und übereinander herfielen; aber auch bei den lächerlichsten Zufällen lachte die Prinzessin Liebseelchen nicht, sondern bedauerte immer nur die armen Leute, mit welchen der König einen so unschicklichen Spaß trieb, worüber dieser sehr ergrimmt den Balkon verließ und ihr sagte, sie sei ein recht widerwärtiger Sauertopf.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.10.kqgd.0">Liebseelchen aber blieb allein auf dem Balkon sitzen und fiel in eine tiefe Traurigkeit über den Unwillen ihres Vaters, denn sie konnte gar nicht begreifen, wie es nur möglich sei, über etwas zu lachen, wodurch andere Leute in Schaden oder Spott kämen. Indem sie so über den Ölplatz hinsah, von welchem sich die Neujahrsgratulanten, auf allerlei Art verunglückt, beinahe schon alle zurückgezogen hatten, kam auf einmal eine sehr kuriose Figur anspaziert, die ihre ganze Aufmerksamheit auf sich zog: nämlich eine sehr alte französische Mademoiselle, welche in der Residenz der Schrecken aller Kinder war, die bei ihr in die Schule gingen, und die der armen Prinzessin mit ihren verdrehten und verzwickten Sitten und ihren vielen Regeln des guten Betragens und feinen Akzentes, die sie durch ihre spitze Nase hervortrompetete, auch manche qualvolle Stunde gemacht hatte, da sie früher Unterricht bei ihr hatte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.11.kqgd.0">Diese französische Närrin ließ sich von zwei ebenso lächerlichen französischen Tanzmeistern auf einem vergoldeten Tragstuhl gegen das Schloß hintragen. Sie war nach der lächerlichsten neuen Mode gekleidet und eingeschnürt wie eine Spindel, dazu geschminkt rot und weiß und blau wie eine französische Nationalkokarde; schnitt Gesichter rechts und links, und drehte sich wie ein Ohrwurm, der in den Honigtopf gefallen. Die beiden Tanzmeister machten die lächerlichsten Sprünge mit ihr <pb n="299" xml:id="tg565.3.11.1.kqgd.0"/>
+durch das Öl, aber sie fielen nicht; denn wenn sie auch ein wenig stolperten, so machten sie gleich einen Entrechat hinterdrein, daß es immer aussah, als wäre es lauter Kunst.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.12.kqgd.0">Da diese lächerliche Gesellschaft mitten auf dem Platze angekommen war, wendete sich die alte Hexe – denn das war sie – gegen die Prinzessin und begann einen langen französischen Neujahrswunsch mit den affektiertesten, Stellungen von dem Tragstuhl herab zu deklamieren, wo immer das erste Wort »<hi rend="italic" xml:id="tg565.3.12.1.kqgd.0">amour</hi>,« das zweite »<hi rend="italic" xml:id="tg565.3.12.2.kqgd.0">plaisir,</hi>« das dritte »<hi rend="italic" xml:id="tg565.3.12.3.kqgd.0">le cœur,</hi>« das vierte »<hi rend="italic" xml:id="tg565.3.12.4.kqgd.0">souvenir,</hi>« das fünfte »<hi rend="italic" xml:id="tg565.3.12.5.kqgd.0">bonheur,</hi>« das sechste »<hi rend="italic" xml:id="tg565.3.12.6.kqgd.0">douceur</hi>« war, und als sie recht in die Furie der Begeisterung kam, trat die alte Zieräffin auf den Sitz des Tragstuhls und machte eine Stellung, als ob sie fliegen wollte, und sagte:</p>
+                              <lb xml:id="tg565.3.13.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.14.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.14.1.kqgd.0">Ce sont les vœux que tracent</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.15.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.15.1.kqgd.0">Les Amours et les Graces</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.16.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.16.1.kqgd.0">Avec le griffle de l'histoire</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.17.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.17.1.kqgd.0">Dans le marbre de la mémoire:</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.18.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.18.1.kqgd.0">Acceptez, princesse, les offrandes</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.19.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.19.1.kqgd.0">De votre très humble servante,</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.20.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.20.1.kqgd.0">Mademoiselle</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.21.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.21.1.kqgd.0">Zephise</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.22.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.22.1.kqgd.0">La marquise</hi>
+                                 </l>
+                                 <l xml:id="tg565.3.23.kqgd.0">
+                                    <hi rend="italic" xml:id="tg565.3.23.1.kqgd.0">De Pimpernelle.</hi>
+                                 </l>
+                              </lg>
+                              <lb xml:id="tg565.3.24.kqgd.0"/>
+                              <p xml:id="tg565.3.25.kqgd.0">Aber perdauz! da flog sie vom Tragstuhl herunter in das Ölbad, und die beiden Herrn Tanzmeister fielen mit über den Haufen, und es war, als ob der Prinzessin alle Schnürbänder zerplatzten; denn »hi, hi, hi« und »ha, ha, ha« fing sie so entsetzlich an zu lachen, daß sie sich den Leib mit beiden Händen halten mußte, und »hi, hi, hi« und »ha, ha, ha« ging es immerfort: dazu bliesen hundert Trompeter und wirbelten fünfzig Pauker und wurden hundert Kanonenschüsse gelöst und mit allen Glocken geläutet; denn der König hatte alles dies vorausbestellt, wenn die Prinzessin lachen sollte; und da er hinter einem Fensterladen zugesehen, hatte er gleich bei dem Gelächter Liebseelchens eine Pistole zum Fenster hinaus losgeschossen, welches das Zeichen war, daß die Festivitäten losgehen sollten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.26.kqgd.0">Indessen waren viele Menschen herzugelaufen und lachten auch über die Strafe, welche die unvernünftige Mademoiselle <pb n="300" xml:id="tg565.3.26.1.kqgd.0"/>
+Pimpernelle erlebt hatte. Die hatte sich endlich ohne alle Grazie, so beschmiert sie war, aufgemacht, und vor Zorn glühend machte sie zwei Fäuste gegen die lachende Liebseelchen und schrie:</p>
+                              <lb xml:id="tg565.3.27.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.28.kqgd.0">Du lachst über mich, Liebseelchen!</l>
+                                 <l xml:id="tg565.3.29.kqgd.0">Du sollst weinen über mich, Trübseelchen!</l>
+                                 <l xml:id="tg565.3.30.kqgd.0">Denn keinen andern Mann sollst du haben</l>
+                                 <l xml:id="tg565.3.31.kqgd.0">Als einen, der ist schon längst begraben:</l>
+                                 <l xml:id="tg565.3.32.kqgd.0">Aus dem kalten Grab von Marmorsteinen</l>
+                                 <l xml:id="tg565.3.33.kqgd.0">Sollst du den Prinzen Röhropp herausweinen!</l>
+                                 <l xml:id="tg565.3.34.kqgd.0">Diesen Fluch gibt dir die Mademoiselle</l>
+                                 <l xml:id="tg565.3.35.kqgd.0">Zephise Marquise de Pimpernelle.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.36.kqgd.0"/>
+                              <p xml:id="tg565.3.37.kqgd.0">Und als sie diese Worte in heftigem Zorne ausgesprochen, fing sie an, an allen Orten wie ein Feuerwerk zu brennen; die zwei Tanzmeister drehten sich auch wie Feuerräder; sie knisterten und knasterten, und mit Zisch und Zasch und Rakedakdakdak fuhr die ganze Gesellschaft wie Raketen in die Luft und verschwand über der Stadt mit einem Pech- und Schwefelgeruch. Eine alte Schnürbrust, eine Perücke und ein paar Fischbeine fielen an die Erde; sonst sah man nichts mehr.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.38.kqgd.0">Der König begab sich nun voller Freuden zu Liebseelchen, um ihr für ihr Lachen zu danken. Er fand in ihrem Vorzimmer einen jungen Pagen. Der warf sich ihm zu Füßen und sprach: »Gnädiger König! wollt mir eine Belohnung geben, denn ich bin eigentlich schuld an dem Gelächter. Da die abscheuliche Pimpernelle so lächerlich auf dem Tragstuhl stand, reichte ich den beiden Tanzmeistern, welche den Tragstuhl hielten, eine Prise vom feinsten Schnupftabak, und weil sie mit beiden Händen die Arme des Tragstuhls hielten, mußte ich ihnen die Prise in die Nase reiben, worauf sie so heftig niesten, daß die Pimpernelle durch die Erschütterung samt ihnen über den Haufen fiel.« Der König lachte hierüber nochmals von Herzen und machte ihm eine goldene Schnupftabaksdose mit seinem Gemälde in Brillanten gefaßt zum Geschenke, mit dem Befehl, daß er sie an dem Strumpfband der Pimpernelle, das man auf dem Platz gefunden, an dem Hals tragen solle. Hierauf gab er ihm noch den Auftrag, daß heute abend die ganze Stadt solle erleuchtet sein, und ging dann in die Stube der Liebseelchen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.39.kqgd.0">
+                                 <pb n="301" xml:id="tg565.3.39.1.kqgd.0"/>
+Aber wie erstaunte der König, da er diese nichts weniger als lachend antraf; sie war vielmehr trauriger als je, und wiederholte immer den Fluch der Pimpernelle:</p>
+                              <lb xml:id="tg565.3.40.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.41.kqgd.0">Aus dem kalten Grab von Marmorsteinen</l>
+                                 <l xml:id="tg565.3.42.kqgd.0">Sollst du den Prinzen Röhropp herausweinen.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.43.kqgd.0"/>
+                              <p xml:id="tg565.3.44.kqgd.0">Der König gab sich alle Mühe, ihr dies auszureden, aber alles war vergebens, so daß er sie endlich verließ, um nähere Anstalten zu der Beleuchtung zu treffen, in der Hoffnung, sie werde vielleicht heute nacht die Grillen verschlafen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.45.kqgd.0">Die Sonne ging unter, die Nacht kam heran, und viele tausend Lampen brannten an allen Fenstern der Stadt. Alle Gassen waren voll lustiger, lachender Leute; besonders waren viele junge Fräuleins, welche die garstige Mademoiselle Zephise Marquise Pimpernelle sehr gequält hatte, voller Freude und sangen durch alle Straßen:</p>
+                              <lb xml:id="tg565.3.46.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.47.kqgd.0">Die Mademoiselle</l>
+                                 <l xml:id="tg565.3.48.kqgd.0">Zephise Marquise</l>
+                                 <l xml:id="tg565.3.49.kqgd.0">De Pimpernelle</l>
+                                 <l xml:id="tg565.3.50.kqgd.0">Fuhr in die Hölle.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.51.kqgd.0"/>
+                              <p xml:id="tg565.3.52.kqgd.0">Und so ging der Zug nach der Wohnung der alten Zauberin. Man brach die Türen ein und warf alle ihre Perücken und Schnürbrüste und Schminktöpfe und Fischbeine und allen Lumpenkram zum Fenster hinaus, machte ein großes Feuer daraus und tanzte und sprang herum; dabei stand der lustige König und lachte so herzlich, daß er ganz seine Tochter Liebseelchen vergaß.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.53.kqgd.0">Während dieser allgemeinen Freude hatte Liebseelchen etwas ganz anderes vor. Der Gedanke an den Prinzen Röhropp, den sie aus dem Grab weinen sollte, hatte ihre Seele so eingenommen, daß sie keine Ruhe und keine Rast mehr hatte. Sie machte sich ein Bündel Kleider zusammen, legte alle ihre Juwelen hinein, schlich sich in den Stall, packte das Bündelchen auf ihr kleines weißes Pferdchen, setzte sich darauf und ritt hinten durch den Schloßgarten zur Stadt hinaus. Kein Mensch bemerkte sie, denn alle Dienerschaft des Schlosses lief in der Stadt herum, die Beleuchtung zu sehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.54.kqgd.0">
+                                 <pb n="302" xml:id="tg565.3.54.1.kqgd.0"/>
+Bald verlor sie die lärmende, flimmernde Stadt aus den Augen und ritt in einen tiefen Wald hinein, wo sie in der Dunkelheit der Nacht ihrer Trauer recht nachhängen konnte. Auf einmal kam sie mit ihrem Pferdchen an einen reißenden Bach, an welchem drei alte Mütterchen saßen. Die waren steinalt, krumm gebückt und stützten sich auf Krücken und sprachen:</p>
+                              <lb xml:id="tg565.3.55.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.56.kqgd.0">Da stehn wir mit der Krücke</l>
+                                 <l xml:id="tg565.3.57.kqgd.0">Am Wasser ohne Brücke,</l>
+                                 <l xml:id="tg565.3.58.kqgd.0">Wir tragen wohl hundert Jahre schwer,</l>
+                                 <l xml:id="tg565.3.59.kqgd.0">Ach! wer nur erst überm Wasser wär.</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.60.kqgd.0"/>
+                                 <l xml:id="tg565.3.61.kqgd.0">Da sprach Liebseelchen zu ihnen:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.62.kqgd.0"/>
+                                 <l xml:id="tg565.3.63.kqgd.0">Meinem Schimmelchen sein Rücken,</l>
+                                 <l xml:id="tg565.3.64.kqgd.0">Der ist so gut wie Brücken,</l>
+                                 <l xml:id="tg565.3.65.kqgd.0">Sitzt hinter mich hübsch nach der Reih,</l>
+                                 <l xml:id="tg565.3.66.kqgd.0">Hinüber trag ich euch alle drei.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.67.kqgd.0"/>
+                              <p xml:id="tg565.3.68.kqgd.0">Da setzte sich das eine alte Mütterchen hinter Liebseelchen, und sie trieb ihr Pferdchen ins Wasser, schwamm hinüber und setzte die Alte ans Land, schwamm wieder zurück und holte die zweite und zuletzt auch die dritte Alte glücklich hinüber.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.69.kqgd.0">Als sie alle drüben waren, dankten sie Liebseelchen sehr, und da sie sagten, daß sie noch ein ziemlich Stückchen Wegs an den Ort ihrer Bestimmung hätten, setzte Liebseelchen sie immer abwechselnd auf ihr Pferdchen, damit sie nicht so müde würden. Unterwegs plauderten die Alten allerlei; aber Liebseelchen war immer still und dachte an den Prinzen Röhropp in den Marmorsteinen, den sie sollte aus dem Grabe herausweinen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.70.kqgd.0">Auf einmal kamen sie an einen freien Platz im Wald; da schien der Mond so hell wie Silber, und in der Mitte stand ein großer Nußbaum voll Nüsse, die klinkerten und klankerten vom Winde bewegt wie goldene Glocken. »Nun,« sagten die Alten, »sind wir da:</p>
+                              <lb xml:id="tg565.3.71.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.72.kqgd.0">Wir Alten mit den Krücken,</l>
+                                 <l xml:id="tg565.3.73.kqgd.0">Am Wasser ohne Brücken,</l>
+                                 <l xml:id="tg565.3.74.kqgd.0">Kamen auf Schimmels Rücken,</l>
+                                 <l xml:id="tg565.3.75.kqgd.0">Wo wir jetzt Nüsse pflücken.</l>
+                                 <l xml:id="tg565.3.76.kqgd.0">Das Klettern fällt uns gar zu schwer,</l>
+                                 <l xml:id="tg565.3.77.kqgd.0">Ach! wenn nur eine Leiter da wär!«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.78.kqgd.0"/>
+                                 <l xml:id="tg565.3.79.kqgd.0">
+                                    <pb n="303" xml:id="tg565.3.79.1.kqgd.0"/>
+Da sprach Liebseelchen:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.80.kqgd.0"/>
+                                 <l xml:id="tg565.3.81.kqgd.0">Ich steig auf Schimmelchens Rücken</l>
+                                 <l xml:id="tg565.3.82.kqgd.0">Und schlag die Nüsse mit den Krücken,</l>
+                                 <l xml:id="tg565.3.83.kqgd.0">Das ist so gut wie Pflücken;</l>
+                                 <l xml:id="tg565.3.84.kqgd.0">Klinkele, klankele in dem Wind,</l>
+                                 <l xml:id="tg565.3.85.kqgd.0">Nun hebt die Nüsse auf geschwind.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.86.kqgd.0"/>
+                              <p xml:id="tg565.3.87.kqgd.0">Und das ging prächtig. Liebseelchen stellte sich auf ihre Schimmel und schlug mit einer Krücke die Nüsse herunter; aber die Alten waren noch nicht zufrieden und sangen:</p>
+                              <lb xml:id="tg565.3.88.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.89.kqgd.0">Wir Alten mit den Krücken,</l>
+                                 <l xml:id="tg565.3.90.kqgd.0">Wir haben müde Rücken</l>
+                                 <l xml:id="tg565.3.91.kqgd.0">Und können uns nicht bücken,</l>
+                                 <l xml:id="tg565.3.92.kqgd.0">Das Nüsselesen fällt gar zu schwer,</l>
+                                 <l xml:id="tg565.3.93.kqgd.0">Ach! wenn nur alles im Sack drinne wär.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.94.kqgd.0"/>
+                              <p xml:id="tg565.3.95.kqgd.0">Aber Liebseelchen war unermüdet gefällig und sammelte den Alten alle Nüsse in den Sack, so daß sie endlich sehr müde ward, und da die alten Mütterchen sie seufzen hörten, sagten sie: »Genug, mein Kind! genug, du seufzest so schwer, du bist so müd.« – »Ach!« sagte Liebseelchen:</p>
+                              <lb xml:id="tg565.3.96.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.97.kqgd.0">Ich seufze nicht aus Müdigkeit,</l>
+                                 <l xml:id="tg565.3.98.kqgd.0">Ich seufze aus großem Herzeleid,</l>
+                                 <l xml:id="tg565.3.99.kqgd.0">Prinz Röhropp liegt tot in Marmorsteinen,</l>
+                                 <l xml:id="tg565.3.100.kqgd.0">Den muß ich aus dem Grab herausweinen.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.101.kqgd.0"/>
+                              <p xml:id="tg565.3.102.kqgd.0">»O weh! o weh!« sagten da die alten Mütterchen, »das wird viel Tränen kosten: da wirst du viel weinen müssen, armes Kind!</p>
+                              <lb xml:id="tg565.3.103.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.104.kqgd.0">Doch fasse Mut,</l>
+                                 <l xml:id="tg565.3.105.kqgd.0">Wir sind dir gut,</l>
+                                 <l xml:id="tg565.3.106.kqgd.0">Wir wollen dir hier schenken</l>
+                                 <l xml:id="tg565.3.107.kqgd.0">Drei Nüsse zum Angedenken.</l>
+                                 <l xml:id="tg565.3.108.kqgd.0">Kommst du in Not und große Pein:</l>
+                                 <l xml:id="tg565.3.109.kqgd.0">So knacke eine Wünschelnuß,</l>
+                                 <l xml:id="tg565.3.110.kqgd.0">Dann wird dir gleich geholfen sein</l>
+                                 <l xml:id="tg565.3.111.kqgd.0">Zu Lust und Freud und Überfluß.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.112.kqgd.0"/>
+                                 <l xml:id="tg565.3.113.kqgd.0">Da gab ihr jede eine Nuß, die knüpfte sie in ihre Schürze und stieg zu Pferd, und die Alten riefen:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.114.kqgd.0"/>
+                                 <l xml:id="tg565.3.115.kqgd.0">Leb wohl! leb wohl! gradaus,</l>
+                                 <l xml:id="tg565.3.116.kqgd.0">So kömmst du aus dem Wald hinaus</l>
+                              </lg>
+                              <lb xml:id="tg565.3.117.kqgd.0"/>
+                              <p xml:id="tg565.3.118.kqgd.0">
+                                 <pb n="304" xml:id="tg565.3.118.1.kqgd.0"/>
+Und nach diesen Worten verschwanden die Alten in der Luft, und der Schimmel flog mit Liebseelchen durch die Büsche, daß ihr die Haare sausten und die Nüsse in der Schürze klingelten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.119.kqgd.0">Schon war sie über Berg und Tal gekommen, da hörte der Schimmel auf zu galoppieren und trabte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.120.kqgd.0">Schon war sie durch den jungen Wald und über die Moosheide gekommen, und der Himmel war voll Sterne, und der Mond ging unter. Da hörte der Schimmel auf so stark zu traben und ging einen starken Schritt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.121.kqgd.0">Schon war der Himmel weiß gegen Morgen, die Hasen gingen schon in die Kohlfelder nach ihrem Morgenbrot; Hähne krähten in der Ferne, und die Haare Liebseelchens und die Mähne ihres Schimmelchens waren naß vom Morgentau. Da ging der Schimmel einen sehr langsamen Schritt, und Liebseelchen matt und müde nickte mit dem Kopfe und schlief ein und wußte nichts mehr von sich; aber der Schimmel ging seinen leisen Schritt fort, und fraß hie und da ein bißchen Gras, das am Rande der Gartenfelder stand, durch welche bereits der Weg ging.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.122.kqgd.0">Auf einmal stand der Schimmel still. Wasser spritzte Liebseelchen ins Gesicht; sie wachte auf, rieb sich die Augen; da sah sie, daß ihr Roß aus dem Becken eines Springbrunnens trank, dessen Strahl sie benetzt hatte. Dieser Springbrunnen stand auf einem großen freien Platz, an der einen Seite eines marmorsteinernen Grabmals, auf welchem ein geharnischter Ritter mit gefalteten Händen lag, und zur andern Seite des Grabmales sprang noch ein Springbrunnen; auf dem Grabmale aber sang eine Schwalbe ihr Morgenlied.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.123.kqgd.0">Das weiße Grabmal schimmerte rötlich von der Morgensonne, welche in der Ferne über den Türmen einer großen Stadt aufzog. Der Schimmel schlürfte ruhig das Wasser ein und schüttelte sich. Da kam Liebseelchen erst recht zu sich, sprang vom Sattel und sagte: »O du lieber Himmel! Das ist gewiß</p>
+                              <lb xml:id="tg565.3.124.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.125.kqgd.0">Prinz Röhropp in den Marmorsteinen</l>
+                                 <l xml:id="tg565.3.126.kqgd.0">Dem ich aus seinem Grab soll weinen.«</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.127.kqgd.0"/>
+                                 <l xml:id="tg565.3.128.kqgd.0">Da ging die Sonne in die Höhe, und sie las auf der einen Seite des Grabmals folgende Inschrift:</l>
+                              </lg>
+                              <lg>
+                                 <lb xml:id="tg565.3.129.kqgd.0"/>
+                                 <pb n="305" xml:id="tg565.3.130.kqgd.0"/>
+                                 <l xml:id="tg565.3.131.kqgd.0">Brunnen! ihr mögt ewig weinen,</l>
+                                 <l xml:id="tg565.3.132.kqgd.0">Strudelnd, sprudelnd ab und auf,</l>
+                                 <l xml:id="tg565.3.133.kqgd.0">Röhropp in den Marmelsteinen</l>
+                                 <l xml:id="tg565.3.134.kqgd.0">Wacht nicht auf von eurem Lauf;</l>
+                                 <l xml:id="tg565.3.135.kqgd.0">Nimmer, nimmer ists genug!</l>
+                                 <l xml:id="tg565.3.136.kqgd.0">Wenn der schwarze Tränenkrug,</l>
+                                 <l xml:id="tg565.3.137.kqgd.0">Der hier hänget an dem Grabe,</l>
+                                 <l xml:id="tg565.3.138.kqgd.0">Erst voll Tränen überquillt:</l>
+                                 <l xml:id="tg565.3.139.kqgd.0">Dann erwacht das Marmorbild</l>
+                                 <l xml:id="tg565.3.140.kqgd.0">Und reicht für die Tränengabe</l>
+                                 <l xml:id="tg565.3.141.kqgd.0">Kron und Szepter, Leut und Land,</l>
+                                 <l xml:id="tg565.3.142.kqgd.0">Lieb und Freundschaft, Herz und Hand</l>
+                                 <l xml:id="tg565.3.143.kqgd.0">Dann der frommen Weinerin</l>
+                                 <l xml:id="tg565.3.144.kqgd.0">Gerne hin.</l>
+                                 <l xml:id="tg565.3.145.kqgd.0">Also heißt der Zauberspruch</l>
+                                 <l xml:id="tg565.3.146.kqgd.0">In dem alten Wunderbuch.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.147.kqgd.0"/>
+                              <p xml:id="tg565.3.148.kqgd.0">Und neben dieser Inschrift hing ein großer Tränenkrug, in welchen wohl zwei Maß gingen. Liebseelchen nahm diesen Krug herab, setzte sich auf die Bank an dem einen Springbrunnen hin, nahm den Krug zwischen die Kniee, hängte das Haupt über ihn nieder, und es kamen ihr so traurige Gedanken, daß ihr die Augen wie zwei Kristallquellen von Tränen überflossen. So saß sie da in bitterer Wehmut und weinte. Ihr Pferdchen graste ringsherum und kam manchmal zu trinken zu ihr an den Brunnen. Und die Sonne stieg, und das Grabmal warf einen Schatten, und der Schatten ward kleiner und verschwand; und die Sonne stand hoch oben, es war Mittag; und der Schatten fiel nach der andern Seite und ward groß und größer, es ward Abend, die Sonne sank; es ward Nacht, die Sterne kamen und der Mond; und der Morgen kam und fand Liebseelchen immer weinend.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.149.kqgd.0">Der zweite Tag verging und die zweite Nacht; da war das arme Liebseelchen so müde und so abgeweint, daß ihr alle Gedanken vergingen und ihr der Kopf auf den Rand des Brunnens sank. Sie schlief ein, und der Krug war erst dreiviertel voll; da kam das Pferdchen zu ihr herangelaufen und schaute sie an, und da es seine liebe Prinzessin so blaß und so verweint sah ward es gar betrübt, und es flossen dem treuen Tier auch große Tränen aus den Augen und in das Gefäß nieder, so daß in wenig Minuten der Krug bis auf einen Finger breit voll war.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.150.kqgd.0">
+                                 <pb n="306" xml:id="tg565.3.150.1.kqgd.0"/>
+Aber nun kam eine häßliche, böse, schwarze Mohrin mit einem Eimer an den Brunnen, Wasser zu holen, und da der Schimmel nie Mohren gesehen hatte, erschrak er und trabte weg in die Ferne. Diese Mohrin kannte sehr wohl den Zauberspruch, der an dem Brunnen stand, und da sie sah, daß Liebseelchen den Krug beinahe vollgeweint hatte, nahm sie ihr denselben leise, leise zwischen den Knieen weg, holte eine Zwiebel aus der Tasche und rieb sich die Augen damit, worüber ihr die Tränen so reichlich niederflossen, daß der Krug voll wurde. Als sie den letzten Tropfen hineinweinte, fing der Krug an überzufließen. Das Steinbild des Prinzen Röhropp rührte sich, rieb sich die Augen, streckte sich, gähnte wie einer, der vom Schlaf erwacht, richtete sich auf, stieg herab und umarmte die garstige Rußika, so hieß die Mohrin, pochte dann mit seinem Schwerte an das Grab. Das tat sich auf; da kamen allerlei Kammerdiener und Hofdamen heraus und viele Pagen; die legten der Mohrin einen goldenen Mantel um und setzten ihr eine Krone auf; dann kamen auch allerlei Musikanten heraus, und alle ordneten sich in einen Zug, und die Musikanten zogen voraus und spielten, und sie zogen wie eine Hochzeit nach der Stadt, welche mit allen Glocken zu läuten anfing, um ihren entzauberten Prinzen nebst seiner Braut zu empfangen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.151.kqgd.0">Sie waren schon ein Stückchen Wegs weggezogen, als das Pferdchen zu Liebseelchen herankam und so heftig zu wiehern begann, daß sie erwachte. Da sah sie dem Zuge nach und begriff bald ihr Unglück. Sie rang die Hände und raufte die Haare und weinte genug, um den Krug nochmals zu füllen; aber verschlafen war verschlafen! Da rasselten, wie sie sich die Augen trocknen wollte, die goldenen Wünschelnüsse der drei alten Mütterchen in ihrer Schürze, und sie gedachte des Spruches der Alten, daß die Nüsse ihr in der Not helfen sollten.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.152.kqgd.0">»Wohlan! ich will mein Heil versuchen,« sprach sie – setzte sich auf das Schimmelchen und ritt ruhig nach der Stadt. In der Stadt fand sie alles voll Jubel und Freude, daß der Prinz Röhropp von seinem Zauberschlaf erlöst sei, und sie kaufte sich seinem Palaste gegenüber, worin er mit der bösen Mohrin wohnte, ein prächtiges Haus für die Edelsteine, die sie aus Schattenthalien mitgebracht, mietete sich viele hübsche und fromme Mägde, <pb n="307" xml:id="tg565.3.152.1.kqgd.0"/>
+welche sie alle in weiße Kleider mit roten Bändern geschmückt kleidete; sie selbst aber ging immer schwarz, zum Zeichen ihrer Trauer, nur trug sie oft eine grüne Schärpe, zum Zeichen, daß sie noch hoffe, glücklich zu werden. Ihr gutes Schimmelchen hatte einen marmornen Stall und eine Krippe von Elfenbein, und sie fütterte und tränkte es mit ihren eigenen Händen. Ihren Dienerinnen hatte sie lauter schwarze Pferde gekauft und ritt manchmal mit ihnen, zur großen Verwunderung der Stadt, vor ihnen auf ihrem Schimmelchen spazieren. Wenn sie zu Hause war, saß sie meist auf einem kleinen Turm und sah mit großer Betrübnis in den Schloßgarten gegenüber, wie Prinz Röhropp unermüdlich mit tausend Gefälligkeiten um die falsche schwarze Mohrin beschäftigt war, gleich einer Fledermaus, die um die Nacht herumfliegt. Aber es sollte bald anders werden; er sollte sich bald um Liebseelchen bemühen wie ein Adler, der um die Sonne fliegt.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.153.kqgd.0">Einstens morgens, da Prinz Röhropp zu der schwarzen Rußika kam, hatte diese eine goldene Wiege neben sich stehen und in ihrem Arm ein mit Purpurwindeln bedecktes Päckchen. »Ach!« rief Prinz Röhropp aus, »hätte der Himmel meine Wünsche erhört und mir ein kleines liebes Kindchen geschenkt! O zeige mir es, liebste Rußika!« – »Ja,« erwiderte diese,</p>
+                              <lb xml:id="tg565.3.154.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.155.kqgd.0">»Ein schönes Kind,</l>
+                                 <l xml:id="tg565.3.156.kqgd.0">Doch zeig ichs nicht,</l>
+                                 <l xml:id="tg565.3.157.kqgd.0">Es wird sonst blind</l>
+                                 <l xml:id="tg565.3.158.kqgd.0">Vom Sonnenlicht.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.159.kqgd.0"/>
+                              <p xml:id="tg565.3.160.kqgd.0">Gedulden Sie sich, mein Prinz, Sie werden es schon früh genug sehen.« Hierüber ward der Prinz betrübt und sah zum Fenster hinaus, und da ritt Liebseelchen gerade auf ihrem Schimmelchen vor ihren schönen Dienerinnen über den Platz.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.161.kqgd.0">Da der Prinz sie sah, grüßte er sie; sie erwiderte den Gruß und ließ ihr Pferdchen so schön springen und tanzen, daß der Prinz vor Freuden ausrief: »Ach, welche wunderschöne Prinzessin! die ist ja, als wenn sie gerade aus dem Himmel herabgekommen wäre!« – Da Rußika dies hörte, sagte sie voll Zorn:</p>
+                              <lb xml:id="tg565.3.162.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.163.kqgd.0">Prinz Röhropp du!</l>
+                                 <l xml:id="tg565.3.164.kqgd.0">Machs Fenster zu,</l>
+                                 <pb n="308" xml:id="tg565.3.165.kqgd.0"/>
+                                 <l xml:id="tg565.3.166.kqgd.0">Oder ich bringe dir große Not,</l>
+                                 <l xml:id="tg565.3.167.kqgd.0">Steche mit der Nadel das Prinzchen tot.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.168.kqgd.0"/>
+                              <p xml:id="tg565.3.169.kqgd.0">Da erschrak Röhropp sehr, machte das Fenster zu und sah nicht mehr hinaus.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.170.kqgd.0">Liebseelchen war sehr erfreut gewesen über den freundlichen Gruß Röhropps. Aber das war eine kurze Freude. Sie lauerte wohl Tage lang am Fenster, er ließ sich wegen der Drohung der Mohrin nicht mehr sehen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.171.kqgd.0">Als Liebseelchen einstens in traurigen Gedanken am Fenster saß, erblickte sie gegenüber die böse Rußika mit ihrem bedeckten Wickelkind auch am Fenster sitzen. Da ward sie so betrübt, daß sie aus großer Not und Pein eine von den goldenen Wünschelnüssen der alten Mütterchen aufbiß, und siehe! ein wunderschöner, bunter, kleiner Papagei flog heraus und um Liebseelchen herum und gaukelte wie ein Äffchen und plauderte und sang allerlei allerliebstes Zeug durcheinander.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.172.kqgd.0">Rußika hatte kaum den Vogel gesehen, als sie rief: »Röhropp! Röhropp!« und da der Prinz ihr nahte, zeigte sie auf den Vogel und sagte:</p>
+                              <lb xml:id="tg565.3.173.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.174.kqgd.0">Prinz Röhropp, gleich</l>
+                                 <l xml:id="tg565.3.175.kqgd.0">Papperle mir reich!</l>
+                                 <l xml:id="tg565.3.176.kqgd.0">Oder ich bringe dir große Not,</l>
+                                 <l xml:id="tg565.3.177.kqgd.0">Steche mit der Nadel das Prinzchen tot.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.178.kqgd.0"/>
+                              <p xml:id="tg565.3.179.kqgd.0">Was sollte der arme Prinz anfangen? Er mußte gleich einen Edelknaben hinüber zu Liebseelchen schicken und sie fragen lassen, ob sie ihm das schöne Papperle nicht verkaufen wolle. Liebseelchen erwiderte dem Boten, sie sei keine Krämerin, sie habe nie etwas verkauft; aber sie mache sich eine Ehre daraus, dem Prinzen das Papperle zu schenken, und so überreichte sie dem Edelknaben den Vogel, der ihn hinüber zur garstigen Rußika brachte.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.180.kqgd.0">Vier Tage darauf saßen Liebseelchen und Rußika wieder am Fenster, und Liebseelchen knackte die zweite Wünschelnuß auf. Aus der kam eine schöne goldene Henne mit zwölf goldenen Küchelchen, welche um sie herum pickten und piepten. Die Henne gluckte so süß wie eine Flöte und nahm sie unter die Flügel, und das war so wunderlieblich anzusehen, daß Rußika <pb n="309" xml:id="tg565.3.180.1.kqgd.0"/>
+die kleine goldene Brut kaum erblickt hatte, als sie rief: »Röhropp! Röhropp!« Der Prinz kam. Die Mohrin zeigte hinüber und sagte:</p>
+                              <lb xml:id="tg565.3.181.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.182.kqgd.0">Prinz Röhropp, gleich</l>
+                                 <l xml:id="tg565.3.183.kqgd.0">Goldglucke mir reich,</l>
+                                 <l xml:id="tg565.3.184.kqgd.0">Oder ich bring dir große Not,</l>
+                                 <l xml:id="tg565.3.185.kqgd.0">Steche mit dem Messer das Prinzchen tot.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.186.kqgd.0"/>
+                              <p xml:id="tg565.3.187.kqgd.0">Röhropp kannte die zornige Gemütsart der Rußika; er konnte nicht anders, er schickte abermals den Edelknaben hinüber und ließ tausendmal um Entschuldigung bitten, daß er so unglücklich sei, um die Goldglucke bitten zu müssen; und Liebseelchen gab die Goldglucke und die zwölf Küchlein hin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.188.kqgd.0">Vier Tage gingen abermals vorbei. Liebseelchen saß wieder am Fenster, und gegenüber die böse Mohrin. Da knackte Liebseelchen die dritte Nuß auf, und sieh! eine kleine wunderschöne Puppe kam heraus. Sie hatte einen kleinen Spinnrocken in der Hand und spann Gold, und drehte die Spindel so artig und leckte die Fingerchen so zierlich, daß es eine Freude war, sie anzusehen. Kaum hatte Rußika dieses Wunderpüppchen gesehen, als sie dem Prinzen rief, hinüberzeigte und sprach:</p>
+                              <lb xml:id="tg565.3.189.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.190.kqgd.0">Prinz Röhropp, gleich</l>
+                                 <l xml:id="tg565.3.191.kqgd.0">Spinnpuppe mir reich!</l>
+                                 <l xml:id="tg565.3.192.kqgd.0">Oder ich bringe dir große Not,</l>
+                                 <l xml:id="tg565.3.193.kqgd.0">Steche mit dem Messer das Prinzchen tot.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.194.kqgd.0"/>
+                              <p xml:id="tg565.3.195.kqgd.0">Röhropp war in Verzweiflung über die Unverschämtheit der Mohrin, die alles haben wollte, was sie sah; und weil er sich schämte, den Edelknaben wieder hinüberzuschicken, ging er selbst in die Wohnung seiner Nachbarin.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.196.kqgd.0">Liebseelchen empfing ihn mit der größten Freundlichkeit. Er brachte sein Anliegen mit großer Verlegenheit vor, und als Liebseelchen, um ihn länger bei sich zu sehen, allerlei Schwierigkeiten machte, ihm die Puppe zu schenken, sagte er endlich: »Verehrte Prinzessin! ach, ich will Ihnen ja gern alles, was mein ist, drum geben; schenken Sie mir nur die Puppe und retten Sie meinem Prinzchen das Leben. Bedenken Sie, daß ich der Rußika, welche die Puppe haben will, mein eigenes Leben verdanke. Sie ist es, die mich aus dem Grabe herausgeweint; aber ich muß <pb n="310" xml:id="tg565.3.196.1.kqgd.0"/>
+sagen, sie hat mir keinen Gefallen damit getan, ich wollte lieber ewig versteinert liegen geblieben sein, als daß ich jetzt so von ihr gequält und gepeinigt bin.« – Da Liebseelchen dies hörte, ward sie sehr traurig über den Betrug und die Undankbarkeit der Mohrin. Sie gab dem Prinzen Röhropp die Puppe mit Tränen und verschloß sich in ihre Kammer und weinte. Röhropp, nicht weniger betrübt als Liebseelchen, brachte die spinnende Puppe seiner bösen Mohrin. Diese nahm die Puppe auf den Arm und trieb sie immer an zu spinnen mit den Worten:</p>
+                              <lb xml:id="tg565.3.197.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.198.kqgd.0">Spinn, Puppe, spinn!</l>
+                                 <l xml:id="tg565.3.199.kqgd.0">Spinn ein königliches Kleid,</l>
+                                 <l xml:id="tg565.3.200.kqgd.0">Zwanzig Ellen lang und breit,</l>
+                                 <l xml:id="tg565.3.201.kqgd.0">Und wird dir der Faden brechen,</l>
+                                 <l xml:id="tg565.3.202.kqgd.0">Will ich dich mit Nadeln stechen;</l>
+                                 <l xml:id="tg565.3.203.kqgd.0">Spinn, Puppe, spinn!</l>
+                              </lg>
+                              <lb xml:id="tg565.3.204.kqgd.0"/>
+                              <p xml:id="tg565.3.205.kqgd.0">Da spann die kleine Puppe immer emsiger und emsiger. Da Rußika aber sie immer noch mehr antrieb und endlich eine Nadel hervorzog, guckte die kleine Puppe sie zornig an und sprach:</p>
+                              <lb xml:id="tg565.3.206.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.207.kqgd.0">Rußika, du treibsts zu toll.</l>
+                                 <l xml:id="tg565.3.208.kqgd.0">Wenn ich immer spinnen soll,</l>
+                                 <l xml:id="tg565.3.209.kqgd.0">Mußt du Märchen mir erzählen</l>
+                                 <l xml:id="tg565.3.210.kqgd.0">Und nicht schmähen stets und quälen;</l>
+                                 <l xml:id="tg565.3.211.kqgd.0">Willst du nicht in zehen Tagen</l>
+                                 <l xml:id="tg565.3.212.kqgd.0">Fünfzig Märchen her mir sagen,</l>
+                                 <l xml:id="tg565.3.213.kqgd.0">So will ich dem Röhropp klagen:</l>
+                                 <l xml:id="tg565.3.214.kqgd.0">Daß du ihn so grob belogen,</l>
+                                 <l xml:id="tg565.3.215.kqgd.0">Daß Liebseelchen du betrogen;</l>
+                                 <l xml:id="tg565.3.216.kqgd.0">Denn du stahlst den Tränenkrug,</l>
+                                 <l xml:id="tg565.3.217.kqgd.0">Merk dir das und werde klug!</l>
+                              </lg>
+                              <lb xml:id="tg565.3.218.kqgd.0"/>
+                              <p xml:id="tg565.3.219.kqgd.0">Als die Mohrin dies gehört hatte, ward es ihr angst und bang. Denn sie wußte auch gar keine einzige Geschichte als eine, die erzählte sie gleich:</p>
+                              <lb xml:id="tg565.3.220.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.221.kqgd.0">Es war einmal ein Mann,</l>
+                                 <l xml:id="tg565.3.222.kqgd.0">Der hieß Pumpan,</l>
+                                 <l xml:id="tg565.3.223.kqgd.0">Pumpan hieß er,</l>
+                                 <l xml:id="tg565.3.224.kqgd.0">An einen Stein stieß er</l>
+                                 <l xml:id="tg565.3.225.kqgd.0">Und fiel dann in ein Loch;</l>
+                                 <l xml:id="tg565.3.226.kqgd.0">Ich glaub, da liegt er noch.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.227.kqgd.0"/>
+                              <p xml:id="tg565.3.228.kqgd.0">
+                                 <pb n="311" xml:id="tg565.3.228.1.kqgd.0"/>
+Die Puppe aber sagte: dies Märchen sei sehr dumm, sie wolle etwas Besseres hören, und wenn nicht gleich eine ganze Spinnstube voll Erzählerinnen herbeigeschafft werde, so wolle sie gleich dem Prinzen Röhropp alles sagen; denn hören müsse sie oder schwätzen. Da wünschte Rußika die Puppe über alle Berge und rief: »Röhropp!« – Der kam und ward von ihr mit den Worten empfangen:</p>
+                              <lb xml:id="tg565.3.229.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.230.kqgd.0">Röhropp! such zehn Spinnerinnen,</l>
+                                 <l xml:id="tg565.3.231.kqgd.0">Die auf fünfzig Märchen sinnen,</l>
+                                 <l xml:id="tg565.3.232.kqgd.0">Sonst bring ich dir große Not,</l>
+                                 <l xml:id="tg565.3.233.kqgd.0">Steche mit dem Messer das Prinzchen tot.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.234.kqgd.0"/>
+                              <p xml:id="tg565.3.235.kqgd.0">Da ließ Prinz Röhropp voll Herzensangst in der Stadt und auf dem Lande durch Trompeter bekannt machen: alle alten Mütterchen, welche schöne Geschichten erzählen könnten, sollten sich morgen abend mit ihren Spinnrädern vor dem Schlosse einstellen. Da entstand eine Bewegung im ganzen Land. Aus allen Winkeln, hinter allen Öfen hervor, aus allen Bodenkammern, von allen Kirchentüren weg kamen die alten Mütterchen zusammengelaufen. Sie wuschen und trockneten und flickten und plätteten alle ihre schönsten Kleider. Da rasselten die Schlüssel, da knarrten die alten Kastendeckel, da knarrten die alten Schranktüren im ganzen Land, als sie ihren alten Putz hervorsuchten; dabei war ein Geplapper und Geschnatter und Gezische und ein Spektakel ohne Ende. Sie wuschen die alten Spinnräder und schmierten sie mit Öl und legten den schönsten Flachs um den Rocken, und so ging der Zug von allen Seiten auf die Stadt und auf den Schloßplatz zu.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.236.kqgd.0">Da ließ sie der Prinz Röhropp in einen großen Kreis sitzen mit ihren Spinnrädern, und die zehn, welche zuerst ihren Rocken abgesponnen, die sollten die Ehre haben, der Prinzessin Rußika Märchen zu erzählen. Kaum war dies bekannt gemacht, als alle im Kreise geschwind wie der Wind die Brillen auf der Nase hatten, und nun ging es an ein Schnurren von einigen hundert Rädern, und die zehn, welche zuerst fertig wurden, waren nach der Reihe: die lange Jungfer Elsefinger, das magere Fräulein Klarefädchen, die munter Frau Zipflore, die bucklichte Jungfer Radebärbl, die witzige Fräulein Spulendoris, die scharfsinnige <pb n="312" xml:id="tg565.3.236.1.kqgd.0"/>
+Frau Hecheltonie, die Jungfer Weifenseppel, die eifrige Fräulein Haspelrosa, die emsige Frau Spindelmarthe und die zierliche Jungfer Kunkelriecke.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.237.kqgd.0">Als diese zuerst fertig waren, wurden sie in das Schloß geführt, die andern aber, welche aus der Stadt waren, wurden reichlich beschenkt nach Hause geschickt; die aber vom Land wurden auch, reichlich beschenkt, auf mehrere Wurstwagen mit ihren Spinnrädern gesetzt und wieder nach Hause gefahren.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.238.kqgd.0">Die zehn Auserwählten mußten sich im Schloßgarten mit ihren Spinnrocken im Halbkreise setzen. In der Mitte saß die böse Mohrin Rußika; auf dem Schoße hatte sie das mit roten Windeln zugedeckte Prinzchen, auf dem Arm die goldspinnende Puppe, zur Linken saß der schöne Papagei auf einer Stange, zu ihren Füßen in einem silbernen Hühnerkorb aber die Goldglucke mit den zwölf Küchlein, und über die ganze Gesellschaft war ein Teppich gegen die Sonne gespannt; und damit die Gesellschaft recht vollkommen sei, hatten sich ein Klapperstorch, ein Gockelhahn und ein Pfau oben auf den Baldachin gesetzt; auch viele Vögel, Katzen, Kaninchen und Hündchen fanden sich ein, und einige Edelknaben trugen mancherlei Zuckerwerk Eingemachtes, getrocknete und frische Früchte umher, und auch süße Weine wurden im Überfluß gereicht, nach welcherlei Leckereien die alten Spinnerinnen sehr lecker sind und die Finger darnach lecken, was zum Spinnen sehr nötig ist.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.239.kqgd.0">Sie hatten sich alle erquickt und wollten soeben den nahen Springbrunnen, der wie ein Schulmeister solcher Gesellschaft ihnen unermüdet vorplauderte, plätscherte und murmelte, mit Geschwätz und Rädergeschnurr überlärmen, als Röhropp sich erhob und sprach: »Tugendbare, wehrlose Jungfern, ehegeborne lehnreiche Fräulein und hochachtzigbare und hochwürdige Makronen, des edlen Spinnordens kunkelhafte Spuldamen, Spindelfräulein und Rockenmägdlein!« Sie haben sich hier versammelt, und die große Begierde meiner teuern Rußika nach Märchen zu stillen. Wir werden also alle Abend hier beisammensitzen und der Reihe nach die schönsten Geschichten hören, welches meiner Rußika zum Trost, allen Zuhörern zum Vergnügen und der Erzählerin zur Ehre gereichen wird. Denn nichts ziert einen erfahrnen Menschen so sehr, als wenn er schöne Geschichten <pb n="313" xml:id="tg565.3.239.1.kqgd.0"/>
+zu erzählen weiß, Geschichten, bei deren Anhörung der Weber sein Schiff, der Advokat seine Feder, der Apotheker seinen Mörser, der Scherenschleifer sein Rad und Kinder ihr Butterbrot ruhen lassen, um besser zuhören zu können. Es ist die Neugierde meiner Rußika sehr wohl zu entschuldigen; denn es sprechen große Philosophen: »Wie uns an der Wiege gesungen wird, so werden wir wieder singen; und so erzählt denn nach der Reihe schöne Geschichten, damit mein schönes Prinzchen, welches so munter unter der Purpurdecke im Schoße Rußikas schnarchet, sich etwas Angenehmes träumen lasse.« Nach diesen Worten sagte die neugierige Frau Spindelmarthe, ob es denn nicht erlaubt sei, den kleinen allerliebsten Prinzen ein wenig zu betrachten, worauf Rußika befehlend antwortete:</p>
+                              <lb xml:id="tg565.3.240.kqgd.0"/>
+                              <lg>
+                                 <l xml:id="tg565.3.241.kqgd.0">Mein schönes Kind,</l>
+                                 <l xml:id="tg565.3.242.kqgd.0">Das zeig ich nicht,</l>
+                                 <l xml:id="tg565.3.243.kqgd.0">Es wird mir blind,</l>
+                                 <l xml:id="tg565.3.244.kqgd.0">Vom Sonnenlicht.</l>
+                              </lg>
+                              <lb xml:id="tg565.3.245.kqgd.0"/>
+                              <p xml:id="tg565.3.246.kqgd.0">Da versetzte Fräulein Spuhlendoris: »Die Sonne ist schon unter, es kann ihm gar nichts schaden.« Rußika aber machte ein so zorniges Gesicht, daß Prinz Röhropp sagte: »Meine Damen! beunruhigen Sie meine Rußika nicht! Habe ich doch das Glück selbst noch nicht gehabt, das liebe Prinzchen zu sehen. Lassen Sie uns zu unsern Erzählungen schreiten. Fünf Geschichtchen an jedem Abend, so sind wir in zehn Tagen mit den fünfzig Märchen fertig. Wohlan, Jungfer Elsefinger!«, welche ihren Rocken zuerst abgesponnen hatte, »Sie haben die erste Stimme.«</p>
+                              <p rend="zenoPLm4n0" xml:id="tg565.3.247.kqgd.0">Jungfer Elsefinger rückte sich zurecht, nahm eine frische Feige in den Mund, damit er ihr beim Erzählen und Fingerlecken nicht trocken werden solle. Da rückten sich alle in die Ordnung und horchten: die Frauen, die Spinnpuppe, das Papperle, die Goldglucke mit den Küchlein, der Pfau, der Storch, der Gockelhahn und die Turteltaube und die Katze und das Seidenhäschen, und das Hündchen und das Mäuschen schwiegen mausstill, der Brunnen plätscherte leiser, die Grillen hörten auf zu zirpen, die Käfer brummten nicht mehr, die Bienen schlüpften in die Lilienkelche und lauschten; aber leuchtende Johanniskäfer schwebten durch die warme Luft, und die Spindeln schnurrten angenehm um die Gesellschaft herum. Jungfer Elsefinger aber erzählte:</p>
+                              <pb n="314" xml:id="tg565.3.248.kqgd.0"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI></teiCorpus>
